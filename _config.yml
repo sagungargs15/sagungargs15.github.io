@@ -3,9 +3,7 @@ description: 3 x Founder/CTO (12yrs), 3 x EIR, Polyglot Programmer, ex-Deloitte.
 show_downloads: false
 google_analytics: UA-108144808-1
 theme: jekyll-theme-minimalist
-remote_theme: BDHU/minimalist@v0.1.0
 plugins:
-  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
