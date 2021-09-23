@@ -6,10 +6,17 @@ layout: default
 Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Manager, DevOps Expert. 
 
 - 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
-⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO
+- ⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO
 - 📝 I blog about AI/ML ![here](https://polymathai.substack.com/)
 - 💻 I am an Entrepreneur at heart ambidextrous with Product Managerial experience of building B2C Mobile Products and B2B Enterprise Products 
 - 💻 I have extensive experience as Entrepreneur in Residence & I am also winner of international Hackathons.
+
+## Expert & Specialist in Architecting Systems
+- Data pipelines: Geospatial, timeseries, streaming  365 days a humming data engine with Validations at data lake level
+- Data Engineering for AI/ML clean data wrangling for spotty, missing, malformed, invalid and intermittent empty datapoints
+- 1 billion datapipelines: Quering datapoints to mathematically handle OLAP processing for B2C or B2B interfaces 
+- less than 500ms search engine query responses in big payload responses with 100k JSON payloads
+- Generating and Managing 20million predictions a day architecture, data warehouses, streaming data ingestion
 
 ## My Working experience includes
 - 💻 Architecting BigData achitectural patterns in AWS Infra jigsaw puzzle
@@ -23,7 +30,9 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 - ✨ And much more 🙂
 
 
-## Attitude to others: I like to Empower promising folks with fire in the belly
+## Attitude to others: 
+
+> * In my team, I like to empower promising folks with fire in the belly, teaching them how to take calculated risks > *
 
 Regardless of what we discover,
 we understand and truly believe that
