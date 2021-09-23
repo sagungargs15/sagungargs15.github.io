@@ -14,7 +14,28 @@ As, digitisation of economic value spreads,  Bitcoin 21 million units become hyp
 ## Ethereum: Programmable money: Smart Contracts [Defi, Tokens and NFTs]
 By owning Ethereum you own a part of the internet - it is the crypto rails 
 
+## Chainlink, Polkadot: Interoperability between Crypto networks
+
 ## NFT - Non Fungible Tokens
 Network Effects: Metcalfs Law: Network Adoption Curves
 
-## Chainlik, Polkadot: Interoperability between Crypto networks
+## Building Blocks in any Blockchain
+1. Which Layer Protocol
+2. Circulation of Tokens: Mining Vs Airdrops
+3. Proof of Ownership of Token
+4. Purpose of Blockhain
+5. Blockchain: mainnet vs testnet vs canary network [testnet + real economic value]
+    e.g. DEV: testnet --> Kusama(canary) --> polkadot (mainnet)
+
+
+## Index
+1. Bookshelf
+2. Life Advice
+3. Sizing
+4. Crypto
+5. AI
+6. Product Manager
+7. Turn Around CTO
+8. Entrepreneur
+9. Leadership
+10. Probability
