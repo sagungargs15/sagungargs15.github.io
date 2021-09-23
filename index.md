@@ -6,7 +6,7 @@ layout: default
 Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Manager, DevOps Expert. 
 
 - 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
-- ⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO
+- ⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. 
 - 📝 I write newsletter about AI/ML ![newsletter](https://polymathai.substack.com)
 - 💻 I am an Entrepreneur at heart ambidextrous with Product Managerial experience of building B2C Mobile Products and B2B Enterprise Products 
 - 💻 I have extensive experience as Entrepreneur in Residence & I am also winner of international Hackathons.
@@ -14,7 +14,7 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 ## Expert & Specialist in Architecting Systems
 - Data pipelines: Geospatial, timeseries, streaming  365 days a humming data engine with Validations at data lake level
 - Data Engineering for AI/ML clean data wrangling for spotty, missing, malformed, invalid and intermittent empty datapoints
-- 1 billion datapipelines: Quering datapoints to mathematically handle OLAP processing for B2C or B2B interfaces 
+- Order of billion rows in a single query: Quering datapoints to mathematically handle OLAP processing for B2C or B2B interfaces to run metrics in realtime for users
 - less than 500ms search engine query responses in big payload responses with 100k JSON payloads
 - Generating and Managing 20million predictions a day architecture, data warehouses, streaming data ingestion
 
