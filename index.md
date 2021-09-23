@@ -2,17 +2,7 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./2-another-page.html).
-
-[Link to another page copy](./1-previous-startups.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
-# About my expertise: CTO/Founder
+## About my expertise: CTO/Founder
 Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Manager, DevOps Expert. 
 
 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
@@ -41,6 +31,18 @@ the resources available,
 and the situation at hand.
 
 TL;DR Just be nice.
+
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./2-another-page.html).
+
+[Link to another page copy](./1-previous-startups.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
+
 
 <!-- ## Header 2
 
