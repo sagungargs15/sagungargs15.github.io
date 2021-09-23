@@ -7,7 +7,7 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 
 - 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
 - ⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO
-- 📝 I blog about AI/ML ![here](https://polymathai.substack.com)
+- 📝 I write newsletter about AI/ML ![newsletter](https://polymathai.substack.com)
 - 💻 I am an Entrepreneur at heart ambidextrous with Product Managerial experience of building B2C Mobile Products and B2B Enterprise Products 
 - 💻 I have extensive experience as Entrepreneur in Residence & I am also winner of international Hackathons.
 
@@ -28,7 +28,6 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 - ⚙️ Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
 - 📋 Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And much more 🙂
-
 
 ## Attitude to others: 
 
