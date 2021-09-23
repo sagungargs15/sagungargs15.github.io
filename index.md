@@ -22,6 +22,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+## Competitions
+
+- 2020 ISPASS Student Travel Award  
+- [Research Distinction](https://cns.utexas.edu/undergraduate-education/events/cns-distinctions/2020-distinction-winners#bodun-hucomputer-science) by the College of Natural Sciences
+
+
 ### Header 3
 
 ```js
