@@ -39,3 +39,5 @@ Network Effects: Metcalfs Law: Network Adoption Curves
 8. Entrepreneur
 9. Leadership
 10. Probability
+
+## Heroes 

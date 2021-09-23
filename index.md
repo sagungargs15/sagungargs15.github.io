@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./2-another-page.html).
 
@@ -10,13 +10,39 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# About my expertise: CTO/Founder
+Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Manager, DevOps Expert. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
+⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO
+📝 I blog about AI/ML ![here](https://polymathai.substack.com/)
+💻 I am an Entrepreneur at heart ambidextrous with Product Managerial experience of building B2C Mobile Products and B2B Enterprise Products 
+💻 I have extensive experience as Entrepreneur in Residence & I am also winner of international Hackathons.
 
-## Header 2
+## My Working experience includes
+💻 Architecting BigData achitectural patterns in AWS Infra jigsaw puzzle
+🤖 Automating the release process to QA, TestFlight, AppStore…
+👥 Improving the PR review experience (using Danger and Vapor Bots to interact with your PRs, among others)
+⏱ Improving the CI/CD pipelines and build times
+⚙️ Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
+📋 Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
+✨ And much more 🙂
+
+
+## Attitude to others
+Regardless of what we discover,
+we understand and truly believe that
+everyone did the best job they could,
+given what they knew at the time,
+their skills and abilities,
+the resources available,
+and the situation at hand.
+
+TL;DR Just be nice.
+
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -128,4 +154,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
