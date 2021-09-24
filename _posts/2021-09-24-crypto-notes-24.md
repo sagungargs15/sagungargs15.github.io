@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "crypto-notes-24"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2021-09-24 23:59:59 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "interesting-notes"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2021-09-22 23:59:59 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
 

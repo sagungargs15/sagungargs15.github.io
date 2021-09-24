@@ -31,7 +31,7 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 
 ## Attitude to others: 
 
-> * In my team, I like to empower promising folks with fire in the belly, teaching them how to take calculated risks > *
+> * In my team, I like to empower promising folks with fire in the belly, teaching them how to take calculated risks
 
 Regardless of what we discover,
 we understand and truly believe that
