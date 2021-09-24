@@ -1,3 +1,10 @@
+---
+layout: post
+title: "crypto-notes"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+---
+
 Bitcoin, Ethereum, Chainlink, Polkadot
 
 ## Bitcoin: Store of Value digitally like Gold
@@ -26,6 +33,7 @@ Network Effects: Metcalfs Law: Network Adoption Curves
 4. Purpose of Blockhain
 5. Blockchain: mainnet vs testnet vs canary network [testnet + real economic value]
     e.g. DEV: testnet --> Kusama(canary) --> polkadot (mainnet)
+
 
 
 ## Index

@@ -1,3 +1,10 @@
+---
+layout: post
+title: "interesting-notes"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+---
+
 
 ## Crypto Evangelists to Follow
 ![Raoul Pal](https://twitter.com/RaoulGMI) ![Exponential Age](https://www.youtube.com/watch?v=0tJrla31t8I) 
