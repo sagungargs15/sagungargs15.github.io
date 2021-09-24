@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "crypto-notes"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+date: 2021-09-23 23:59:59 -0000
+categories: crypto notes
 ---
 
-Bitcoin, Ethereum, Chainlink, Polkadot
+**Bitcoin, Ethereum, Chainlink, Polkadot**
 
 ## Bitcoin: Store of Value digitally like Gold
 
