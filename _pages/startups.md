@@ -41,6 +41,7 @@
     5. New Market/New Industry
 
 **Support/Struggle** 
-[Positioning] - COMPETITORS
-	A. Support - NEW BEHAVIOUR (Blended CAC)		
-	B. Struggle- DIFFERENTIATION
+
+- [Positioning] - COMPETITORS
+    - a. Support - NEW BEHAVIOUR (Blended CAC)		
+	- b. Struggle- DIFFERENTIATION
