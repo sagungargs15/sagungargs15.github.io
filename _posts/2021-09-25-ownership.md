@@ -2,7 +2,7 @@
 # Ownership is a cornerstone of Western economies. 
 ![The Consequences Of Land Ownership](https://www.hoover.org/research/consequences-land-ownership)
 
-> * “If a man owns a little property, that property is him.…it is part of him….in some ways he’s bigger because he owns it.”
+> “If a man owns a little property, that property is him.…it is part of him….in some ways he’s bigger because he owns it.”
 
 —John Steinbeck, The Grapes of Wrath,
 

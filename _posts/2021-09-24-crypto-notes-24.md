@@ -6,30 +6,30 @@ categories: CATEGORY-1 CATEGORY-2
 ---
 
 ** Dynamics of Debt Created by Central Banks**
-Fiscal Stimulus/Quantitive Easing is Debt = Creates Govt Deficits 
-Funding Govt Deficits: Taxation, Inflation(CPI) and Debasement(Print Money)
+- Fiscal Stimulus/Quantitive Easing is Debt = Creates Govt Deficits 
+- Funding Govt Deficits: Taxation, Inflation(CPI) and Debasement(Print Money)
 
 
 ## Credible Crypto Ventures
 - Exchanges
- - Coinbase
- - Crypto.com
- - Kraken
+    - Coinbase
+    - Crypto.com
+    - Kraken
 
 - Data Providers
- - Cryptocomapre.com
+    - Cryptocomapre.com
 
 - VC Funds
- - Polychain Capital
- - Unchained Capital
+    - Polychain Capital
+    - Unchained Capital
  
 - Regulatory Tech
- - Chainalysis
- - Merkle Science
+    - Chainalysis
+    - Merkle Science
 
 - NFT Marketplaces
- - Opensea
- - Rarible
+    - Opensea
+    - Rarible
 
 
 1confirmation
@@ -38,8 +38,8 @@ Fidelity Digital Assets
 
 
 ## Credible Crypto Angel Backers
-Chris Dixon
-Balaji Srinivasan
-Naval Ravikant
-Chamath Palihapitiya
+- Chris Dixon
+- Balaji Srinivasan
+- Naval Ravikant
+- Chamath Palihapitiya
 
