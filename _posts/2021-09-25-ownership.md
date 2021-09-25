@@ -32,4 +32,3 @@
 2. Why Crypto Matters ![Arun Rao](https://raohacker.com/why-crypto-matters-and-its-a-lot-more-than-bitcoin/)
 3. Internet stack - Thin & Fat Protocols ![Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/)
 4. Why you need Blockhain ![Balaji](https://balajis.com/yes-you-may-need-a-blockchain/)
-5. 
