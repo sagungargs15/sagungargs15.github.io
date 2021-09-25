@@ -9,14 +9,16 @@ layout: default
 To be updated
 
 ### 2013 - 2019
-- [Fractional Ownership](https://oyeok.io) (Oyeok Maximize) 
-- [Nexchanges Technology](https://nexchanges.com) - Price Discovery Properties 20+ Indian Cities
+- [Fractional Ownership](https://oyeok.io) (Oyeok Maximize in Real Estate) 
+- [Nexchanges Technology](https://nexchanges.com) - Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
 
-    - Current Status: 
-    - Funded By Venture Capital: 
-    - Competitors/Successors: 
+    - Funded By: Singularity Ventures(Venture Capital)
+    - Competitors/Successors: Compass
      
 - [Black & White Powai Realtors](https://bwa.io) Franchise Model 
+ 
+    - Funded By: Bootstrapped
+    - Competitors/Successors: 
 
 ### 2010 - 2019
 - [Black & White Aventura](https://black-and-white.in) - Proptech Price Listings + End to end Transaction
