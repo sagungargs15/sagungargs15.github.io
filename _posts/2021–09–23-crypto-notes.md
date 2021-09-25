@@ -19,7 +19,7 @@ Bitcoin also runs the risk of becoming nothing
 As, digitisation of economic value spreads,  Bitcoin 21 million units become hyper-scarce hence hyper valuable
 
 ## Ethereum: Programmable money: Smart Contracts [Defi, Tokens and NFTs]
-By owning Ethereum you own a part of the internet - it is the crypto rails 
+By owning Ethereum you own a part of the internet - it is the crypto rails. Ethereum is a decentralized, global universal computer and is the most important crypto project Call it the "InternetComputer". Public blockchains are massively multiclient databases, where every user is a root user. The community decides as a whole how to use compute, storage, applications, etc, not a small group of engineers and product people. In a world where data is central to everything, whoever controls the data is king, and the current data lords make it hard to import or export it, to share it broadly. Public blockchains enable shared state (think shared truth, shared control, shared internet ownership) by incentivizing interoperability. Per ![Balaji Srinivasan](https://balajis.com/yes-you-may-need-a-blockchain/), “They convert many types of data import/export problems into a general class of shared state problems. And they do so in part by incorporating many of the best features of the mechanisms described above.
 
 ## Chainlink, Polkadot: Interoperability between Crypto networks
 
@@ -35,7 +35,6 @@ Network Effects: Metcalfs Law: Network Adoption Curves
     e.g. DEV: testnet --> Kusama(canary) --> polkadot (mainnet)
 
 
-
 ## Index
 1. Bookshelf
 2. Life Advice
@@ -48,4 +47,4 @@ Network Effects: Metcalfs Law: Network Adoption Curves
 9. Leadership
 10. Probability
 
-## Heroes 
+## Heroes
