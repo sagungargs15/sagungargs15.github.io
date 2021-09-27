@@ -9,8 +9,8 @@ layout: default
 To be updated
 
 ### 2013 - 2019
-- [Fractional Ownership](https://oyeok.io) (Oyeok Maximize in Real Estate) 
-- [Nexchanges Technology](https://nexchanges.com) - Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
+- [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Maximize in Real Estate) 
+- [Nexchanges Technology](https://angel.co/company/nexchanges-technology) - Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
 
     - Funded By: Singularity Ventures(Venture Capital)
     - Competitors/Successors: Compass
