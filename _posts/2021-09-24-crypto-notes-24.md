@@ -17,11 +17,22 @@ categories: CATEGORY-1 CATEGORY-2
     - Kraken
 
 - Data Providers
-    - Cryptocomapre.com
+    - Messari
+    - Cryptocompare.com
+    - Flipside Crypto
+    - 
 
-- VC Funds
+- Crypto VC Funds
+    - a16z Crypto Fund
+    - 1confirmation
+    - Electric Capital
     - Polychain Capital
     - Unchained Capital
+    - Coinbase Ventures
+    - Blockchain Capital
+    - Pantera Capital
+    - Multicoin Capital
+    - Trinity Ventures
  
 - Regulatory Tech
     - Chainalysis
@@ -32,9 +43,21 @@ categories: CATEGORY-1 CATEGORY-2
     - Rarible
 
 
-1confirmation
 Fidelity Digital Assets
 0xlabs
+Coinbase
+BitGo
+Anchorage
+Ledger 
+Compound 
+MakerDAO
+FLOW
+NEAR
+Terra
+Algorand
+CELO
+Compound
+Alchemix
 
 
 ## Credible Crypto Angel Backers
@@ -42,4 +65,6 @@ Fidelity Digital Assets
 - Balaji Srinivasan
 - Naval Ravikant
 - Chamath Palihapitiya
+- 
+- 
 
