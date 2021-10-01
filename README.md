@@ -1,8 +1,28 @@
+# sagungarg.com - Personal Website of Sagun Garg
+This repository is representing the source code of my private website https://sagungarg.com that is hosted with GitHub Pages. The website is powered by Jekyll and I can use Markdown to author my posts. It is inspired from  multiple themes and source codes
+    - [Minimalist](https://github.com/BDHU/minimalist). 
+    - [Jonathan McGlone’s](https://github.com/hankquinlan/hankquinlan.github.io/) project. ![Demo of Minimalist](https://raw.githubusercontent.com/BDHU/minimalist/main/minimalist.png)
+    
+
+This project on purpose does not provide a license. That means it is under my exclusive copyright.
+The reason for that being that 99% of this repo is private data of myself.
+
+Therefore I would recommend to use [Jonathan McGlone’s](https://github.com/hankquinlan/hankquinlan.github.io/) project as a starter, since it doesn't contain any private information and the author allows copying without restrictions.
+
+## Instructions
+GitHub Pages builds automatically on commits. Files can directly be edited within the GitHub UI.
+
+### Local development:
+`jekyll serve` builds and serves the page at [http://localhost:4000](http://localhost:4000)
+
+See also [Jekyll docs](https://jekyllrb.com/docs/usage/)
+
+
 # The Minimalist theme
 
-*Minimalist is a Jekyll theme, inspired by the [Minimalist](https://github.com/BDHU/minimalist) theme. You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*
+*Minimalist is a Jekyll theme, inspired by the . You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*
 
-![Demo of Minimalist](https://raw.githubusercontent.com/BDHU/minimalist/main/minimalist.png)
+
 
 ## Usage
 
