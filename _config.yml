@@ -8,7 +8,9 @@ theme: jekyll-theme-minimalist
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jemoji
+  - jekyll-paginate # Rename index.md to index.html. Without this, the jekyll-paginate gem will not work.
+  - jekyll-feed # 
+  - jemoji # Uncomment this to allow emoji in your post
 
 
 # Google Analytics
@@ -16,16 +18,26 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Sagun Garg
-  url:          https://sagungarg.com
-  email:        sagungargs@gmail.com
+  name: Sagun Garg
+  url: https://sagungarg.com
+  email: sagungargs@gmail.com
 
 # Build settings
-markdown:       kramdown
+markdown: kramdown
 include:
   - _pages
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        compressed
+  sass_dir: _sass
+  style: compressed
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate: 5
+
+# Excludes
+exclude: [Gemfile, Gemfile.lock]
+
+# Disqus (Set to your disqus id)
+disqus: jekyll-tale

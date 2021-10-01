@@ -1,8 +1,9 @@
-
+---
 layout: post
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+title: "About Me - Sagun Garg"
+date: 2021-01-01 23:59:59 -0000
+categories: engineer entrepreneur sagun
+---
 
 ## About ME
 
@@ -39,11 +40,9 @@ Keywords: Kafka, Kubernetes, Kotlin, and Queuin
 -  Experience in leading multi-racial and multi-cultural team and celebrates diversity in opinions
 -  Talent for precise articulations of end-users problems
 
-
 ## Speciality in Early Stage Products (Zero to One) 
 -  Experience building software products from kick-off to ship
 -  Loves running experiments and has the courage to kill products early if we get it wrong or have no traction
-- 
 
 ## Product Management Skills
 - 5+ years of product management experience
@@ -55,8 +54,5 @@ Keywords: Kafka, Kubernetes, Kotlin, and Queuin
 - Well-rounded interpersonal skills, and experience interacting with diverse personalities 
 - Deep understanding of project management principles and best practices 
 - Exceptional communication and presentation skills
-
-
-
 
 ## My Heroes

@@ -7,7 +7,7 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 
 - 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
 - ⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. 
-- 📝 I write newsletter about AI/ML ![newsletter](https://polymathai.substack.com)
+- 📝 I write newsletter about AI/ML [newsletter](https://polymathai.substack.com)
 - 💻 I am an Entrepreneur at heart ambidextrous with Product Managerial experience of building B2C Mobile Products and B2B Enterprise Products 
 - 💻 I have extensive experience as Entrepreneur in Residence & I am also winner of international Hackathons.
 
@@ -42,18 +42,17 @@ I like to empower promising folks with fire in the belly, sharing my experience 
 
 ## Index
 1. Bookshelf
-2. Life Advice
-3. Sizing
+2. Life Experiences
+3. Market Sizing
 4. Crypto
-5. AI
+5. ML/AI/Data Science
 6. Product Manager
 7. Turn Around CTO
 8. Entrepreneur
 9. Leadership
 10. Probability
-
-
-
+11. Mental Models
+12. Unknown-Unknowns
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
