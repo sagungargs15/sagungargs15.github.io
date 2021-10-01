@@ -1,5 +1,7 @@
 title: Sagun Garg
 description: 3 x Founder/CTO (12yrs), 3 x EIR, Polyglot Programmer, ex-Deloitte.
+baseurl: "/"
+url: "https://sagungargs15.github.io"
 show_downloads: false
 google_analytics: UA-108144808-1
 theme: jekyll-theme-minimalist
@@ -7,3 +9,23 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Sagun Garg
+  url:          https://sagungarg.com
+  email:        sagungargs@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
