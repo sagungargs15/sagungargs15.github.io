@@ -55,4 +55,28 @@ Keywords: Kafka, Kubernetes, Kotlin, and Queuin
 - Deep understanding of project management principles and best practices 
 - Exceptional communication and presentation skills
 
+## Attitude to others: 
+
+> Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+
+TL;DR 
+
+> JUST BE NICE TO EVERYONE
+
+I like to empower promising folks with fire in the belly, sharing my experience of taking calculated risks/bets, afterall everything is probability trees
+
+## Index
+1. Bookshelf
+2. Life Experiences
+3. Market Sizing
+4. Crypto
+5. ML/AI/Data Science
+6. Product Manager
+7. Turn Around CTO
+8. Entrepreneur
+9. Leadership
+10. Probability
+11. Mental Models
+12. Unknown-Unknowns
+
 ## My Heroes

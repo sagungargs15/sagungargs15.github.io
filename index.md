@@ -29,30 +29,17 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 - 📋 Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And much more 🙂
 
-## Attitude to others: 
+## Posts
 
-> Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-TL;DR 
 
-> JUST BE NICE TO EVERYONE
-
-I like to empower promising folks with fire in the belly, sharing my experience of taking calculated risks/bets, afterall everything is probability trees
-
-
-## Index
-1. Bookshelf
-2. Life Experiences
-3. Market Sizing
-4. Crypto
-5. ML/AI/Data Science
-6. Product Manager
-7. Turn Around CTO
-8. Entrepreneur
-9. Leadership
-10. Probability
-11. Mental Models
-12. Unknown-Unknowns
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
