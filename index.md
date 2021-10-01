@@ -31,20 +31,29 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 
 ## Attitude to others: 
 
-> * In my team, I like to empower promising folks with fire in the belly, teaching them how to take calculated risks
-
-Regardless of what we discover,
-we understand and truly believe that
-everyone did the best job they could,
-given what they knew at the time,
-their skills and abilities,
-the resources available,
-and the situation at hand.
-
+> Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
 
 TL;DR 
 
-> * JUST BE NICE TO EVERYONE
+> JUST BE NICE TO EVERYONE
+
+I like to empower promising folks with fire in the belly, sharing my experience of taking calculated risks/bets, afterall everything is probability trees
+
+
+## Index
+1. Bookshelf
+2. Life Advice
+3. Sizing
+4. Crypto
+5. AI
+6. Product Manager
+7. Turn Around CTO
+8. Entrepreneur
+9. Leadership
+10. Probability
+
+
+
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.

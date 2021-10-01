@@ -55,3 +55,8 @@ Keywords: Kafka, Kubernetes, Kotlin, and Queuin
 - Well-rounded interpersonal skills, and experience interacting with diverse personalities 
 - Deep understanding of project management principles and best practices 
 - Exceptional communication and presentation skills
+
+
+
+
+## My Heroes

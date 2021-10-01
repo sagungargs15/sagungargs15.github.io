@@ -1,3 +1,11 @@
+---
+layout: post
+title: "cryptoeconomics"
+date: 2021-09-25 23:59:59 -0000
+categories: fat-protocols tokens
+author: "Sagun Garg"
+tags: ownership property-rights tokens protocols
+---
 
 # Ownership is a cornerstone of Western economies. 
 ![The Consequences Of Land Ownership](https://www.hoover.org/research/consequences-land-ownership)

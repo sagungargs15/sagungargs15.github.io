@@ -3,6 +3,8 @@ layout: post
 title: "interesting-notes"
 date: 2021-09-22 23:59:59 -0000
 categories: CATEGORY-1 CATEGORY-2
+author: "Sagun Garg"
+tags: ownership property-rights tokens protocols
 ---
 
 
