@@ -13,3 +13,13 @@
 ### Anti-Portfolio (Missed Startups by VCs)
 
 > "An investor’s anti-portfolio are the deals which they pursed but did not invest, either on their own volition or because they were shut out by other investors"
+
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

@@ -38,3 +38,12 @@ tags: ycombinator notes startups
  - 3rd MVP: MVSP Vs MVLP: Minimum Viable (Shitty vs Lovable) Product
 
 3. Product + Early Users for an established industry is a better way to lead the MVP without caring much for business model (because it is an established industry hence optimise for growth. Business model is much easier to discover. But if it is a new playbook then market sizing, goto market and business model need to be emphasised before the product early on)
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
