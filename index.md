@@ -29,15 +29,6 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 - 📋 Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And much more 🙂
 
-<!-- ## Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul> -->
 
 
 
