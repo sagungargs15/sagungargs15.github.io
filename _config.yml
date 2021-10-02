@@ -41,3 +41,6 @@ exclude: [Gemfile, Gemfile.lock]
 
 # Disqus (Set to your disqus id)
 disqus: jekyll-tale
+
+gems: 
+  - jekyll-github-metadata
