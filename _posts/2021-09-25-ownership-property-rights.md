@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cryptoeconomics"
+title: "Ownership Property Rights"
 date: 2021-09-25 23:59:59 -0000
 categories: fat-protocols tokens
 author: "Sagun Garg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Startup School Notes"
+title: "Y Combinator Startup School Notes"
 date: 2019-11-01 23:59:59 -0000
 categories: incubators
 author: "Sagun Garg"

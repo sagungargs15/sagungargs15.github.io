@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "crypto-notes-24"
+title: "List of Crypto VC Funds"
 date: 2021-09-24 23:59:59 -0000
 categories: crypto-funds crypto-angels
 author: "Sagun Garg"

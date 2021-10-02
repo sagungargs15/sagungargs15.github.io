@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cryptoeconomics"
+title: "Cryptoeconomics"
 date: 2021-09-25 23:59:59 -0000
 categories: p2p defi economics
 author: "Sagun Garg"
