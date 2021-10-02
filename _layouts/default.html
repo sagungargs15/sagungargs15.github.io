@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
+    <!-- {% seo %} -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -35,38 +35,24 @@
           {%- include footer.html -%}
         </div>
       </div>
-      <body>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/cv">CV</a></li>
-                <li><a href="/projects">Projects</a></li>
-                <li><a href="/private">Private</a></li>
-                <li><a href="/blog">Blog</a></li>
-          <li><a href="/contact">Contact</a></li>
-            </ul>
-        </nav>
-        <div class="container">
-        
+        {% include navigation.html %}
+
+        <section>
+
         {{ content }}
-        
-        </div>
-      <!-- <section>
 
-      {{ content }}
-
-      </section> -->
-      <footer>
-        {%- include footer.html -%}
-        <ul>
-          <li><a href="http://bitcoin.org">Bitcoin</a></li>
-          <li><a href="http://ethereum.org">Eth</a></li>
-          <li><a href="http://paypal.me/sagungarg">UPI-India</a></li>
-        </ul>
-        <p>&copy; 2021 Sagun Garg<br>
-        This website is <a href="https://github.com/sagungargs15/sagungargs15.github.io">open source</a>.
-        </p>
-      </footer>
+        </section>
+        <footer>
+          {%- include footer.html -%}
+          <ul>
+            <li><a href="http://bitcoin.org">Bitcoin</a></li>
+            <li><a href="http://ethereum.org">Eth</a></li>
+            <li><a href="http://paypal.me/sagungarg">UPI-India</a></li>
+          </ul>
+          <p>&copy; 2021 Sagun Garg<br>
+          This website is <a href="https://github.com/sagungargs15/sagungargs15.github.io">open source</a>.
+          </p>
+        </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
