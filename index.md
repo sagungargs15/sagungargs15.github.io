@@ -3,13 +3,29 @@ layout: default
 ---
 
 ## About my expertise: CTO/Founder
-Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Manager, DevOps Expert. 
+Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert. 
 
 - 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
-- ⏱ In records 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of exiting CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. 
+- ⏱ In record 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. 
 - 📝 I write newsletter about AI/ML [newsletter](https://polymathai.substack.com)
-- 💻 I am an Entrepreneur at heart ambidextrous with Product Managerial experience of building B2C Mobile Products and B2B Enterprise Products 
-- 💻 I have extensive experience as Entrepreneur in Residence & I am also winner of international Hackathons.
+- 💻 I am an Entrepreneur at heart (ambidextrous) 
+  - 11+ years of early stage startup, product and architecting tech stacks.
+  - Bootstrapping Startup with Customer Money before seed round
+  - Venture Capital raising experience [Pre-Seed -> Seed -> Pre-SeriesA]
+  - Product Managerial experience [Market Sizing, P/M Fit and User Acquisition]
+  - Leading team of atleast 20+ developers in CTO capacity
+  - Built B2C Mobile Products and B2B Enterprise Products 
+- 💻 I have extensive experience as Entrepreneur in Residence in Deeptech products
+  - Define target market, customer persona and go to market strategy
+  - Build initial prototype(s) and iterate week on week with user feedback
+  - Find a Cofounder for the venture with complementary skills
+  - Pitch to Investment commitees for initial round of capital
+  - Define KPIs for tracking monthly growth, investor update and market size
+- I am also winner of international Hackathons.
+  - Singapore: NEC Labs, 2020
+  - Singapore: Microsoft: Global AI/ML Summit, 2019
+  - Mumbai, India: IIT-B Hackathon, 2015
+  - Dublin, Ireland: Web-Summit Alpha Startup Category, 2014
 
 ## Expert & Specialist in Architecting Systems
 - Data pipelines: Geospatial, timeseries, streaming  365 days a humming data engine with Validations at data lake level
