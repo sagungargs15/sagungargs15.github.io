@@ -7,7 +7,7 @@ categories: engineer entrepreneur sagun
 
 ## About ME
 
-![Sagun Garg](https://sagungargs15.github.io/sagungargs15/assets/img/logo.png)
+![Sagun Garg](https://sagungargs15.github.io/sagungargs15/assets/img/sagun.png)
 
 - Experience architecting systems at consumer-facing internet-scale
  - built large distributed microservices platforms (polyglot)
@@ -16,7 +16,7 @@ categories: engineer entrepreneur sagun
  - big data analytics (billion+ new rows per day)
  - large online application data tables (more than billion rows) generated daily
 
-Keywords: Kafka, Kubernetes, Kotlin, and Queuin
+Keywords: Kafka, Event-driven, Streaming, Kubernetes, Kotlin and Queuing
 
 ## Data Engineering
 - Grow a team of data engineers
