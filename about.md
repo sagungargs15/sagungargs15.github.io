@@ -9,14 +9,14 @@ categories: engineer entrepreneur sagun
 
 ![Sagun Garg](https://twitter.com/sagungarg)
 
-### About Me [35, 3 x Founder, 2 x CTO-on-Hire, 3 x EIR | Hands on CTO | Singapore]
+### About Me [35, 3 x Founder, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore]
 - CTO-on-Hire2: Supply Chain Startup - Helped Closed Pre-Series A 3.2mn$ round after outgoing CTO/Cofounder
 - CTO-on-Hire1: Ed-Tech Startup - Helped Closed Pre-Series A 1mn$ round after outgoing CTO/Cofounder
-- Entrepreneur in Residence | NEC Accelerator Singapore | ML/AI Technologies
-- 3rd time Founder - Singapore | ML/AI Metadata catalog search 
-- Graduated from Antler SG3 2019 - Singapore | Y Combinator SUS 2019
-- I am Hands on CTO | Full Stack - Polyglot Programmer - Architect Experience
-- Founder: 2 PropTech Startups, Mumbai [ $150k VC Funded, $1mn Cum. 8yrs]
+- Entrepreneur in Residence, NEC Accelerator Singapore, ML/AI Technologies
+- 3rd time Founder - Singapore, ML/AI Metadata catalog search 
+- Graduated from Antler SG3 2019 - Singapore, Y Combinator SUS 2019
+- I am a hands on CTO, Full Stack - Polyglot Programmer - Architect Experience
+- Founder: 2 PropTech Startups, Mumbai [ $175k VC Funded - 4 yrs, BooStrapped GMV $100mn Cum - 9 yrs]
 - Strong Product Management & Design Skills, especially MVPs. B-Tech (CS) - DAIICT, India
 - Held more than 7+ leadership positions till date. Won 6 competitions till date
 
