@@ -11,17 +11,18 @@ categories: engineer entrepreneur sagun
 
 **Brief: 35, 3 x Founder, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
 
-- CTO-on-Hire2: Supply Chain Startup - Helped Closed Pre-Series A 3.2mn$ round after outgoing CTO/Cofounder
-- CTO-on-Hire1: Ed-Tech Startup - Helped Closed Pre-Series A 1mn$ round after outgoing CTO/Cofounder
-- EIR3: NEC Accelerator Singapore, ML/AI Technologies
-- 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search 
-- EIR2: External Co-Founder Entrepreneur First SG6 2019 - Singapore
-- EIR1: Graduated from Antler SG3 2019 - Singapore, Y Combinator SUS 2019
-- I am a hands on CTO, Full Stack - Polyglot Programmer - Architect Experience
-- Co-Founder: 2 PropTech Startups, Mumbai [ $175k VC Funded - 4 yrs, BooStrapped GMV $100mn Cum - 9 yrs]
-- Strong Product Management & Design Skills, especially MVPs. B-Tech (CS) - DAIICT, India
+- **CTO-on-Hire2**: Supply Chain Startup - Helped Closed Pre-Series A 3.2mn$ round after outgoing CTO/Cofounder
+- **CTO-on-Hire1**: Ed-Tech Startup - Helped Closed Pre-Series A 1mn$ round after outgoing CTO/Cofounder
+- **EIR3**: NEC Accelerator Singapore, ML/AI Technologies
+- **Co-Founder3**: 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search 
+- **EIR2**: External Co-Founder Entrepreneur First SG6 2019 - Singapore
+- **EIR1**: Graduated from Antler SG3 2019 - Singapore, Y Combinator SUS 2019
+- **Co-Founder2**: Nexchanges (Oyeok App) Price Discovery of Real Estate[VC Funded $175k: 4yrs], 
+- **Co-Founder1**: Black & White Aventura, PropTech End to End Portal, [BooStrapped GMV $100mn Cum - 9 yrs]
 - Held more than 7+ leadership positions till date. Won 6 competitions/hackathons till date
 
+- I am a hands on CTO, Full Stack - Polyglot Programmer - Architect Experience
+- Strong Product Management & Design Skills, especially MVPs. B-Tech (CS) - DAIICT, India
 - Experience architecting systems at consumer-facing internet-scale
  - built large distributed microservices platforms (polyglot)
  - ensuring 100ms P99 latencies
