@@ -9,7 +9,8 @@ categories: engineer entrepreneur sagun
 
 [Sagun Garg](https://twitter.com/sagungarg)
 
-### About Me [35, 3 x Founder, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore]
+**Brief: 35, 3 x Founder, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
+
 - CTO-on-Hire2: Supply Chain Startup - Helped Closed Pre-Series A 3.2mn$ round after outgoing CTO/Cofounder
 - CTO-on-Hire1: Ed-Tech Startup - Helped Closed Pre-Series A 1mn$ round after outgoing CTO/Cofounder
 - EIR3: NEC Accelerator Singapore, ML/AI Technologies
