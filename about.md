@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: "About Me - Sagun Garg"
-date: 2021-01-01 23:59:59 -0000
+date: 1986-03-05 10:05:00 +0530
 categories: engineer entrepreneur sagun
 ---
 
@@ -15,9 +15,6 @@ categories: engineer entrepreneur sagun
  - event driven architecture
  - big data analytics (billion+ new rows per day)
  - large online application data tables (more than billion rows) generated daily
-    - level 3 item
-    - level 3 item
-- level 1 item
 
 Keywords: Kafka, Kubernetes, Kotlin, and Queuin
 
@@ -76,7 +73,9 @@ I like to empower promising folks with fire in the belly, sharing my experience 
 8. Entrepreneur
 9. Leadership
 10. Probability
-11. Mental Models
+11. My Mental Models
 12. Unknown-Unknowns
+13. My Mentors
 
-## My Heroes
+<!-- ## My Mentors
+## My Heroes -->

@@ -34,7 +34,7 @@ Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, En
 - less than 500ms search engine query responses in big payload responses with 100k JSON payloads
 - Generating and Managing 20million predictions a day architecture, data warehouses, streaming data ingestion
 
-## My Working experience includes
+## My Work experience includes
 - 💻 Architecting BigData achitectural patterns in AWS Infra jigsaw puzzle
 - 👥 Mentoring Senior engineers to become leaders by cultivating their skills to manage junior engineers
 - 📋 Managing sprints, cost budgets, recruiting, writing detailed specs, product roadmaps and manage release cycles
