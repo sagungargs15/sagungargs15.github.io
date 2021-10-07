@@ -6,9 +6,14 @@ layout: default
 
 **Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
-- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML as data products specially in architectures that are characterised by streaming, geospatial, bigdata, nosql & erratic data pipelines. 
+- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 
-- ⏱ **CTO-on-Hire**:I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intellignece) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involved managing product strategy, product features, engineering, hiring, devops & budgets. It approximately has takes me 9-12 months to turn the ship with a lot of support from the team I inherit in the venture. 
+- ⏱ **CTO-on-Hire**:I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intelligence) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO 
+  - close Pre-Series A round, 
+  - scale prototype to production grade usable product with live users/customers and 
+  - laying product roadmap for next 1 year. 
+
+Both ventures involved managing product strategy, product features, engineering, hiring, devops & technical budgets. It approximately took me 9-12 months to turn the ship with a lot of support from the team I inherited in these ventures. 
 
 - 📝 I like to write newsletter(s), Blog(s) & curate content as note making process to myself
   - **About AI/ML**: [Newsletter](https://polymathai.substack.com)
