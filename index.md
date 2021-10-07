@@ -45,7 +45,7 @@ layout: default
 
 ## My Work experience includes
 - 💻 **Architecting**: BigData achitectural patterns in AWS Infra jigsaw puzzle
-- ⚙️ **Vendor Management** : Build vs Buy and Optimising for speed and technical debt complexity
+- ⚙️ **Vendor Management** : Navigate "Build vs Buy" to optimise for "startup speed" and avoid "technical debt complexity". This is possible with stable setups for opensource products on BigTech platforms(AWS, Google, Microsoft) with startup credit grants there by direct savings of bills of atleast USD 300k in first 2 years worth of digital infrastructure, developer tools and devops using street smart ideas. 
 - 👥 **Mentoring**: Senior engineers, product managers and growth hackers to become leaders by cultivating their skills to manage bigger teams in their respective verticals
 - 📋 **Managing Product Roadmaps**: sprints, cost budgets, recruiting, writing detailed specs, product roadmaps and manage release cycles
 - 🤖 **Automating**: CI/CD the whole release process to QA, TestFlight, AppStore & Improving the CI/CD pipelines and build times…
