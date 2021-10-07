@@ -2,17 +2,18 @@
 layout: default
 ---
 
-## About my expertise: CTO/Founder
+## About my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
 
 **Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
-- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML data products specially in architectures that are characterised by streaming, geospatial, bigdata, nosql & erratic data pipelines. 
+- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML as data products specially in architectures that are characterised by streaming, geospatial, bigdata, nosql & erratic data pipelines. 
 
-- ⏱ **CTO-on-Hire**: In approx. record 1 year I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intellignece) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involved managing product strategy, product features, engineering, hiring, devops & budgets.  
+- ⏱ **CTO-on-Hire**:I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intellignece) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involved managing product strategy, product features, engineering, hiring, devops & budgets. It approximately has takes me 9-12 months to turn the ship with a lot of support from the team I inherit in the venture. 
 
 - 📝 I like to write newsletter(s), Blog(s) & curate content as note making process to myself
-  - **About AI/ML**: [newsletter](https://polymathai.substack.com)
-  - **Startups in General**: [medium](https://medium.com/@sagungarg)
+  - **About AI/ML**: [Newsletter](https://polymathai.substack.com)
+  - **Startups in General**: [Medium](https://medium.com/@sagungarg)
+  - **Twitter Curation**: [Twitter](https://twitter.com/sagungarg)
 
 - 💻 I am a Tech Entrepreneur at heart (ambidextrous skills to get job done) 
   - **Early Stage Decade Experience**: 11+ years of early stage startup, product and engineering tech stacks.
