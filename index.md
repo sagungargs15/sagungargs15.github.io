@@ -3,46 +3,53 @@ layout: default
 ---
 
 ## About my expertise: CTO/Founder
-Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert. 
 
-- 🗣 I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
-- ⏱ In record 9 months each I have turned around 2 Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. 
-- 📝 I write newsletter about AI/ML [newsletter](https://polymathai.substack.com)
-- 💻 I am an Entrepreneur at heart (ambidextrous) 
-  - 11+ years of early stage startup, product and architecting tech stacks.
-  - Bootstrapping Startup with Customer Money before seed round
-  - Venture Capital raising experience [Pre-Seed -> Seed -> Pre-SeriesA]
-  - Product Managerial experience [Market Sizing, P/M Fit and User Acquisition]
-  - Leading team of atleast 20+ developers in CTO capacity
-  - Built B2C Mobile Products and B2B Enterprise Products 
+**Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
+
+- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
+- ⏱ **CTO-on-Hire**: In approx. record 1 year I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involves managing product, engineering, hiring and strategy.  
+
+- 📝 I like to write newsletter(s), Blog(s) & curate content 
+  - **About AI/ML**: [newsletter](https://polymathai.substack.com)
+  - **Startups in General**: [medium](https://medium.com/@sagungarg)
+
+- 💻 I am a Tech Entrepreneur at heart (ambidextrous skills to get job done) 
+  - **Early Stage Decade Experience**: 11+ years of early stage startup, product and architecting tech stacks.
+  - **Bootstrapping**: Startup with Customer Money before seed round
+  - **Raising Venture Capital**: Proven track record [Pre-Seed -> Seed -> Pre-SeriesA]
+  - **Product Owner**: Experience building & executing Product Roadmaps [Market Sizing, P/M Fit and User Acquisition]
+  - **Leading teams**: Building Atleast 20+ developers in CTO capacity
+  - **B2B & B2C**: Prior proven experience launching B2C Mobile Products and B2B Enterprise Products 
+
 - 💻 I have extensive experience as Entrepreneur in Residence in Deeptech products
-  - Define target market, customer persona and go to market strategy
-  - Build initial prototype(s) and iterate week on week with user feedback
-  - Find a Cofounder for the venture with complementary skills
-  - Pitch to Investment commitees for initial round of capital
-  - Define KPIs for tracking monthly growth, investor update and market size
+  - **Market Sizing**: Define target market, customer persona and go to market strategy
+  - **Weekend Prototyping**: Build initial prototype(s) and iterate week on week with user feedback
+  - **Cofounder Matching**: Find a Cofounder for the venture with complementary skills
+  - **Pitch to VCs**: Investment commitees for initial round of capital
+  - **Define KPIs**: Tracking monthly user growth, lead/lag indicators & growth hacking
+
 - I am also winner of international Hackathons.
-  - Singapore: NEC Labs, 2020
-  - Singapore: Microsoft: Global AI/ML Summit, 2019
-  - Mumbai, India: IIT-B Hackathon, 2015
-  - Dublin, Ireland: Web-Summit Alpha Startup Category, 2014
+  - **Singapore**: NEC Labs, 2020
+  - **Singapore**: Microsoft: Global AI/ML Summit, 2019
+  - **Mumbai**: India: IIT-B Hackathon, 2015
+  - **Dublin**: Web-Summit Alpha Startup Category, 2014
 
 ## Expert & Specialist in Architecting Systems
-- Data pipelines: Geospatial, timeseries, streaming  365 days a humming data engine with Validations at data lake level
-- Data Engineering for AI/ML clean data wrangling for spotty, missing, malformed, invalid and intermittent empty datapoints
-- Order of billion rows in a single query: Quering datapoints to mathematically handle OLAP processing for B2C or B2B interfaces to run metrics in realtime for users
-- less than 500ms search engine query responses in big payload responses with 100k JSON payloads
-- Generating and Managing 20million predictions a day architecture, data warehouses, streaming data ingestion
+- **Data pipelines**: Geospatial, timeseries, streaming  365 days a humming data engine with Validations at data lake level
+- **Data Engineering**: AI/ML usecases demand data preparation i.e clean data, wrangle for spotty, missing, malformed, invalid and intermittent empty datapoints
+- **Big Data**: Order of billion rows in a single query: Quering datapoints to mathematically handle OLAP processing for B2C or B2B interfaces to run metrics in realtime for users
+- **Search Indexes**: Less than 500ms search engine query responses in big payload responses with 100k JSON payloads
+- **Predictive Data Intelligence**: Generating and Managing 20 million predictions a day architecture, data warehouses and complex streaming data ingestion
 
 ## My Work experience includes
-- 💻 Architecting BigData achitectural patterns in AWS Infra jigsaw puzzle
-- 👥 Mentoring Senior engineers to become leaders by cultivating their skills to manage junior engineers
-- 📋 Managing sprints, cost budgets, recruiting, writing detailed specs, product roadmaps and manage release cycles
-- 🤖 Automating the release process to QA, TestFlight, AppStore…
-- 👥 Improving the PR review experience (using Danger and Vapor Bots to interact with your PRs, among others)
-- ⏱ Improving the CI/CD pipelines and build times
-- ⚙️ Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
-- 📋 Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
+- 💻 **Architecting**: BigData achitectural patterns in AWS Infra jigsaw puzzle
+- ⚙️ **Vendor Management** : Build vs Buy and Optimising for speed and technical debt complexity
+- 👥 **Mentoring**: Senior engineers to become leaders by cultivating their skills to manage junior engineers
+- 📋 **Managing Product Roadmaps**: sprints, cost budgets, recruiting, writing detailed specs, product roadmaps and manage release cycles
+- 🤖 **Automating**: CI/CD the whole release process to QA, TestFlight, AppStore & Improving the CI/CD pipelines and build times…
+- 👥 **Devops**: Improving the PR review experience (using Danger and Vapor Bots to interact with your PRs, among others)
+- ⚙️ **Tools**: Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
+- ⏱ **Testing Frameworks**: Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And much more 🙂
 
 
