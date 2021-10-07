@@ -7,7 +7,8 @@ layout: default
 **Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
 - 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
-- ⏱ **CTO-on-Hire**: In approx. record 1 year I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involves managing product, engineering, hiring and strategy.  
+
+- ⏱ **CTO-on-Hire**: In approx. record 1 year I can turn around AI/ML ventures in CTO-on-Hire capacity. I recently done for two Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involves managing product, engineering, hiring and strategy.  
 
 - 📝 I like to write newsletter(s), Blog(s) & curate content 
   - **About AI/ML**: [newsletter](https://polymathai.substack.com)
@@ -28,7 +29,7 @@ layout: default
   - **Pitch to VCs**: Investment commitees for initial round of capital
   - **Define KPIs**: Tracking monthly user growth, lead/lag indicators & growth hacking
 
-- I am also winner of international Hackathons.
+- 💻 I am also winner of international Hackathons.
   - **Singapore**: NEC Labs, 2020
   - **Singapore**: Microsoft: Global AI/ML Summit, 2019
   - **Mumbai**: India: IIT-B Hackathon, 2015
