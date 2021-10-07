@@ -6,23 +6,24 @@ layout: default
 
 **Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
-- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML Models using BigData 
+- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML data products specially in architectures that are characterised by streaming, geospatial, bigdata, nosql & erratic data pipelines. 
 
-- ⏱ **CTO-on-Hire**: In approx. record 1 year I can turn around AI/ML ventures in CTO-on-Hire capacity. I recently done for two Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involves managing product, engineering, hiring and strategy.  
+- ⏱ **CTO-on-Hire**: In approx. record 1 year I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain) and Hong Kong(Ed-Tech) by stepping in shoes of outgoing CoFounder/CTO respectively to help CEO close Pre-Series A round, scale prototype to production grade usable product with live users and laying product roadmap for next 1 year. This involves managing product, engineering, hiring and strategy.  
 
-- 📝 I like to write newsletter(s), Blog(s) & curate content 
+- 📝 I like to write newsletter(s), Blog(s) & curate content as note making process to myself
   - **About AI/ML**: [newsletter](https://polymathai.substack.com)
   - **Startups in General**: [medium](https://medium.com/@sagungarg)
 
 - 💻 I am a Tech Entrepreneur at heart (ambidextrous skills to get job done) 
-  - **Early Stage Decade Experience**: 11+ years of early stage startup, product and architecting tech stacks.
+  - **Early Stage Decade Experience**: 11+ years of early stage startup, product and engineering tech stacks.
   - **Bootstrapping**: Startup with Customer Money before seed round
+  - **P/M Fit**: Pivoting everything till you hit the target with paying users in a Sizeable market for outsized outcomes
   - **Raising Venture Capital**: Proven track record [Pre-Seed -> Seed -> Pre-SeriesA]
   - **Product Owner**: Experience building & executing Product Roadmaps [Market Sizing, P/M Fit and User Acquisition]
   - **Leading teams**: Building Atleast 20+ developers in CTO capacity
   - **B2B & B2C**: Prior proven experience launching B2C Mobile Products and B2B Enterprise Products 
 
-- 💻 I have extensive experience as Entrepreneur in Residence in Deeptech products
+- 💻 I have extensive experience as Entrepreneur in Residence in Deeptech products in South East Asia:
   - **Market Sizing**: Define target market, customer persona and go to market strategy
   - **Weekend Prototyping**: Build initial prototype(s) and iterate week on week with user feedback
   - **Cofounder Matching**: Find a Cofounder for the venture with complementary skills
@@ -45,16 +46,13 @@ layout: default
 ## My Work experience includes
 - 💻 **Architecting**: BigData achitectural patterns in AWS Infra jigsaw puzzle
 - ⚙️ **Vendor Management** : Build vs Buy and Optimising for speed and technical debt complexity
-- 👥 **Mentoring**: Senior engineers to become leaders by cultivating their skills to manage junior engineers
+- 👥 **Mentoring**: Senior engineers, product managers and growth hackers to become leaders by cultivating their skills to manage bigger teams in their respective verticals
 - 📋 **Managing Product Roadmaps**: sprints, cost budgets, recruiting, writing detailed specs, product roadmaps and manage release cycles
 - 🤖 **Automating**: CI/CD the whole release process to QA, TestFlight, AppStore & Improving the CI/CD pipelines and build times…
 - 👥 **Devops**: Improving the PR review experience (using Danger and Vapor Bots to interact with your PRs, among others)
 - ⚙️ **Tools**: Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
 - ⏱ **Testing Frameworks**: Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And much more 🙂
-
-
-
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
