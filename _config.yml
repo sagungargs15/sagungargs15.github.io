@@ -3,7 +3,7 @@ description: 3 x Founder/CTO (12yrs), 3 x EIR, Polyglot Programmer, ex-Deloitte.
 baseurl: "/"
 url: "https://sagungargs15.github.io"
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics: UA-175512960-1
 theme: jekyll-theme-minimalist
 plugins:
   - jekyll-sitemap
