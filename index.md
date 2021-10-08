@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
+## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
 
 **Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
@@ -58,7 +58,7 @@ Both ventures involved managing product strategy, product features, engineering,
 - 👥 **Devops**: Improving the PR review experience (using Danger and Vapor Bots to interact with your PRs, among others)
 - ⚙️ **Tools**: Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
 - ⏱ **Testing Frameworks**: Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
-- ✨ And much more 🙂
+- ✨ And [much more](https://sagungarg.com/much-more) 🙂
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
