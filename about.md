@@ -11,35 +11,40 @@ categories: engineer entrepreneur sagun
 
 **Brief: 35, 3 x Founder, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
 
-- **CTO-on-Hire2**: Supply Chain Startup - Helped Closed Pre-Series A 3.2mn$ round after outgoing CTO/Cofounder
-- **CTO-on-Hire1**: Ed-Tech Startup - Helped Closed Pre-Series A 1mn$ round after outgoing CTO/Cofounder
-- **EIR3**: NEC Accelerator Singapore, ML/AI Technologies
+- **CTO-on-Hire2**: Predictive Data Intelligence(Maritime Supply Chain) - Helped Close Pre-Series A 3.2mn$ round after outgoing CTO/Cofounder decided to part ways with the Venture
+- **CTO-on-Hire1**: AI Automated Content Authoring (NLG) in Ed-Tech/Career-tech Startup - Helped Close Pre-Series A 1.1 mn$ round after outgoing CTO/Cofounder decided to part ways with the Venture
+- **EIR3**: Solopreneur in Biotech Muscle Sensory Devices hardware platform for Medical Research Labs , NEC Labs (Accelerator) Singapore, ML/AI Technologies
 - **Co-Founder3**: 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search 
 - **EIR2**: External Co-Founder Entrepreneur First SG6 2019 - Singapore
 - **EIR1**: Graduated from Antler SG3 2019 - Singapore, Y Combinator SUS 2019
 - **Co-Founder2**: Nexchanges (Oyeok App) Price Discovery of Real Estate[VC Funded $175k: 4yrs], 
 - **Co-Founder1**: Black & White Aventura, PropTech End to End Portal, [BooStrapped GMV $100mn Cum - 9 yrs]
-- Held more than 7+ leadership positions till date. Won 6 competitions/hackathons till date
+- **Past Leadership**: Served 7+ teams empowering them. 
+- **Competitions/hackathons**: Won 6 of them till date Intel, Microsoft, NEC Labs, IBM, IIM-A, IIT-B, Web-Summit
 
-- I am a hands on CTO, Full Stack - Polyglot Programmer - Architect Experience
-- Strong Product Management & Design Skills, especially MVPs. B-Tech (CS) - DAIICT, India
-- Experience architecting systems at consumer-facing internet-scale
- - built large distributed microservices platforms (polyglot)
- - ensuring 100ms P99 latencies
- - event driven architecture
- - big data analytics (billion+ new rows per day)
- - large online application data tables (more than billion rows) generated daily
+### Quick Check
+- **Hands-on-CTO**: Full Stack - Polyglot Programmer - Architect Experience
+- **Multi-Paradigm**: Problem statement driven programming paradigm: functional, oops, imperative or hybrid
+- **Product Management**: & Design skills, especially MVPs, 
+- **B2C Scale**: Experience architecting systems at consumer-facing internet-scale
+- **Distributed Systems**: built large distributed microservices platforms (polyglot)
+- **Nine Nines Latencies**ensuring 100ms P99 latencies
+- **Event Driven Systems**: 
+- **Big Data Analytics**: billion+ new rows per hour streamed into data lakes
+- **OLTP/OLAP DBs** Handle evolving data tables of order of billion rows generated hourly
 
 Keywords: Kafka, Event-driven, Streaming, Kubernetes, Kotlin and Queuing
 
-## Data Engineering
+### Elaborate
+
+#### Data Engineering
 - Grow a team of data engineers
 - Scale our data pipelines and tools
 - Drive the collection of new data from Data Sources
 - Improve our data model and instrumentation
 - Identify and build shared libraries and resources for Data Science work such as, forecasting tooling, anomaly detection at scale, and support for different machine learning approaches
 
-## Leadership Experience
+#### Leadership Experience
 - Experience with the OKR framework
 - A capacity to both act as a servant leader and to lead from the front
 - Experience in leading the architecture of consumer-facing, highly scalable software systems
@@ -47,15 +52,15 @@ Keywords: Kafka, Event-driven, Streaming, Kubernetes, Kotlin and Queuing
 - Lead contributor to our long term Engineering Strategy.
 - Designing for compliance, security, and data protection
   
-## Soft Skills
+#### Soft Skills
 -  Experience in leading multi-racial and multi-cultural team and celebrates diversity in opinions
 -  Talent for precise articulations of end-users problems
 
-## Speciality in Early Stage Products (Zero to One) 
+#### Speciality in Early Stage Products (Zero to One) 
 -  Experience building software products from kick-off to ship
 -  Loves running experiments and has the courage to kill products early if we get it wrong or have no traction
 
-## Product Management Skills
+#### Product Management Skills
 - 5+ years of product management experience
 - Performance tracking, KPI management and analysis in collaboration with business teams
 - Plan relevant testing phases, rollout and product delivery
@@ -66,7 +71,7 @@ Keywords: Kafka, Event-driven, Streaming, Kubernetes, Kotlin and Queuing
 - Deep understanding of project management principles and best practices 
 - Exceptional communication and presentation skills
 
-## Attitude to others: 
+#### Attitude to others: 
 
 > Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
 
