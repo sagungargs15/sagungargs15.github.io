@@ -7,7 +7,7 @@ layout: default
 # POEM: Candy, Candy Machine & Candyman
 **(candy = product, candy machine = startup and candyman = team)**
 
-![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/entrepreneurship-candy-candyman-candymachine.png)
+# POEM ALERT | | ![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/entrepreneurship-candy-candyman-candymachine.png)
 
 ## MAKING KIDDOs 👶 (CUSTOMERS) SMILE…😀
 
@@ -15,29 +15,32 @@ layout: default
 
 ### meanwhile..the kid cried give me the candy (get's rehearsed with vigor)
 
-> hmm..CHOCOLATE, that’s not CANDY..hmm..
+> hmm.. **CHOCOLATE**, that’s not **CANDY!!!** ..hmm..
 
-> IF I **build** the candy machine, I get to EAT ALL THE CANDY 🤩
+> IF I **build** the candy machine, I get to **EAT ALL THE CANDY** 🤩
 
 (It’s backwards, build something customers want, build something you want as your own user)
 
-### meanwhile..the kid cried give me the candy (get's rehearsed with vigor)
+### meanwhile..the kid cried give me the candy 
+(get's rehearsed with vigor in chorus)
 
-> hmm..DEVELOPER MACHINE, that’s not CANDY MACHINE..hmm..
+> hmm.. **DEVELOPER MACHINE** (give an expression), that’s not **CANDY MACHINE** ..hmm..
 
-> IF I **learn** the candy man, I can CANDY THE CHOCOLATE 🤩
+> IF I **learn** the candy man, I can **CANDY THE CHOCOLATE** 🤩
 
-(Fail fast. Lack of product market fit reinforces pivoting your startup )
+(Fail fast. Lack of product market fit reinforces pivoting your everything)
 
-### meanwhile..the kid  cried give me the candy (get's rehearsed with vigor)
+### meanwhile..the kid  cried give me the candy 
+(get's rehearsed with vigor in chorus)
 
-> Hmm.. HANDYMAN, that’s not CANDY MAN..hmm..
+> hmm.. **HANDYMAN** (give an expression), that’s not **CANDY MAN** ..hmm.. 
 
 > IF I **re-build** the candy machine, I can MAKE THE_CANDY 🤩
 
 (Redo what’s not working in the startup: team, product & market)
 
-### meanwhile..the kid  cried give me the candy (get's rehearsed with vigor)
+### meanwhile..the kid  cried give me the candy 
+(get's rehearsed with vigor in chorus)
 
 **———  loop again ——**
 
