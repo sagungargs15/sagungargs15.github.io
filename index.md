@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
+## [About](https://sagungarg.com/about) [Entrepreneurship](https://sagungarg.com/entrepreneurship-poem): CTO/Founder: [Sagun](https://twitter.com/sagungarg)
 
 **Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
