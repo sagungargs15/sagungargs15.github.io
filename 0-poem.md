@@ -50,6 +50,8 @@ layout: default
 
 
 ^Image Credit: <a href='https://www.freepik.com/vectors/vintage'>Vintage vector created by freepik - www.freepik.com</a>
+
 ^^ (get's rehearsed with vigor in chorus)
+
 ^^^ (give an expression)
 
