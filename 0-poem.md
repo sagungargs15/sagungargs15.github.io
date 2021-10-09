@@ -8,9 +8,10 @@ layout: default
 
 ## [MAKING KIDDOs 👶 (CUSTOMERS) SMILE…😀]
 
-*(candy = product, candy machine = startup and candyman = team)*
 
-![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/candy-game.png) 
+
+![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/candy-game.png)
+**(candy = product, candy machine = startup and candyman = team)**
 Image Credit: <a href='https://www.freepik.com/vectors/vintage'>Vintage vector created by freepik - www.freepik.com</a>
 
 ```
