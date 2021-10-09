@@ -1,1 +1,3 @@
 <embed src="https://sagungarg.com/pdfs/cv.pdf" type="application/pdf" />
+
+If the embedded PDF is not displayed properly, <a href="https://sagungarg.com/pdfs/cv.pdf" target="_blank">please click here.</a> <embed src="https://sagungarg.com/pdfs/cv.pdf" width="1000px" height="800px" />
