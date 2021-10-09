@@ -9,33 +9,31 @@ layout: default
 ## [MAKING KIDDOs 👶 (CUSTOMERS) SMILE…😀]
 
 ![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/candy-man.png) 
+^Img Credit at bottom of page
 
-**(candy = product, candy machine = startup and candyman = team)** ^Img Credit at bottom of page
+**CANDY = product, CANDY MACHINE = startup and CANDYMAN = team)** 
 
-```
-**——Start of Infinite loop——**
-```
+**——START INFINITE LOOP——**
 
-### meanwhile..the kid cried give me the ***CANDY!!!*** ^^
+### meanwhile..the kid cried give me the **CANDY!!!** ^^
 
 > hmm.. **CHOCOLATE** ^^^, that’s not **CANDY!!!** ..hmm..
   IF I **build** the candy machine, I get to **EAT ALL THE CANDY** 🤩
 
-### meanwhile..the kid cried give me the ***CANDY!!!*** ^^
+### meanwhile..the kid cried give me the **CANDY!!!** ^^
 
 > hmm.. **DEVELOPER MACHINE** ^^^, that’s not **CANDY MACHINE** ..hmm..
   IF I **learn** the candy man, I can **CANDY THE CHOCOLATE** 🤩
 
-### meanwhile..the kid  cried give me the ***CANDY!!!*** ^^
+### meanwhile..the kid  cried give me the **CANDY!!!** ^^
 
 > hmm.. **HANDYMAN** ^^^, that’s not **CANDY MAN** ..hmm.. 
   IF I **re-build** the candy machine, I can **MAKE THE CANDY** 🤩
 
-### meanwhile..the kid  cried give me the ***CANDY!!!***
+### meanwhile..the kid  cried give me the **CANDY!!!** ^^
 
-```
-**———  loop again ——**
-```
+**———  LOOP AGAIN ——**
+
 
 > At the end of the day what matters? **Step1**: "Build -> Learn (Works?)" **Step2**: "Repeat step1" - said every Entrepreneur
  
@@ -44,10 +42,8 @@ layout: default
   - **Verse2**: Fail fast. Lack of product market fit reinforces pivoting your everything (candy the chocolate)
   - **Verse3**: Redo what’s not working in the startup: team, product & market (redo candymachine)
 
-
-^Image Credit: <a href='https://www.freepik.com/vectors/vintage'>Vintage vector created by freepik - www.freepik.com</a>
-
-^^ (get's rehearsed with vigor in chorus)
-
-^^^ (give an expression)
+**Notes**:
+- ^Image Credit: <a href='https://www.freepik.com/vectors/vintage'>Vintage vector created by freepik - www.freepik.com</a>
+- ^^ (get's rehearsed with vigor in chorus)
+- ^^^ (give an expression)
 
