@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## [About](https://sagungarg.com/about) [Entrepreneurship](https://sagungarg.com/entrepreneurship-poem): CTO/Founder: [Sagun](https://twitter.com/sagungarg)
+## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
 
-**Multiple Hats in One Go: Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
+**[Entrepreneurship](https://sagungarg.com/entrepreneurship-poem) for me is has been multiple hats in One Go: Selling to stakeholders, Polyglot Programmer(7+ languages), System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert.**
 
-- 🗣 **Brief**: I am a repeat Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
+- 🗣 **Brief**: I am a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 
 - ⏱ **CTO-on-Hire**:I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intelligence) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO 
   - close Pre-Series A round, 
