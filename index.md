@@ -58,7 +58,7 @@ Both ventures involved managing product strategy, product features, engineering,
 - 👥 **Devops**: Improving the PR review experience (using Danger and Vapor Bots to interact with your PRs, among others)
 - ⚙️ **Tools**: Providing integration between tools for developers, QA & product (GitHub, JIRA, Lokalize, Figma, TestRails, CI, …)
 - ⏱ **Testing Frameworks**: Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
-- ✨ And [much more](https://sagungarg.com/much-more) 🙂
+- ✨ And [much more](https://sagungarg.com/0-much-more) 🙂
 
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
