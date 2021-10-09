@@ -4,7 +4,7 @@ layout: default
 
 ## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
 
-**[Entrepreneurship](https://sagungarg.com/entrepreneurship-poem) for me is multiple hats in one Go: Selling to stakeholders, Resource mobilization & Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert).**
+**[Entrepreneurship](https://sagungarg.com/0-poem) for me is multiple hats in one Go: Selling to stakeholders, Resource mobilization & Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert).**
 
 - 🗣 **Brief**: I am a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 

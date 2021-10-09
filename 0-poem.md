@@ -2,7 +2,7 @@
 layout: default
 ---
 
-***Live with me my entrepreneurship story in last the decade ...***
+***La La Land of entrepreneurship: Live with me my story in last the decade ...***
 
 # POEM: Candy, Candy Machine & Candyman 
 
@@ -10,7 +10,7 @@ layout: default
 
 *(candy = product, candy machine = startup and candyman = team)*
 
-![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/entrepreneurship-candy-candyman-candymachine.png)
+![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/candy-game.png)
 
 ```
 **——Start of Infinite loop——**
