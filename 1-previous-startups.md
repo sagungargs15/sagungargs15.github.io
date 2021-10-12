@@ -8,19 +8,24 @@ layout: default
 
 To be updated
 
-### 2013 - 2019
+### 2016 - 2019
 
-- [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Maximize as a Pilot) 
+- [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Platform as fractional ownership in Real Estate)
+
+<a href="https://sagungarg.com/pdfs/oyeok.pdf" target="_blank">Sample dossier Faq</a>
+
+### 2015 - 2019
 - [Nexchanges Technology](https://angel.co/company/nexchanges-technology) - Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
     - Funded By: Singularity Ventures(Venture Capital)
-    - Competitors/Successors: Propstack, Proptiger, 
-     
+    - Competitors/Successors: Propstack, Proptiger
+
+### 2013 - 2019
 - [Black & White Powai Realtors]() I was Board Observer(Corporate Body Nominee) for Growth, P & L and New Business Lines 
     - Funded By: Subsidiary of Black & White Aventura
     - Competitors/Successors: Compass
 
 ### 2010 - 2019
-- [Black & White Aventura](https://in.pinterest.com/bnwa/) - Proptech Price Listings + End to end Transaction
+- [Black & White Aventura](https://in.pinterest.com/bnwa/) - Proptech Price Listings + End to end Transactions
 
     #### Customers - Prestigious Reviews
 
