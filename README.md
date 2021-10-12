@@ -4,8 +4,8 @@
 - 🌱 &nbsp;I’m currently learning [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
 - 💬 &nbsp;Ask me about anything related to building AI/ML Startups, Data Engineering and Data Products
 - 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a>
-- 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-portfolio.html)
-- ⚡ &nbsp;Fun fact: I :heart: :startup:s
+- 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: Startups
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
