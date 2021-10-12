@@ -10,10 +10,7 @@ layout: default
 
 Stealth
 
-## Venture 2: 
-
-- AI/ML PropTech: Total Raised USD 175k, Cumulative 50+ [Team](https://www.linkedin.com/search/results/people/?keywords=nexchanges), Accelerator(s): [SPIT](https://sptbi.com), [IIIT-Hyderabad](https://cie.iiit.ac.in)  
-- Listing Platform, End to End Deals Execution & Property Management
+## Venture 2: VC Funded | USD 175k | AI/ML PropTech | Cumulative 50+ [Team](https://www.linkedin.com/search/results/people/?keywords=nexchanges), Accelerator(s): [SPIT](https://sptbi.com), [IIIT-Hyderabad](https://cie.iiit.ac.in)
 
 ### 2016 - 2019
 
@@ -23,14 +20,20 @@ Stealth
     - **Salient Challenges Solved**:
         <details>
         <summary>(Click to expand!):</summary>
-    -   
+       
         ###    
-        - List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
-        - Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
-        - Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
+        - List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs.
+
+        - Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor.
+
+        - Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV.
+
         - Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
+
         - Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
-        - Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
+
+        - Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity.
+
         </details>
 
 
@@ -48,10 +51,7 @@ Stealth
         - State of Art Polyglot Techstack: Android, iOS, Webapp, Backend(Erlang/OTP), AI/ML & Datalakes(Python)
         </details>
 
-## Venture 1: 
-
-- PropTech: Cumulative GMV $ 100mn+, 25+ Team, 5 Regional Offices  
-- Listing | End to End Deals Execution 
+## Venture 1: PropTech: Bootstrapped | Cumulative GMV $ 100mn+, 25+ Team, 5 Regional Offices
 
 ### 2013 - 2019
 - **[Black & White Powai Realtors](https://www.zaubacorp.com/company/BLACK-WHITE-POWAI-REALTORS-LLP/AAC-1751)**: I was Board Observer(Corporate Body Nominee) for Growth, P & L and New Business Lines 
