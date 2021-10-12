@@ -14,16 +14,18 @@ To be updated
     - **Investor Faqs**: <a href="https://sagungarg.com/pdfs/oyeok.pdf" target="_blank">Sample Dossier Faq</a>
     - **Competitors/Successors**: [PropertyShare](https://www.propertyshare.in/), [RealX](https://www.realx.io/), [hBits](https://hbits.co/) 
     - **Salient Challenges Solved**:
-<details>
-<summary>(Click to expand!):</summary>
+        <details>
+        <summary>(Click to expand!):</summary>
 
-1.  List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
-2. Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
-3. Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
-4. Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
-5. Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
-6. Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
-</details>
+        1. List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
+        2. Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
+        3. Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
+        4. Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
+        5. Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
+        6. Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
+        </details>
+
+
 
 ### 2015 - 2019
 - **[Nexchanges Technology](https://angel.co/company/nexchanges-technology)**: Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
