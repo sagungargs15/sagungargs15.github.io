@@ -32,10 +32,14 @@ To be updated
     - **Funded By**: [Singularity Ventures(Venture Capital)](https://pitchbook.com/profiles/investor/109878-85#overview)
     - **Competitors/Successors**: [Propstack](https://www.propstack.com/), [Zapkey](https://www.zapkey.com/)
     - **Salient Challenges Solved**:
-        - 
+        <details>
+        <summary>(Click to expand!):</summary>
+
         - User Acquisition via Whatsapp Groups in 120+ prime pincodes in 20+ cities to enable automated crawling with Industry specific keyword tokenization using NLP(Natural Language Processing) based automation for auto leads classification
         - Asset Lite two Sided Marketplace: Brokers and Customers with two different logins in same App
         - State of Art Polyglot Techstack: Android, iOS, Webapp, Backend(Erlang/OTP), AI/ML & Datalakes(Python)
+        </details>
+
 ### 2013 - 2019
 - **[Black & White Powai Realtors](https://www.zaubacorp.com/company/BLACK-WHITE-POWAI-REALTORS-LLP/AAC-1751)**: I was Board Observer(Corporate Body Nominee) for Growth, P & L and New Business Lines 
     - **Funded By**: Subsidiary of [Black & White Aventura](https://in.pinterest.com/bnwa/)
