@@ -13,13 +13,18 @@ To be updated
 - [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Platform as fractional ownership in Real Estate)
     - **Investor Faqs**: <a href="https://sagungarg.com/pdfs/oyeok.pdf" target="_blank">Sample Dossier Faq</a>
     - **Competitors/Successors**: [PropertyShare](https://www.propertyshare.in/), [RealX](https://www.realx.io/), [hBits](https://hbits.co/) 
-    - **Salient Challenges Solved**:
-        - List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
-        - Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
-        - Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
-        - Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
-        - Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
-        - Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
+    
+    <details>
+    - <summary>Salient Challenges Solved (Click to expand!):</summary>
+    
+    * List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
+    * Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
+    * Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
+    * Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
+    * Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
+    * Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
+
+    </details>
 
 ### 2015 - 2019
 - **[Nexchanges Technology](https://angel.co/company/nexchanges-technology)**: Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
