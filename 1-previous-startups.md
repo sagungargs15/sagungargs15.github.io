@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## List of Previous Ventures/StartUps
+# List of Previous Ventures/StartUps
 
-## Venture 3: TBD
+## Venture 3: Stealth
 
 ### 2019 - 2021
 
-To be updated
+Stealth
 
 ## Venture 2: 
 
-- AI/ML PropTech: Total Raised $ 175k | Cumulative 50+ [Team](https://www.linkedin.com/search/results/people/?keywords=nexchanges) | Incubator(s): [SPIT](https://sptbi.com), [IIIT-Hyderabad](https://cie.iiit.ac.in)  
-- Listing | End to End Deals Execution 
+- AI/ML PropTech: Total Raised USD 175k, Cumulative 50+ [Team](https://www.linkedin.com/search/results/people/?keywords=nexchanges), Accelerator(s): [SPIT](https://sptbi.com), [IIIT-Hyderabad](https://cie.iiit.ac.in)  
+- Listing Platform, End to End Deals Execution & Property Management
 
 ### 2016 - 2019
 
@@ -50,7 +50,7 @@ To be updated
 
 ## Venture 1: 
 
-- PropTech: Cumulative GMV $ 100mn+ | 25+ Team | 5 Regional Offices  
+- PropTech: Cumulative GMV $ 100mn+, 25+ Team, 5 Regional Offices  
 - Listing | End to End Deals Execution 
 
 ### 2013 - 2019
