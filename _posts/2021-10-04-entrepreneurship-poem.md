@@ -14,7 +14,8 @@ tags: startups poems entrepreneurship
 ## [MAKING KIDDOs 👶 (CUSTOMERS) SMILE…😀]
 
 ![La La Land of Entrepreneurship](https://sagungarg.com/assets/img/candy-man.png) 
-^Img Credit at bottom of page
+
+<u>^Img Credit at bottom of page</u>
 
 **CANDY = product, CANDY MACHINE = startup and CANDYMAN = team)** 
 
