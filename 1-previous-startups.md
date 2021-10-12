@@ -13,9 +13,8 @@ To be updated
 - [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Platform as fractional ownership in Real Estate)
     - **Investor Faqs**: <a href="https://sagungarg.com/pdfs/oyeok.pdf" target="_blank">Sample Dossier Faq</a>
     - **Competitors/Successors**: [PropertyShare](https://www.propertyshare.in/), [RealX](https://www.realx.io/), [hBits](https://hbits.co/) 
-    
-    <details>
-    - <summary>Salient Challenges Solved (Click to expand!):</summary>
+    - <details>
+        <summary>Salient Challenges Solved (Click to expand!): </summary>
     
     * List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
     * Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
