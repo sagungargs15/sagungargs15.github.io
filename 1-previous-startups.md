@@ -15,13 +15,13 @@ To be updated
     - **Competitors/Successors**: [PropertyShare](https://www.propertyshare.in/), [RealX](https://www.realx.io/), [hBits](https://hbits.co/) 
     - <details>
         <summary>Salient Challenges Solved (Click to expand!): </summary>
-    
-    * List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
-    * Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
-    * Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
-    * Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
-    * Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
-    * Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
+
+        * List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
+        * Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
+        * Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
+        * Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
+        * Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
+        * Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
 
     </details>
 
