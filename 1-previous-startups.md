@@ -4,9 +4,16 @@ layout: default
 
 ## List of Previous Ventures/StartUps
 
+## Venture 3: TBD
+
 ### 2019 - 2021
 
 To be updated
+
+## Venture 2: 
+
+- AI/ML PropTech: Total Raised $ 175k | Cumulative 50+ [Team](https://www.linkedin.com/search/results/people/?keywords=nexchanges) | Incubator(s): [SPIT](https://sptbi.com), [IIIT-Hyderabad](https://cie.iiit.ac.in)  
+- Listing | End to End Deals Execution 
 
 ### 2016 - 2019
 
@@ -16,13 +23,14 @@ To be updated
     - **Salient Challenges Solved**:
         <details>
         <summary>(Click to expand!):</summary>
-
-        1. List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
-        2. Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
-        3. Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
-        4. Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
-        5. Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
-        6. Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
+    -   
+        ###    
+        - List Private Shares on NSE/BSE for Investor Trust & Confidence of ownership using RTAs
+        - Use Pvt Ltd as Special Purpose Vehicle(SPV) with strong compliances instead of LLPs used by Competitor
+        - Progressive capital raising to align with payment schedule via Rights Issue as OCDs(Optionally Convertible Debentures) to address cost effectiveness of the SPV
+        - Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
+        - Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
+        - Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
         </details>
 
 
@@ -39,6 +47,11 @@ To be updated
         - Asset Lite two Sided Marketplace: Brokers and Customers with two different logins in same App
         - State of Art Polyglot Techstack: Android, iOS, Webapp, Backend(Erlang/OTP), AI/ML & Datalakes(Python)
         </details>
+
+## Venture 1: 
+
+- PropTech: Cumulative GMV $ 100mn+ | 25+ Team | 5 Regional Offices  
+- Listing | End to End Deals Execution 
 
 ### 2013 - 2019
 - **[Black & White Powai Realtors](https://www.zaubacorp.com/company/BLACK-WHITE-POWAI-REALTORS-LLP/AAC-1751)**: I was Board Observer(Corporate Body Nominee) for Growth, P & L and New Business Lines 
