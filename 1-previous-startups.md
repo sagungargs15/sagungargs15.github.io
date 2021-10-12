@@ -13,8 +13,9 @@ To be updated
 - [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Platform as fractional ownership in Real Estate)
     - **Investor Faqs**: <a href="https://sagungarg.com/pdfs/oyeok.pdf" target="_blank">Sample Dossier Faq</a>
     - **Competitors/Successors**: [PropertyShare](https://www.propertyshare.in/), [RealX](https://www.realx.io/), [hBits](https://hbits.co/) 
-    - <details>
-        **Salient Challenges Solved**: 
+    - **Salient Challenges Solved**:
+    
+    <details>
         <summary>(Click to expand!): </summary>
         
         ### 
@@ -24,7 +25,7 @@ To be updated
         - Anchor Investor + Retail participation to avoid future simplicity in liquidating or enabling exist for investors.
         - Avoid Director/Investor conflict by isolating any vested interest of Directors from the investment vehicle.
         - Low Investment ticket size reduced entry barrier for high growth investment opportunities and brought transparent hassle free participation opportunity
-      </details>
+    </details>
 
 ### 2015 - 2019
 - **[Nexchanges Technology](https://angel.co/company/nexchanges-technology)**: Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
