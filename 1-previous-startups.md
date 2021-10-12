@@ -49,7 +49,7 @@ Stealth
         - State of Art Polyglot Techstack: Android, iOS, Webapp, Backend(Erlang/OTP), AI/ML & Datalakes(Python)
         </details>
 
-## <u>Venture 1</u>: PropTech: [Bootstrapped]((https://yourstory.com/2014/03/blackwhite-aventura) | Cumulative GMV USD 100mn+, 75+ [Team](https://www.linkedin.com/search/results/people/?keywords=black%20and%20white%20aventura), 5 Regional Offices
+## <u>Venture 1</u>: PropTech: [Bootstrapped](https://yourstory.com/2014/03/blackwhite-aventura), Cumulative GMV USD 100mn+, 75+ [Team](https://www.linkedin.com/search/results/people/?keywords=black%20and%20white%20aventura), 5 Regional Offices
 
 ### 2013 - 2019
 - **[Black & White Powai](https://www.zaubacorp.com/company/BLACK-WHITE-POWAI-REALTORS-LLP/AAC-1751)**: I was Board Observer(Corporate Body Nominee) for Growth, P & L and New Business Lines 
