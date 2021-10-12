@@ -24,8 +24,9 @@ categories: engineer entrepreneur sagun
 
 ### Quick Check
 - **Hands-on-CTO**: Full Stack - Polyglot Programmer - Architect Experience
+- **Startup Speed**: Hackathon style break fast, fail fast & launch embarassing products to pivot fast
 - **Multi-Paradigm**: Problem statement driven programming paradigm: functional, oops, imperative or hybrid
-- **Product Management**: & Design skills, especially MVPs, 
+- **Product Management**: Product Features, Roadmap, Design skills(UI-UX especially 0 to 1 MVPs)
 - **B2C Scale**: Experience architecting systems at consumer-facing internet-scale
 - **Distributed Systems**: built large distributed microservices platforms (polyglot)
 - **Nine Nines Latencies**ensuring 100ms P99 latencies
