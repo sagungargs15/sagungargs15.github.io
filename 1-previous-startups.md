@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "List of Previous Ventures/StartUps"
 ---
 
 # List of Previous Ventures/StartUps

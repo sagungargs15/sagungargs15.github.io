@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "I recommend"
 ---
 
 ## I recommend reading these ideas

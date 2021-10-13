@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Poem: Candy, Candyman & Candy Machine"
 ---
 
 ***La La Land of entrepreneurship: Live with me my story in last the decade ...***
