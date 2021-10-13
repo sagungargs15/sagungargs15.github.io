@@ -1,5 +1,6 @@
 ---
 layout: pages
+title: "Arts, Poetry and Human Character"
 ---
 
 

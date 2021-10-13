@@ -1,6 +1,8 @@
 ---
 layout: pages
+title: "Daring Startups make Cultural Moves"
 ---
+
 
 ## Cultural Moves by Daring Startups
 
@@ -14,7 +16,7 @@ layout: pages
     1. Open Salary Paygrades
     2. Diversity stats
     3. Product Roadmaps
-8. Flat Office Hierarchy
+8. Flat Office Hierarchy - Open desk Culture
 9. Paid User-SignUps/Cashbacks
 10. Lifestyle
     1. Free Lunch
@@ -22,3 +24,5 @@ layout: pages
     3. Creche in Office Workplace
 11. Free Patents belong to Public([Tesla](https://www.tesla.com/blog/all-our-patent-are-belong-you))
 12. Opensource Code([Sunmicrosystems-OpenOffice](https://www.openoffice.org/press/sun_release.html))
+13. 4 Day Work Week at 80% Salary
+14. 

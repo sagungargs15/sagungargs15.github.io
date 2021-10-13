@@ -1,5 +1,6 @@
 ---
 layout: pages
+title: "My Opioniated Approach to Venture Building"
 ---
 
 ## New Venture Approach

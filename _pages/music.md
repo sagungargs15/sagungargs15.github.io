@@ -1,5 +1,6 @@
 ---
 layout: pages
+title: "My Music Tracks"
 ---
 
 ## 2021
