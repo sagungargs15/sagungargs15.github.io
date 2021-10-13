@@ -67,6 +67,4 @@ Alchemix
 - Balaji Srinivasan
 - Naval Ravikant
 - Chamath Palihapitiya
-- 
-- 
 
