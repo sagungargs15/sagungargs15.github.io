@@ -1,3 +1,6 @@
+---
+layout: pages
+---
 
 ## Cultural Moves by Daring Startups
 

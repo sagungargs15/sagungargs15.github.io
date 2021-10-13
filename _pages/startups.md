@@ -1,3 +1,7 @@
+---
+layout: pages
+---
+
 ## New Venture Approach
 
 **Approach to new Venture**

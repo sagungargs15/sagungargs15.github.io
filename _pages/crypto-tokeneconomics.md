@@ -1,4 +1,6 @@
-
+---
+layout: pages
+---
 
 ## 5 Essential Ingredients
 

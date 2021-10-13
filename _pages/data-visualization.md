@@ -1,3 +1,6 @@
+---
+layout: pages
+---
 
 > The history of computing is a story about abstractions, how we’ve hidden complex things away. 
  

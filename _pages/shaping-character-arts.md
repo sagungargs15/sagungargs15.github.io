@@ -1,4 +1,6 @@
-
+---
+layout: pages
+---
 
 
 ## Shaping Character ? How Art Poetry & Music is Soul of Creation
