@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "List of Crypto VC Funds"
-date: 2021-09-24 23:59:59 -0000
+title: "August21: Crypto Notes: List of Crypto VC Funds"
+date: 2021-08-24 23:59:59 -0000
 categories: crypto-funds crypto-angels
 author: "Sagun Garg"
-tags: crypto-venture-capital
+tags: crypto-vcs
 ---
 
 ** Dynamics of Debt Created by Central Banks**
