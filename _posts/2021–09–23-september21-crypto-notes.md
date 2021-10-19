@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "September21: Crypto-notes"
+title: "September21: Crypto Notes"
 date: 2021-09-23 23:59:59 -0000
 categories: crypto notes
 author: "Sagun Garg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interesting Notes"
+title: "September21: Interesting Notes"
 date: 2021-09-22 23:59:59 -0000
 categories: crypto-heroes life-hacks
 author: "Sagun Garg"
