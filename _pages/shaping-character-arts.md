@@ -12,7 +12,6 @@ title: "Arts, Poetry and Human Character"
 
 ### Poetry
 
-
 ### Music
 
 ## Questions
