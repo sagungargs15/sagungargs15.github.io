@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "October21: Crypto-notes"
-date: 2021-10-19 23:59:59 -0000
+date: 2021-10-23 23:59:59 -0000
 categories: crypto notes
 author: "Sagun Garg"
 tags: bitcoin, ethereum, chainlink, polkadot, solana

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August21: Crypto Notes: List of Crypto VC Funds"
-date: 2021-08-24 23:59:59 -0000
+date: 2021-08-23 23:59:59 -0000
 categories: crypto-funds crypto-angels
 author: "Sagun Garg"
 tags: crypto-vcs
