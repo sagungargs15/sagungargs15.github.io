@@ -4,6 +4,6 @@ title: "Crypto School"
 ---
 
 Index
-1. [Crypto Primitives of Blockchains](./_pages/1-crypto-primitives)
-2.  
+1. [Crypto Primitives of Blockchains](./1-crypto-blockchain-primitives)
+2. [Crypto Networks](./2-crypto-networks)
 3. 
