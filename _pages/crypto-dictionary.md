@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: "Crypto Data Science"
+title: "Crypto Dictionary"
 ---
 
 ## What are the Buzzwords in the Crypto Industry ?

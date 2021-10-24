@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: "Crypto Tokenomics"
+title: "Crypto Tokeneconomics"
 ---
 
 ## 5 Essential Ingredients
