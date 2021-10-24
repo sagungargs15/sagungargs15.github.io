@@ -11,7 +11,7 @@ Basically, Capital can now move at the same pace of online thought
 1. **Cryptoschool**
 2. **Academic Courses & Certifications**
     - **MIT**
-        - [BLOCKCHAIN TECHNOLOGIES: BUSINESS INNOVATION AND APPLICATION](https://mitsloan.mit.edu/cryptoeconomics-lab/courses)
+        - [Blockchain Technologies: Business Innovation & Application](https://mitsloan.mit.edu/cryptoeconomics-lab/courses)
         - [Entrepreneurs without Borders](https://ocw.mit.edu/courses/sloan-school-of-management/15-395-entrepreneurship-without-borders-fall-2016/)
         - [Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/)
         - [Shared Public Ledgers: Cryptocurrencies, Blockchains, and Other Marvels]()
@@ -58,6 +58,7 @@ Basically, Capital can now move at the same pace of online thought
     - [Charterhouse](https://charterhouse.github.io/)
 
 
+
 **Interesting Long Articles for getting back in Crypto**
 1. Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges
 https://arxiv.org/pdf/1904.05234.pdf
@@ -72,10 +73,10 @@ https://arxiv.org/pdf/1904.05234.pdf
 2. https://www.station.express/
 
 **References**
-https://virtualelena.substack.com/p/is-this-public
-https://www.notboring.co/p/crypto-bezos
-https://jimmymow.medium.com/announcing-the-strike-api-c18a4e9c54de
-https://a16z.com/2020/04/08/crypto-network-effects/
+1. https://virtualelena.substack.com/p/is-this-public
+2. https://www.notboring.co/p/crypto-bezos
+3. https://jimmymow.medium.com/announcing-the-strike-api-c18a4e9c54de
+4. https://a16z.com/2020/04/08/crypto-network-effects/
 
 
 
