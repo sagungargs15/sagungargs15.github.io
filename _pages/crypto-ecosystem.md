@@ -11,6 +11,8 @@ Basically, Capital can now move at the same pace of online thought
 1. Cryptoschool
 2. Academic Courses & Certifications
     - MIT
+        - [BLOCKCHAIN TECHNOLOGIES: BUSINESS INNOVATION AND APPLICATION](https://mitsloan.mit.edu/cryptoeconomics-lab/courses)
+        - 
     - Stanford
         - [Blockchain and Cryptocurrency: What You Need to Know](https://online.stanford.edu/courses/soe-xcs0001-blockchain-and-cryptocurrency-what-you-need-know)
         - [Cryptocurrencies and Blockchain Technologies](https://online.stanford.edu/courses/cs251-cryptocurrencies-and-blockchain-technologies)
