@@ -72,6 +72,8 @@ Basically, Capital can now move at the same pace of online thought
 
 3. https://station.mirror.xyz/xlPSC6PYsazGxjo-pqyaV8M4ujtWapxhCmVQfBjmN9o
 
+4. Opensea’s [NFT Bible]() is a decent introduction
+
 
 **For a Developer to Upskill to Web 3.0 use platforms**
 1. https://optilistic.com/
