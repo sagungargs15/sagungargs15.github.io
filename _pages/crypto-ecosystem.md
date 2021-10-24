@@ -38,16 +38,16 @@ Basically, Capital can now move at the same pace of online thought
     - Binance
     - Protocol Labs
 6. **Cryptos OGs (Original Gangsters)**
-    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/vitalikbuterin), [Vitalik Buterin](https://vitalik.ca/), [Ethereum](https://ethereum.org/)
-    - [Changpeng Zhao](), [twitter link](https://twitter.com/cz_binance) - [Binance](https://www.binance.com/en/blog)
-    - [Balaji Srinivasan](https://balajis.com/),[twitter link](https://twitter.com/balajis)  - ex CTO Coinbase
-    - [Chris Dixon](https://cdixon.org/) - a16z Crypto Fund
-    - [Brian Armstrong]() [twitter link](https://twitter.com/brian_armstrong) - Coinbase
-    - [Muneeb Ali](https://muneeb.com/) [twitter link](https://twitter.com/muneeb) - [Blockstack](https://www.stacks.co/)
-    - [Avichal Garg](https://avichal.com/) [twitter link](https://twitter.com/avichal)- [Electric Capital](https://www.electriccapital.com/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/vitalikbuterin), [Vitalik Buterin](https://vitalik.ca/), Ethereum [link](https://ethereum.org/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/cz_binance)[Changpeng Zhao](), Binance [link](https://www.binance.com/en/blog)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/balajis),[Balaji Srinivasan](https://balajis.com/), ex Coinbase [link](https://www.coinbase.com/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/cdixon), [Chris Dixon](https://cdixon.org/) - a16z Crypto Fund
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/brian_armstrong), [Brian Armstrong]() - Coinbase [link](https://www.coinbase.com/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/muneeb), [Muneeb Ali](https://muneeb.com/), Blockstack [link](https://www.stacks.co/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/avichal), [Avichal Garg](https://avichal.com/), Electric Capital [link](https://www.electriccapital.com/)
     - [Olaf Carlson-Wee]() [linkedin link](https://www.linkedin.com/in/olafcw/) - [Polychain Capital](https://polychain.capital/) 
-    - [Joen Krug]() [twitter link](https://twitter.com/joeykrug) - [Pantera Capital](https://panteracapital.com/)
-    - [Fred Ehrsam]() [twitter link](https://twitter.com/FEhrsam) - [Paradigm](https://www.paradigm.xyz/), ex Coinbase Founder
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/joeykrug), [Joen Krug](), Pantera Capital [link](https://panteracapital.com/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/FEhrsam), [Fred Ehrsam](), Paradigm [link](https://www.paradigm.xyz/) - ex Coinbase [link](https://www.coinbase.com/)
     - [Juan Benet](https://juan.benet.ai), [twitter link](https://twitter.com/juanbenet) - Filecoin
     - [Nic Carter]()
 7. **Crypto Academic OGs (Original Gangsters)**
