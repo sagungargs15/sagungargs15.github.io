@@ -38,7 +38,7 @@ Basically, Capital can now move at the same pace of online thought
     - Binance
     - Protocol Labs
 6. **Cryptos OGs (Original Gangsters)**
-    - [![Twitter Logo](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/vitalikbuterin) , [Vitalik Buterin](https://vitalik.ca/), [Ethereum](https://ethereum.org/)
+    - ![Twitter Logo](https://sagungarg.com/assets/img/twitter-logo.png)] [link](https://twitter.com/vitalikbuterin), [Vitalik Buterin](https://vitalik.ca/), [Ethereum](https://ethereum.org/)
     - [Changpeng Zhao](), [twitter link](https://twitter.com/cz_binance) - [Binance](https://www.binance.com/en/blog)
     - [Balaji Srinivasan](https://balajis.com/),[twitter link](https://twitter.com/balajis)  - ex CTO Coinbase
     - [Chris Dixon](https://cdixon.org/) - a16z Crypto Fund
