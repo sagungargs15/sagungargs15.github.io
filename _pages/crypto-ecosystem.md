@@ -35,6 +35,8 @@ Basically, Capital can now move at the same pace of online thought
     - [Pantera Capital](https://panteracapital.com/blockchain-letter/)
     - [Paradigm](https://www.paradigm.xyz/writing/)
     - [Framework Ventures](https://framework.ventures/)
+    - [Divergence Ventures]()
+    - [Dragon Fly Capital](https://twitter.com/dragonfly_cap)
 
 5. **Crypto Founders**
     - Solana
@@ -55,6 +57,8 @@ Basically, Capital can now move at the same pace of online thought
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/FEhrsam), [Fred Ehrsam](), Paradigm [link](https://www.paradigm.xyz/) - ex Coinbase [link](https://www.coinbase.com/)
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/juanbenet), [Juan Benet](https://juan.benet.ai) - Filecoin
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/nic__carter), [Nic Carter](https://niccarter.info/about/) - Castle Island Ventures [link](https://www.castleisland.vc/)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/hosseeb), Haseeb Qureshi
+
 
 7. **Crypto Academic OGs (Original Gangsters)**
     - [Dan Boneh](https://crypto.stanford.edu/~dabo/) [twitter link](https://twitter.com/danboneh) - [Stanford]()
