@@ -9,6 +9,7 @@ Basically, Capital can now move at the same pace of online thought
 
 **Top 10 Places to Learn about Crypto**
 1. **Cryptoschool**
+
 2. **Academic Courses & Certifications**
     - **MIT**
         - [Blockchain Technologies: Business Innovation & Application](https://mitsloan.mit.edu/cryptoeconomics-lab/courses)
@@ -24,22 +25,26 @@ Basically, Capital can now move at the same pace of online thought
         - [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
     - **Udacity**
         - [Become a Blockchain Developer](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+
 3. **Upcoming Crypto Developers Personal Websites**
     - [Anish Agnihotri](https://anishagnihotri.com/)
+
 4. **Crypto Venture Funds Blogs**
     - [Electric Capital](https://medium.com/electric-capital)
     - [Polychain Capital](https://polychain.capital/)
     - [Pantera Capital](https://panteracapital.com/blockchain-letter/)
     - [Paradigm](https://www.paradigm.xyz/writing/)
     - [Framework Ventures](https://framework.ventures/)
+
 5. **Crypto Founders**
     - Solana
     - Algorand
     - Binance
     - Protocol Labs
+
 6. **Cryptos OGs (Original Gangsters)**
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/vitalikbuterin), [Vitalik Buterin](https://vitalik.ca/), Ethereum [link](https://ethereum.org/)
-    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/cz_binance)[Changpeng Zhao](), Binance [link](https://www.binance.com/en/blog)
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/cz_binance), [Changpeng Zhao](), Binance [link](https://www.binance.com/en/blog)
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/balajis),[Balaji Srinivasan](https://balajis.com/), ex Coinbase [link](https://www.coinbase.com/)
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/cdixon), [Chris Dixon](https://cdixon.org/) - a16z Crypto Fund
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/brian_armstrong), [Brian Armstrong]() - Coinbase [link](https://www.coinbase.com/)
@@ -48,8 +53,9 @@ Basically, Capital can now move at the same pace of online thought
     - [Olaf Carlson-Wee]() [linkedin link](https://www.linkedin.com/in/olafcw/) - [Polychain Capital](https://polychain.capital/) 
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/joeykrug), [Joen Krug](), Pantera Capital [link](https://panteracapital.com/)
     - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/FEhrsam), [Fred Ehrsam](), Paradigm [link](https://www.paradigm.xyz/) - ex Coinbase [link](https://www.coinbase.com/)
-    - [Juan Benet](https://juan.benet.ai), [twitter link](https://twitter.com/juanbenet) - Filecoin
-    - [Nic Carter]()
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/juanbenet), [Juan Benet](https://juan.benet.ai) - Filecoin
+    - [![t](https://sagungarg.com/assets/img/twitter-logo.png)](https://twitter.com/nic__carter), [Nic Carter](https://niccarter.info/about/) - Castle Island Ventures [link](https://www.castleisland.vc/)
+
 7. **Crypto Academic OGs (Original Gangsters)**
     - [Dan Boneh](https://crypto.stanford.edu/~dabo/) [twitter link](https://twitter.com/danboneh) - [Stanford]()
     - [Arvind Narayanan](https://www.cs.princeton.edu/~arvindn/) [twitter link](https://twitter.com/random_walker) - Princeton
@@ -60,8 +66,7 @@ Basically, Capital can now move at the same pace of online thought
 
 
 **Interesting Long Articles for getting back in Crypto**
-1. Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges
-https://arxiv.org/pdf/1904.05234.pdf
+1. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
 
 2. https://ath.mirror.xyz/NyefDE67rJEvcM9tAJkf3zHptN7vuaO1MJlpSaSc7O0
 
