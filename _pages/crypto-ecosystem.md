@@ -28,7 +28,8 @@ Basically, Capital can now move at the same pace of online thought
 
 3. **Upcoming Crypto Developers Personal Websites**
     - [Anish Agnihotri](https://anishagnihotri.com/)
-
+    - [Kevin](https://thekevinz.com/)
+    - 
 4. **Crypto Venture Funds Blogs**
     - [Electric Capital](https://medium.com/electric-capital)
     - [Polychain Capital](https://polychain.capital/)
