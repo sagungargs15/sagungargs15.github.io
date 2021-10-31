@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: "Crypto Ecosystem"
+title: "Starting Career in Crypto: Ecosystem"
 ---
 
 > “We can now move bits of value in the way we move bits of information: using an open standard, in very granular transmissions, instantly, to anyone, anywhere in the world.” - Jesse Walden
