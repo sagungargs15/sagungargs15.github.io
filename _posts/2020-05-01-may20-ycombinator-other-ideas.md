@@ -58,6 +58,10 @@ Dynamic learning paths(customise based on personalisation)
 6. Medium
 7. Twitter
 8. Youtube
+9. Pluralsight
+10. Tigerhall
+11. Udacity
+
 
 ## My Trigger: 
 Bloomberg like terminal for early stage investing poised to go mainstream with total East tipping the West (quantum of VC funding)
