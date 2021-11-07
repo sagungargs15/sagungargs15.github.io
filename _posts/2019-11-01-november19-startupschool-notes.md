@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Y Combinator Startup School Notes"
+title: "November19: Y Combinator Startup School Notes"
 date: 2019-11-01 23:59:59 -0000
 categories: incubators
 author: "Sagun Garg"
 tags: ycombinator notes startups 
 ---
-
 
 ## MVP Basics for a StartUp
 
