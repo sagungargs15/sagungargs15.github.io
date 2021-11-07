@@ -7,9 +7,6 @@ author: "Sagun Garg"
 tags: entrepreneurship books blogs
 ---
 
-
-##
-
 ## Entrepreneruship
 Holding Competing ideas in your mind
 
