@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June19: PM Summary at Nexchanges Technology"
+title: "June19: Product Manager me at Nexchanges Technology"
 date: 2019-06-01 23:59:59 -0000
 categories: nexchanges startup founder-cto
 author: "Sagun Garg"
