@@ -4,14 +4,15 @@ baseurl: "/"
 url: "https://sagungargs15.github.io"
 show_downloads: false
 google_analytics: UA-175512960-1
-theme: jekyll-theme-minimalist
+#theme: jekyll-theme-minimalist
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate # Rename index.md to index.html. Without this, the jekyll-paginate gem will not work.
   - jekyll-feed # 
   - jemoji # Uncomment this to allow emoji in your post
-  - jekyll-github-metadata
 
 # Author
 author:
@@ -35,3 +36,6 @@ paginate: 5
 
 # Disqus (Set to your disqus id)
 disqus: jekyll-tale
+
+gems: 
+  - jekyll-github-metadata
