@@ -68,8 +68,6 @@ Basically, Capital can now move at the same pace of online thought
 8. **Graveyards of Crypto Blogs**
     - [Charterhouse](https://charterhouse.github.io/)
 
-
-
 **Interesting Long Articles for getting back in Crypto**
 1. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
 
@@ -78,7 +76,6 @@ Basically, Capital can now move at the same pace of online thought
 3. https://station.mirror.xyz/xlPSC6PYsazGxjo-pqyaV8M4ujtWapxhCmVQfBjmN9o
 
 4. Opensea’s [NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/) is a decent introduction
-
 
 **For a Developer to Upskill to Web 3.0 use platforms**
 1. https://optilistic.com/

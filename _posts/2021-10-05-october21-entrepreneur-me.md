@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entrepreneur Me: It took a village to raise me"
+title: "October21-Entrepreneur Me: It took a village to raise me"
 date: 2021-10-05 23:59:59 -0000
 categories: mentors startups
 author: "Sagun Garg"
