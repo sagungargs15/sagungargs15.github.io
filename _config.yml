@@ -11,6 +11,7 @@ plugins:
   - jekyll-paginate # Rename index.md to index.html. Without this, the jekyll-paginate gem will not work.
   - jekyll-feed # 
   - jemoji # Uncomment this to allow emoji in your post
+  - jekyll-github-metadata
 
 # Author
 author:
@@ -34,6 +35,3 @@ paginate: 5
 
 # Disqus (Set to your disqus id)
 disqus: jekyll-tale
-
-gems: 
-  - jekyll-github-metadata
