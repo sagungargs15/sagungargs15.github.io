@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sagun's Blog
+## Sagun's Blog: Thoughts, Summary, Ideas and Notes
 
 <ul>
   {% for post in site.posts %}
