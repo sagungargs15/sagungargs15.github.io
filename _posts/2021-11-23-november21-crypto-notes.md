@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November 21 - Crypto notes: Interesting Repos"
+title: "November21-Crypto notes: Interesting Repos"
 date: 2021-11-23 23:59:59 -0000
 categories: crypto notes bitcoin blockchain
 author: "Sagun Garg"

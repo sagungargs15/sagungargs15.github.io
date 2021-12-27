@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "September21 - Cryptoeconomics: Construct Skills Defi"
+title: "September21-Cryptoeconomics: Construct Skills Defi"
 date: 2021-09-25 23:59:59 -0000
 categories: p2p defi economics
 author: "Sagun Garg"

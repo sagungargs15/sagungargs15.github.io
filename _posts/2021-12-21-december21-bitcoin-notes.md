@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December21 - Bitcoin notes: Power Projection, Militia and Bitcoin"
+title: "December21-Bitcoin notes: Power Projection, Militia and Bitcoin"
 date: 2021-12-21 23:59:59 -0000
 categories: notes bitcoin
 author: "Sagun Garg"

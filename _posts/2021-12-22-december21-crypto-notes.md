@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December21 - Crypto notes: Basics of Crypto for Newbees"
+title: "December21-Crypto notes: Basics of Crypto for Newbees"
 date: 2021-12-22 23:59:59 -0000
 categories: notes crypto blockchain saft monopoly
 author: "Sagun Garg"
