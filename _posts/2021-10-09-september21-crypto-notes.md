@@ -2,9 +2,9 @@
 layout: post
 title: "September21 - Crypto notes Pantera Capital SALT Conference"
 date: 2021-10-09 23:59:59 -0000
-categories: crypto notes bitcoin blockhain
+categories: crypto notes bitcoin blockchain
 author: "Sagun Garg"
-tags: crypto pantera-capital bitcoin blockhain
+tags: crypto pantera-capital bitcoin blockchain
 ---
 
 
