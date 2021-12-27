@@ -11,7 +11,6 @@ tags: crypto-vcs
 - Fiscal Stimulus/Quantitive Easing is Debt = Creates Govt Deficits 
 - Funding Govt Deficits: Taxation, Inflation(CPI) and Debasement(Print Money)
 
-
 ## Credible Crypto Ventures
 - Exchanges
     - Coinbase
