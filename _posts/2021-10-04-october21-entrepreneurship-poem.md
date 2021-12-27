@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April21-Poem: Candy, Candyman & Candy Machine"
+title: "October21-Poem: Candy, Candyman & Candy Machine"
 date: 2021-10-04 23:59:59 -0000
 categories: poems startups
 author: "Sagun Garg"
