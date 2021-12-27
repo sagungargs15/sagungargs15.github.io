@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://sagungargs15.github.io"
 show_downloads: false
 google_analytics: UA-175512960-1
-theme: minimal
+theme: jekyll-theme-minimalist
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
