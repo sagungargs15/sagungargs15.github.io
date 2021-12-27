@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August21: AI/ML Notes"
-date: 2021-09-24 23:59:59 -0000
+date: 2021-08-25 23:59:59 -0000
 categories: ai-ml-notes
 author: "Sagun Garg"
 tags: AI-ML
