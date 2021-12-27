@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May20: Y Combinator-Other Ideas"
+title: "May20-Y Combinator:Other Ideas"
 date: 2020-05-01 23:59:59 -0000
 categories: ycombinator-other-ideas startup founder-cto
 author: "Sagun Garg"

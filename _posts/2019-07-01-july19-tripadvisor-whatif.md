@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July19: What-If: GM of Experiences at Trip Advisor"
+title: "July19-What-If: GM of Experiences at Trip Advisor"
 date: 2019-06-01 23:59:59 -0000
 categories: nexchanges startup founder-cto
 author: "Sagun Garg"

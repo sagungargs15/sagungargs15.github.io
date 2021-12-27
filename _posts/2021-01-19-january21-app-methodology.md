@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan21: Architectural Design Patterns: 12factor(Heroku) vs 3Factor(Hasura)"
+title: "Jan21-Architectural Design Patterns: 12factor(Heroku) vs 3Factor(Hasura)"
 date: 2021-04-15 23:59:59 -0000
 categories: application-pattern design-pattern application-pattern
 author: "Sagun Garg"
