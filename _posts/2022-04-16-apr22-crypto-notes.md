@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Arpil22-Crypto notes: Blockchain Method of Accounting"
