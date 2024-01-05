@@ -1,11 +1,15 @@
 ## 👋 I'm Sagun, I mentor founders to build better techstacks -> products -> startups
 
-- 🔭 &nbsp;I’m currently turning around an AI/ML Startup in Predictive Data Intelligence Space :wink:
-- 🌱 &nbsp;I’m currently learning [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
-- 💬 &nbsp;Ask me about anything related to building AI/ML Startups, Data Engineering and Data Products
-- 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a>
+- ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
+- 👋 &nbsp;I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer. 
+- 💬 &nbsp;My nascent interest has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy based on AI and AI/ML based Devtools
+- 👋 &nbsp;I have Angel Invested across 35+ US based startups in 5 domains (AI/ML, Bitcoin Native, SpaceTech, Longetivity Tech & Devtools) mostly focussing on Geo (US based startups only coinvesting with Reputed Silicon Valley Stalwarts)
+- 🔭 &nbsp;I have turned around two AI/ML Pre-Series A Startups as a CTO on Hire in Singapore & Hong Kong. 
+- 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
+- 💬 &nbsp;Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
+- 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [@sagungarg](https://www.linkedin.com/in/sagungarg/) 
 - 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: Startups
+- ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
