@@ -8,7 +8,12 @@ layout: default
 
 - 🗣 **Brief**: Currently serving as Global Innovation Director - Technology & Engineering at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 
-- 💬 **Speaker/Judge Series**: 
+- 💬 **Speaker/Judgeeries**: 
+
+  - **November 2023**: Investor judge at Carta Investor program at Singapore Fintech Festival
+    
+    ![pic](https://sagungarg.com/assets/img/judge-carta_investor_ambassador_sff_2023.png)
+
   - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore on Crypto & way forward for 2024 
   
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023.png)
