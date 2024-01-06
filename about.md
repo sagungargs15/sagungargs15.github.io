@@ -12,15 +12,25 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products
 **Brief: CTO of Global Innovation Lab, 3 x Founde(15+ Yrs Serial Entrepreneur), 40+ Angel Investments, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
 
 - **CTO of Global Innovation Lab of Bank Julius Baer**: Built 7+ products in AI/ML, Crypto and Private Banking): Role- Leading & Hiring Engineering teams for AI/ML products, managing budgets and advisor to senior Executive Board member alignments on deeptech products. Privacy engineering techniques for AI?ML products deployed On-Prem and Cloud hybrid architecture. 
+
 - **Founder3**: 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search i.e AI-SDK Devtool for 3Ds(Data Scientist, Data Analyst, Data Engineer) to view Live Data pipelines along with Metadata
+
 - **CTO-on-Hire2**: Predictive Data Intelligence(Maritime Supply Chain) - Helped Close Pre-Series A 3.2mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture. 
+
 - **CTO-on-Hire1**: AI Automated Content Authoring (NLG) in Ed-Tech/Career-tech Startup - Helped Close Pre-Series A 1.1 mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture
+
 - **EIR3**: Solopreneur in Biotech Muscle Sensory Devices hardware platform for Medical Research Labs , NEC Labs (Accelerator) Singapore, ML/AI Technologies
+
 - **EIR2**: External Co-Founder Entrepreneur First SG6 2019 - Singapore
+
 - **EIR1**: Graduated from Antler SG3 2019 - Singapore, Y Combinator SUS 2019
+
 - **Co-Founder2**: Nexchanges (Oyeok App) Price Discovery of Real Estate[VC Funded $175k: 4yrs], 
+
 - **Co-Founder1**: Black & White Aventura, PropTech End to End Portal, [BooStrapped GMV $100mn Cum - 9 yrs]
+
 - **Past Leadership**: Served 7+ teams empowering them. 
+
 - **Competitions/hackathons**: Won 6 of them till date Intel, Microsoft(Singapore), NEC Labs(Singapore), IBM, IIM-A, IIT-B, Web-Summit(Ireland)
 
 ### Quick Check

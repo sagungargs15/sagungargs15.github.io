@@ -2,22 +2,29 @@
 layout: default
 ---
 
-## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://twitter.com/sagungarg)
+## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://x.com/sagungarg). You can also find me on linkedin [Sagun](https://www.linkedin.com/in/sagungarg)
 
 **Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is multiple hats in one Go: Selling to stakeholders, Resource mobilization & Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert).**
 
 - 🗣 **Brief**: Currently serving as Global Innovation Director - Technology & Engineering at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 
-- ✨ 
+- ✨ **Current Active Interests**: What keep's me busy these days
   - 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
 - 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
 
-- 📝 I like to write newsletter(s), Blog(s) & curate content as note making process to myself
+- 💬 **Speaker/Judge Series**: 
+  - November 2023: Speaker - At Hustle Fund Angel Squad on Crypto & way forward for 2024 [pic]((https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto.png)
+  - July 2023: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups [pic]((https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
+  - June 2023: Speaker - Master Class with Zurich, Tenity Batch [pic]((https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
+
+
+- 📝 **Writings**: I like to write newsletter(s), Blog(s) & curate content as note making process to myself
   - **Twitter Curation**: [Twitter](https://twitter.com/sagungarg)
   - **About AI/ML**: [Newsletter](https://polymathai.substack.com)
   - **Startups in General**: [Medium](https://medium.com/@sagungarg)
+  - **Linkedin Posts**: [Linkedin](https://www.linkedin.com/in/sagungarg)
   
-- 💻 I am a Tech Entrepreneur at heart (ambidextrous skills to get job done) 
+- 💻 **Serial Entrepreneur x 3**:I am a Tech Entrepreneur at heart (ambidextrous skills to get job done) 
   - **Early Stage Decade Experience**: 11+ years of early stage startup, product and engineering tech stacks.
   - **Bootstrapping**: Startup with Customer Money before seed round
   - **P/M Fit**: Pivoting everything till you hit the target with paying users in a Sizeable market for outsized outcomes
@@ -26,25 +33,26 @@ layout: default
   - **Leading teams**: Building Atleast 20+ developers in CTO capacity
   - **B2B & B2C**: Prior proven experience launching B2C Mobile Products and B2B Enterprise Products 
 
-- ⏱ **CTO-on-Hire**: I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intelligence) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO 
+- ⏱ **CTO-on-Hire x 2**: I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intelligence) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO 
   - close Pre-Series A round, 
   - scale prototype to production grade usable product with live users/customers serving fortune 500 customers and 
-  - managing engineering teams of 10+ team members
+  - managing engineering teams of 10+ team members. Both startup turn arounds involved managing product strategy, product features, engineering technical debt removal, hiring, devops & technical budgets. It approximately took me 18 months to turn the ship with a lot of support from the team I inherited in these ventures. 
 
-Both ventures involved managing product strategy, product features, engineering, hiring, devops & technical budgets. It approximately took me 9-12 months to turn the ship with a lot of support from the team I inherited in these ventures. 
-
-- 💻 I have extensive experience as Entrepreneur in Residence in Deeptech products in South East Asia:
+- 💻 **Entrepreneur in Residence x 3**:I have extensive experience as Entrepreneur in Residence in Deeptech products in South East Asia:
   - **Market Sizing**: Define target market, customer persona and go to market strategy
   - **Weekend Prototyping**: Build initial prototype(s) and iterate week on week with user feedback
   - **Cofounder Matching**: Find a Cofounder for the venture with complementary skills
   - **Pitch to VCs**: Investment commitees for initial round of capital
   - **Define KPIs**: Tracking monthly user growth, lead/lag indicators & growth hacking
 
-- 💻 I am also winner of international Hackathons.
-  - **Singapore**: NEC Labs, 2020
+- 💻 **Hackathons/Competitions**: I am also winner of international Hackathons.
+  - **Singapore**: Launchpad's LLM - AI/ML Sophie platform built inside Bank Julius Baer top 6 winner in SFF(Singapore Fintech Festival), 2023 [pic1]((https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png) & [pic2]((https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-2.png) 
+  - **Singapore**: NEC Labs, 2020 
   - **Singapore**: Microsoft: Global AI/ML Summit, 2019
   - **Mumbai**: India: IIT-B Hackathon, 2015
   - **Dublin**: Web-Summit Alpha Startup Category, 2014
+  - **Bangalore**: Poster presentation for VLSI at Intel, 2008
+  - **Ahmedabad**: IBM + GIL Project for Gujarat Govt, 2006
 
 ## Expert & Specialist in Architecting Systems
 - **Data pipelines**: Geospatial, timeseries, streaming  365 days a humming data engine with Validations at data lake level
