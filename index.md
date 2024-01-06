@@ -8,15 +8,14 @@ layout: default
 
 - 🗣 **Brief**: Currently serving as Global Innovation Director - Technology & Engineering at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 
+- 💬 **Speaker/Judge Series**: 
+  - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore on Crypto & way forward for 2024 [pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023.png)
+  - **July 2023**: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups [pic](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
+  - **June 2023**: Speaker - Master Class with Zurich, Tenity Batch [pic](https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png)
+
 - ✨ **Current Active Interests**: What keep's me busy these days
   - 💬 &nbsp; Lately my nascent curiosity has been sparked in Quantum Computing influencing the AI/ML space, Gene therapy leveraging AI and private LLMs deployed on edge computing devices. 
   - 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
-
-- 💬 **Speaker/Judge Series**: 
-  - November 2023: Speaker - At Hustle Fund Angel Squad on Crypto & way forward for 2024 [pic](speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023.png)
-  - July 2023: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups [pic](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
-  - June 2023: Speaker - Master Class with Zurich, Tenity Batch [pic](speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png)
-
 
 - 📝 **Writings**: I like to write newsletter(s), Blog(s) & curate content as note making process to myself
   - **Twitter Curation**: [Twitter](https://twitter.com/sagungarg)
