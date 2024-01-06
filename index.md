@@ -45,7 +45,7 @@ layout: default
   - **Define KPIs**: Tracking monthly user growth, lead/lag indicators & growth hacking
 
 - 💻 **Hackathons/Competitions**: I am also winner of international Hackathons.
-  - **Singapore**: Launchpad's LLM - AI/ML Sophie platform built inside Bank Julius Baer top 6 winner in SFF(Singapore Fintech Festival), 2023 [pic1]((https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png) & [pic2]((https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-2.png) 
+  - **Singapore**: Launchpad's LLM - AI/ML Sophie platform built inside Bank Julius Baer top 6 winner in SFF(Singapore Fintech Festival), 2023 [pic1](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png) & [pic2](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-2.png) 
   - **Singapore**: NEC Labs, 2020 
   - **Singapore**: Microsoft: Global AI/ML Summit, 2019
   - **Mumbai**: India: IIT-B Hackathon, 2015
