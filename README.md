@@ -2,7 +2,7 @@
 
 - ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
 - 👋 &nbsp;I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer. 
-- 💬 &nbsp;Recently my nascent interest has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy based on AI and LLMs on edge computing devices. 
+- 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
 - 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
 - 💬 &nbsp;Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
 - 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [@sagungarg](https://www.linkedin.com/in/sagungarg/) 

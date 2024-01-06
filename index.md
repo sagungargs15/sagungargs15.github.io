@@ -6,20 +6,17 @@ layout: default
 
 **Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is multiple hats in one Go: Selling to stakeholders, Resource mobilization & Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert).**
 
-- 🗣 **Brief**: I am a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [Supply Chain, EdTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
+- 🗣 **Brief**: Currently serving as Global Innovation Director - Technology & Engineering at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
 
-- ⏱ **CTO-on-Hire**: I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intelligence) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO 
-  - close Pre-Series A round, 
-  - scale prototype to production grade usable product with live users/customers and 
-  - laying product roadmap for next 1 year. 
-
-Both ventures involved managing product strategy, product features, engineering, hiring, devops & technical budgets. It approximately took me 9-12 months to turn the ship with a lot of support from the team I inherited in these ventures. 
+- ✨ 
+  - 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
+- 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
 
 - 📝 I like to write newsletter(s), Blog(s) & curate content as note making process to myself
+  - **Twitter Curation**: [Twitter](https://twitter.com/sagungarg)
   - **About AI/ML**: [Newsletter](https://polymathai.substack.com)
   - **Startups in General**: [Medium](https://medium.com/@sagungarg)
-  - **Twitter Curation**: [Twitter](https://twitter.com/sagungarg)
-
+  
 - 💻 I am a Tech Entrepreneur at heart (ambidextrous skills to get job done) 
   - **Early Stage Decade Experience**: 11+ years of early stage startup, product and engineering tech stacks.
   - **Bootstrapping**: Startup with Customer Money before seed round
@@ -28,6 +25,13 @@ Both ventures involved managing product strategy, product features, engineering,
   - **Product Owner**: Experience building & executing Product Roadmaps [Market Sizing, P/M Fit and User Acquisition]
   - **Leading teams**: Building Atleast 20+ developers in CTO capacity
   - **B2B & B2C**: Prior proven experience launching B2C Mobile Products and B2B Enterprise Products 
+
+- ⏱ **CTO-on-Hire**: I have proven ability to turn around AI/ML ventures in CTO-on-Hire capacity. I recently have a track record for two Pre-Series A Startups in Singapore(Supply Chain - Predictive Data Intelligence) and Hong Kong(Ed-Tech - Natural Language Generation Authoring) by stepping in shoes of outgoing Co-Founder/CTO in both ventures respectively to help the Co-Founder/CEO 
+  - close Pre-Series A round, 
+  - scale prototype to production grade usable product with live users/customers serving fortune 500 customers and 
+  - managing engineering teams of 10+ team members
+
+Both ventures involved managing product strategy, product features, engineering, hiring, devops & technical budgets. It approximately took me 9-12 months to turn the ship with a lot of support from the team I inherited in these ventures. 
 
 - 💻 I have extensive experience as Entrepreneur in Residence in Deeptech products in South East Asia:
   - **Market Sizing**: Define target market, customer persona and go to market strategy
