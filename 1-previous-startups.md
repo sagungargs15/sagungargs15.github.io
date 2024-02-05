@@ -5,16 +5,37 @@ title: "List of Previous Ventures/StartUps"
 
 # List of Previous Ventures/StartUps
 
-## <u>Venture 3</u>: Stealth
+## <u>Venture 3</u>: Polymath AI/0Research.com
 
-### 2019 - 2021
-
-Stealth
+### July 2019 - Aug 2022
+- **[Polymath AI](https://polymathai.substack.com/)**: AI-SDK for Enterprises to build live data catalogs for 3Ds - Data Analysts, Data Scientists and Data Engineers to collaborate on AI projects
+    - **Competitors/Successors**: [Atlan](https://atlan.com/), [Open Meta Data](https://open-metadata.org/), [Open Data Discovery](https://opendatadiscovery.org/), [Amundsen](https://www.amundsen.io/), [Datahub Project](https://datahubproject.io/), [Apache Atlas](https://atlas.apache.org/), [CKAN](https://ckan.org/)
+    - **Salient Challenges Solved**:
+        <details>
+        <summary>(Click to expand!)</summary>
+        - URL of Github Repo: https://github.com/0research/ai-sdk
+        - AI-SDK is a nocode tool used for doing datasets discovery, exploratory, schema decisions and preparing a data strategy ready for teams to use. Provides metadata management, data discovery, and data lineage capabilities. It supports a wide range of data sources, including databases and file systems
+        - An open-source data discovery and metadata platform that provides metadata management, data discovery, and data lineage capabilities
+        - With an AI data catalog, you can automate several aspects of data preparation, insight generation, and insight explanation.
+        </details>
 
 ## <u>Venture 2</u>: VC Funded | USD 175k | AI/ML PropTech | Cumulative 50+ [Team](https://www.linkedin.com/search/results/people/?keywords=nexchanges), Accelerator(s): [SPIT](https://sptbi.com), [IIIT-Hyderabad](https://cie.iiit.ac.in)
 
-### 2016 - 2019
 
+### Sep 2013 - June 2019
+- **[Nexchanges Technology](https://angel.co/company/nexchanges-technology)**: Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
+    - **Funded By**: [Singularity Ventures(Venture Capital)](https://pitchbook.com/profiles/investor/109878-85#overview)
+    - **Competitors/Successors**: [Propstack](https://www.propstack.com/), [Zapkey](https://www.zapkey.com/)
+    - **Salient Challenges Solved**:
+        <details>
+        <summary>(Click to expand!)</summary>
+
+        - User Acquisition via Whatsapp Groups in 120+ prime pincodes in 20+ cities to enable automated crawling with Industry specific keyword tokenization using NLP(Natural Language Processing) based automation for auto leads classification
+        - Asset Lite two Sided Marketplace: Brokers and Customers with two different logins in same App
+        - State of Art Polyglot Techstack: Android, iOS, Webapp, Backend(Erlang/OTP), AI/ML & Datalakes(Python)
+        </details>
+
+### 2016 - 2019
 - [Fractional Ownership](https://www.f6s.com/oyeok) (Oyeok Platform as fractional ownership in Real Estate)
     - **Investor Faqs**: <a href="https://sagungarg.com/pdfs/oyeok.pdf" target="_blank">Sample Dossier Faq</a>
     - **Competitors/Successors**: [PropertyShare](https://www.propertyshare.in/), [RealX](https://www.realx.io/), [hBits](https://hbits.co/) 
@@ -36,19 +57,6 @@ Stealth
 
         </details>
 
-
-### 2015 - 2019
-- **[Nexchanges Technology](https://angel.co/company/nexchanges-technology)**: Real Time Price Discovery in Proptech for Properties in 20+ Indian Cities
-    - **Funded By**: [Singularity Ventures(Venture Capital)](https://pitchbook.com/profiles/investor/109878-85#overview)
-    - **Competitors/Successors**: [Propstack](https://www.propstack.com/), [Zapkey](https://www.zapkey.com/)
-    - **Salient Challenges Solved**:
-        <details>
-        <summary>(Click to expand!)</summary>
-
-        - User Acquisition via Whatsapp Groups in 120+ prime pincodes in 20+ cities to enable automated crawling with Industry specific keyword tokenization using NLP(Natural Language Processing) based automation for auto leads classification
-        - Asset Lite two Sided Marketplace: Brokers and Customers with two different logins in same App
-        - State of Art Polyglot Techstack: Android, iOS, Webapp, Backend(Erlang/OTP), AI/ML & Datalakes(Python)
-        </details>
 
 ## <u>Venture 1</u>: PropTech: [Bootstrapped](https://yourstory.com/2014/03/blackwhite-aventura), Cumulative GMV USD 100mn+, 75+ [Team](https://www.linkedin.com/search/results/people/?keywords=black%20and%20white%20aventura), 5 Regional Offices
 
