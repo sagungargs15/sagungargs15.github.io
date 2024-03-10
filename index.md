@@ -10,24 +10,33 @@ layout: default
 
 - 💬 **Speaker/Judging Series**: 
 
-  - **March 2024**: Guest speaker organised by ![Plug & Play Tech Center]() & ![Aelf Blockchain]() on Layer 2 solutions on Bitcoin
+  - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
+
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png)
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png)
 
-    ![Linkedin Post]()
+    ![Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop)
+
+    ![LINK TO Plug & Play Tech Center](https://www.plugandplaytechcenter.com/)
+
+    ![LINK TO Aelf Blockchain](https://aelf.com/)
 
   - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-master-class-tenity-corporate-innovation-partnerships.png)
 
-  - **January 2024**: Investor - ![Judge for Tenity Singapore Incubation Batch 7](https://www.tenity.com/programs/singapore-incubation-batch-7)
+  - **January 2024**: Investor - Judge for Tenity Singapore Incubation Batch 7
+
+    ![LINK TO EVENT](https://www.tenity.com/programs/singapore-incubation-batch-7)
 
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-tenity-singapore-incubation-batch-7.png)
 
-  - **November 2023**: Investor - Judge at ![Carta Investor program at Singapore Fintech Festival 2023](https://www.fintechfestival.sg/investor-hours)
+  - **November 2023**: Investor - Judge at Carta Investor program at Singapore Fintech Festival 2023
     
+    ![LINK TO EVENT](https://www.fintechfestival.sg/investor-hours)
+
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png)
 
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png)
@@ -42,8 +51,10 @@ layout: default
   
     ![pic](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
   
-  - **June 2023**: Speaker - Master Class in Zurich for, ![Tenity - formerly F10](https://www.tenity.com/) Batch 
+  - **June 2023**: Speaker - Master Class in Zurich for, Tenity - formerly F10 Batch 
     
+    ![LINK TO TENITY](https://www.tenity.com/)
+
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png)
 
 - ✨ **Current Active Interests**: What keep's me busy these days
