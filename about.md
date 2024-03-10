@@ -9,7 +9,7 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products
 
 [Sagun Garg](https://twitter.com/sagungarg)
 
-**Brief: CTO of Global Innovation Lab, 3 x Founde(15+ Yrs Serial Entrepreneur), 40+ Angel Investments, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
+**Brief: CTO of Global Innovation Lab, 3 x Founder(15+ Yrs Serial Entrepreneur), 40+ Angel Investments, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
 
 - **CTO of Global Innovation Lab of Bank Julius Baer**: Built 7+ products in AI/ML, Crypto and Private Banking): Role- Leading & Hiring Engineering teams for AI/ML products, managing budgets and advisor to senior Executive Board member alignments on deeptech products. Privacy engineering techniques for AI?ML products deployed On-Prem and Cloud hybrid architecture. 
 

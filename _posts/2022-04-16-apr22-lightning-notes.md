@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Arpil22-Crypto notes: Blockchain Method of Accounting"
+title: "Arpil22-lightning notes: Blockchain Method of Accounting"
 date: 2022-04-12 23:59:59 -0000
-categories: notes crypto blockchain method-of-accounting
+categories: notes lightning blockchain method-of-accounting
 author: "Sagun Garg"
-tags: crypto blockchain method-of-accounting 
+tags: lightning blockchain method-of-accounting 
 ---
 
 # My notes on Lightning network Development
@@ -22,13 +22,11 @@ tags: crypto blockchain method-of-accounting
 11. Lightning network payments are designed to be anonymous.
 12. You can observe the Lightning Network graph from your own node or from a hosted lightning network explorer
 13. To perform a Lightning Network transaction, both peers as well as all routing nodes in between need to be online. For mobile wallets, this often requires keeping the wallet running until the payment is settled, after which the application or device can be turned off.
-14. 
 
 
 ## Imp. Extra points to note: 
 1. The Lightning Network does not have its own token (Instead it uses the token of the underlying network/blockchain)
 2. Lightning Network as a “second layer” protocol it uses the base layer only for dispute resolution or to deploy capital into channels.
-3. 
 
 
 ## Reference: Method of accounting (UTXO or Account based ledger)
@@ -39,4 +37,3 @@ tags: crypto blockchain method-of-accounting
 ## Extra Notes: Design Points of Any new Blockchain
 1. Non-custodial: Not your keys, Not your coins - In cryptocurrency, non-custodial systems allow the user to take full control of their funds. This comes at the benefit of having full ownership, but requires the user to manage their own keys (i.e. the saying Not your keys, Not your coins).
 2. Method of accounting (UTXO or Account based ledger)
-3. 

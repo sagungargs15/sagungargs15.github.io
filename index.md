@@ -6,23 +6,43 @@ layout: default
 
 **Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is multiple hats in one Go: Selling to stakeholders, Resource mobilization & Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert).**
 
-- 🗣 **Brief**: Currently serving as Global Innovation Director - Technology & Engineering at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. 
+- 🗣 **Brief**: Currently serving as Global Innovation Director - Software Engineering  & Enterprise Architecture at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. I have also played couple of stints of CTO-on-Hire to turn around two(2) pre-Series A startups in Singapore & Hong Kong respectively. 
 
-- 💬 **Speaker/Judgeeries**: 
+- 💬 **Speaker/Judging Series**: 
 
-  - **November 2023**: Investor judge at Carta Investor program at Singapore Fintech Festival
+  - **March 2024**: Guest speaker organised by ![Plug & Play Tech Center]() & ![Aelf Blockchain]() on Layer 2 solutions on Bitcoin
+
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png)
+
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png)
+
+    ![Linkedin Post]()
+
+  - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
+
+    ![pic](https://sagungarg.com/assets/img/speaker-series-master-class-tenity-corporate-innovation-partnerships.png)
+
+  - **January 2024**: Investor - ![Judge for Tenity Singapore Incubation Batch 7](https://www.tenity.com/programs/singapore-incubation-batch-7)
+
+    ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-tenity-singapore-incubation-batch-7.png)
+
+  - **November 2023**: Investor - Judge at ![Carta Investor program at Singapore Fintech Festival 2023](https://www.fintechfestival.sg/investor-hours)
     
-    ![pic](https://sagungarg.com/assets/img/judge-carta_investor_ambassador_sff_2023.png)
+    ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png)
 
-  - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore on Crypto & way forward for 2024 
+    ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png)
+
+  - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore in November 2023 
   
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023.png)
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png)
+    
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png)
   
   - **July 2023**: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups !
   
     ![pic](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
   
-  - **June 2023**: Speaker - Master Class with Zurich, Tenity Batch 
+  - **June 2023**: Speaker - Master Class in Zurich for, ![Tenity - formerly F10](https://www.tenity.com/) Batch 
     
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png)
 
