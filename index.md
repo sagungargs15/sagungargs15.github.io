@@ -12,16 +12,15 @@ layout: default
 
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
 
-
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png)
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png)
 
-    ![Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop)
+    [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop)
 
-    ![LINK TO Plug & Play Tech Center](https://www.plugandplaytechcenter.com/)
+    [LINK TO Plug & Play Tech Center](https://www.plugandplaytechcenter.com/)
 
-    ![LINK TO Aelf Blockchain](https://aelf.com/)
+    [LINK TO Aelf Blockchain](https://aelf.com/)
 
   - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
 
@@ -29,18 +28,18 @@ layout: default
 
   - **January 2024**: Investor - Judge for Tenity Singapore Incubation Batch 7
 
-    ![LINK TO EVENT](https://www.tenity.com/programs/singapore-incubation-batch-7)
-
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-tenity-singapore-incubation-batch-7.png)
 
+    [LINK TO EVENT](https://www.tenity.com/programs/singapore-incubation-batch-7)
+
   - **November 2023**: Investor - Judge at Carta Investor program at Singapore Fintech Festival 2023
-    
-    ![LINK TO EVENT](https://www.fintechfestival.sg/investor-hours)
 
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png)
 
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png)
 
+    [LINK TO EVENT](https://www.fintechfestival.sg/investor-hours)
+    
   - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore in November 2023 
   
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png)
