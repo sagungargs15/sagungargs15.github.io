@@ -30,6 +30,14 @@ layout: default
 
     [LINK TO EVENT](https://www.tenity.com/programs/singapore-incubation-batch-7)
 
+  - **December 2023**: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer
+
+     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-web3-singapore-smu-professor.png)
+
+  - **November 2023**: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer
+
+    ![pic](https://sagungarg.com/assets/img/competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png)
+
   - **November 2023**: Investor - Judge at Carta Investor program at Singapore Fintech Festival 2023
 
     ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png) ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png)
@@ -44,9 +52,7 @@ layout: default
   
     ![pic](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
   
-  - **June 2023**: Speaker - Master Class in Zurich for, Tenity - formerly F10 Batch 
-    
-    ![LINK TO TENITY](https://www.tenity.com/)
+  - **June 2023**: Speaker - Master Class in Zurich for, Tenity(https://www.tenity.com/) - formerly F10 Batch
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png)
 
