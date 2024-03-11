@@ -1,7 +1,21 @@
 ## 👋 I'm Sagun, I mentor founders to build better techstacks -> products -> startups
 
-- ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
 - 👋 &nbsp;I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer. 
+- ⚡ &nbsp; Cheers to Bitcoin BUIDLers and HODLers across the world.
+- ₿ &nbsp; My Bitcoin Story (Class of 2014)
+    - I am a Bitcoin Maxi. Always looking at native usecases of bitcoin as internet money protocol since a decade. I bought my 1st [Trezor](https://trezor.io/) from the co-founder directly over the counter in a Conference & Bitcoin from an ATM in Shanghai in 2014. Travelled 1.5 yrs attending various conferences across the globe from Shanghai, Bangalore, NewYork, Las Vegas, Ireland and Austin attending Bitcoin Conferences and Meetups to learn about the technology and simultaneoulsy orange pilling my extended family and friends.
+    - Spent time nerding around the forum [Bitcointalk](https://bitcointalk.org/)
+    - Putting my knowlegde of Security Protocols to test by often revising [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+    - Running Bitcoin Node locally: [Bitcoin Repo](https://github.com/bitcoin/bitcoin) 
+    - 25+ Angel Invested in Bitcoin native startups via AL Syndicates to keep up with the Bitcoin native whereabouts. 
+    - Student of  Bitcoin: 
+        - [Mastering Bitcoin](https://www.amazon.sg/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/)
+        - [Mastering Lightning Network](https://www.amazon.sg/Mastering-Lightning-Network-Blockchain-Protocol/dp/1492054860)
+        - [Programming Bitcoin](https://www.amazon.sg/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496)  
+        - [Chaincode OSS Program](https://learning.chaincode.com/)
+        - [Multisig: Hardware & Software Wallets](https://github.com/wizardsardine/liana) 
+        - [BIP 39 & Offline Seed plates](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+    - Orange pilling folks on educating about Bitcoin technology: USA, Singapore, HongKong, Mumbai, Hyderabad & Noida
 - 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
 - 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
 - 💬 &nbsp;Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
