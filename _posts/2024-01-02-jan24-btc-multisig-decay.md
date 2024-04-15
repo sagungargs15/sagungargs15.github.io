@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Jan24-BTC Multi Sig Decay notes"
