@@ -7,6 +7,8 @@ author: "Sagun Garg"
 tags: btc multi-sig decay inheritance planning
 ---
 
+
+# Important Considerations for Bitcoin Inheritance
 What are the important considerations for Bitcoin inheritance planning ?
 
 1. Possession vs. Title: Transferring possession of Bitcoin (i.e., the private keys) to heirs is different from establishing legal title to the Bitcoin. Proper estate planning through a will or trust is crucial to ensure the legal title passes to beneficiaries.
@@ -16,7 +18,6 @@ What are the important considerations for Bitcoin inheritance planning ?
 3. Executor/Trustee Knowledge: The executor or trustee should be familiar with Bitcoin self-custody and the process of transferring possession to minimize mistakes.
 
 4. Bitcoin as Property: In the U.S., Bitcoin is treated as property for tax purposes. Substantial Bitcoin holdings may be subject to federal and state estate taxes, which should be planned for with the help of an experienced attorney.
-
 
 One need's to note that each individual's Bitcoin inheritance plan will be unique, and it's important to create a plan tailored to one's specific needs to ensure a smooth transfer of this digital asset to the next generation.
 
@@ -36,7 +37,7 @@ One needs to attemot and self demonstrate how a user can download the wallet con
 
 This article emphasizes the importance of addressing Bitcoin inheritance and avoiding single points of failure in one's self-custody setup. Multi-sig technology, combined with platform's collaborative custody service, is presented as a way to achieve this while still maintaining a high degree of control and flexibility over one's Bitcoin holdings.
 
-Design a Self-custody journey
+Steps in Designing a Self-custody journey
     1. upcoming educational webinars, 
     2. Sovereign recovery 
     3. Practical steps to DIY by using popular platforms like Unchained/Theya/Casa

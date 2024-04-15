@@ -7,7 +7,7 @@ author: "Sagun Garg"
 tags: btc multi-sig decay inheritance planning
 ---
 
-Kevin delves into the technical intricacies of Wizard Sardine's two Bitcoin security products: Revault and Liana. These solutions aim to address the challenges of self-custody and provide advanced features for users seeking enhanced protection and control over their digital assets.
+One delves into the technical intricacies of Wizard Sardine's two Bitcoin security products: Revault and Liana. These solutions aim to address the challenges of self-custody and provide advanced features for users seeking enhanced protection and control over their digital assets.
 
 Revault is described as a practical Bitcoin vault architecture that enables users to set spending policies and limits on their Bitcoin holdings. Interestingly, Revault does not require the implementation of advanced features like covenants, which were previously considered necessary for building functional Bitcoin vaults. The key innovation of Revault lies in its ability to achieve this level of control and security without the need for such complex protocol-level changes.
 

@@ -7,7 +7,7 @@ author: "Sagun Garg"
 tags: bitcoincore release technical improvements Libitcoin mempool BIP324
 ---
 
-Bitcoin Core 27.0: Refining the Foundations of Bitcoin
+# Bitcoin Core 27.0: Refining the Foundations of Bitcoin
 
 The upcoming release of Bitcoin Core version 27.0 represents a significant step forward in the evolution of the Bitcoin protocol's core software. Underlying this release are several technical improvements that aim to enhance the stability, security, and usability of the Bitcoin network.
 
@@ -19,7 +19,7 @@ The default enablement of BIP324 (Developed by Dhruv Mehta, a Bitcoin Core devel
 
 These technical refinements, along with other minor adjustments, demonstrate the ongoing commitment of the Bitcoin Core development team to strengthening the foundations of the Bitcoin protocol. As the ecosystem continues to grow and evolve, these incremental improvements play a crucial role in ensuring the long-term stability and resilience of the Bitcoin network.
 
-In Summary the main updates in this release
+# Summary: Main Updates
 
     1. Deprecation of the Libitcoin consensus library, which was an attempt to extract the core consensus rules into a separate library. This is being removed in favor of a new project called Bitcoin Kernel.
 
