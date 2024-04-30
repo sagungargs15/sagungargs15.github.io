@@ -2,7 +2,7 @@
 layout: default
 title: "About Me - Sagun Garg"
 date: 1986-03-05 10:05:00 +0530
-categories: engineer entrepreneur sagun AI/ML Bitcoin products
+categories: engineer entrepreneur sagun AI/ML Bitcoin products angelinvestor mentor speaker
 ---
 
 ## About ME
@@ -11,30 +11,33 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products
 
 **Brief: CTO of Global Innovation Lab, 3 x Founder(15+ Yrs Serial Entrepreneur), 40+ Angel Investments, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
 
-- **CTO of Global Innovation Lab of Bank Julius Baer**: Built 7+ products in AI/ML, Crypto and Private Banking): Role- Leading & Hiring Engineering teams for AI/ML products, managing budgets and advisor to senior Executive Board member alignments on deeptech products. Privacy engineering techniques for AI?ML products deployed On-Prem and Cloud hybrid architecture. 
+- **Global Innovation Director - Technology & Engineering of Bank Julius Baer**: Built 7+ products in AI/ML, Crypto and Private Banking): Role- Leading & Hiring Engineering teams for AI/ML products, managing budgets and advisor to senior Executive Board member alignments on deeptech products. Privacy engineering techniques for AI?ML products deployed On-Prem and Cloud hybrid architecture. 
 
-- **Founder3**: 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search i.e AI-SDK Devtool for 3Ds(Data Scientist, Data Analyst, Data Engineer) to view Live Data pipelines along with Metadata
+- **Founder3**: 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search i.e AI-SDK Devtool for 3Ds(Data Scientist, Data Analyst, Data Engineer) to view Live Data pipelines along with evolving Metadata across landscape of data objects
 
-- **CTO-on-Hire2**: Predictive Data Intelligence(Maritime Supply Chain) - Helped Close Pre-Series A 3.2mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture. 
+- **CTO-Advisor**: [Portcast.io](https://www.portcast.io/) - Predictive Data Intelligence(Maritime Supply Chain) - Helped Close Pre-Series A 3.2mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture. 
 
-- **CTO-on-Hire1**: AI Automated Content Authoring (NLG) in Ed-Tech/Career-tech Startup - Helped Close Pre-Series A 1.1 mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture
+- **CTO-Advisor**: [Vanna](https://weworkremotely.com/company/vanna) - AI Automated Content Authoring (NLG) in Ed-Tech/Career-tech Startup - Helped Close Pre-Series A 1.1 mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture
 
-- **EIR3**: Solopreneur in Biotech Muscle Sensory Devices hardware platform for Medical Research Labs , NEC Labs (Accelerator) Singapore, ML/AI Technologies
+- **Entrepreneur in Residence**: [NEC Labs](https://www.nec.com/en/global/rd/labs/singapore/index.html)Solopreneur in Biotech Muscle Sensory Devices hardware platform for Medical Research Labs , NEC Labs (Accelerator) Singapore, ML/AI Technologies
 
-- **EIR2**: External Co-Founder Entrepreneur First SG6 2019 - Singapore
+- **Entrepreneur in Residence**: [Entrepreneur First](https://www.joinef.com/)External Co-Founder Entrepreneur First SG6 2019 - Singapore
 
-- **EIR1**: Graduated from Antler SG3 2019 - Singapore, Y Combinator SUS 2019
+- **Entrepreneur in Residence**: [Antler SG3](https://www.antler.co/)Graduated from Antler SG3 2019 - Singapore 
+
+- **StartUp School**: [Y Combinator SUS 2019](https://www.ycombinator.com/blog/announcing-startup-school-2019)
 
 - **Co-Founder2**: Nexchanges (Oyeok App) Price Discovery of Real Estate[VC Funded $175k: 4yrs], 
 
 - **Co-Founder1**: Black & White Aventura, PropTech End to End Portal, [BooStrapped GMV $100mn Cum - 9 yrs]
 
-- **Past Leadership**: Served 7+ teams empowering them. 
-
 - **Competitions/hackathons**: Won 6 of them till date Intel, Microsoft(Singapore), NEC Labs(Singapore), IBM, IIM-A, IIT-B, Web-Summit(Ireland)
 
 ### Quick Check
 - **Hands-on-CTO**: Full Stack - Polyglot Programmer - Architect Experience
+- **Responsible AI**:
+- **Innovation Architect**: 
+- **Enterprise Architect**:
 - **Startup Speed**: Hackathon style break fast, fail fast & launch embarassing products to pivot fast
 - **Multi-Paradigm**: Problem statement driven programming paradigm: functional, oops, imperative or hybrid
 - **Product Management**: Product Features, Roadmap, Design skills(UI-UX especially 0 to 1 MVPs)
@@ -46,14 +49,9 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products
 - **Big Data Analytics**: billion+ new rows per hour streamed into data lakes
 - **OLTP/OLAP DBs** Handle evolving data tables of order of billion rows generated hourly
 
-Keywords: Kafka, Event-driven, Streaming, Kubernetes, Kotlin and Queuing
+Keywords: Developer Portal, API Catalog, API Gateway, Kafka, Event-driven, Streaming, Kubernetes, Distributed Computing and Queuing
 
-#### Data Engineering
-- Grow a team of data engineers
-- Scale our data pipelines and tools
-- Drive the collection of new data from Data Sources
-- Improve our data model and instrumentation
-- Identify and build shared libraries and resources for Data Science work such as, forecasting tooling, anomaly detection at scale, and support for different machine learning approaches
+
 
 #### Leadership Experience
 - Experience with the OKR framework
@@ -81,6 +79,13 @@ Keywords: Kafka, Event-driven, Streaming, Kubernetes, Kotlin and Queuing
 - Well-rounded interpersonal skills, and experience interacting with diverse personalities 
 - Deep understanding of project management principles and best practices 
 - Exceptional communication and presentation skills
+
+#### Data Engineering
+- Grow a team of data engineers
+- Scale our data pipelines and tools
+- Drive the collection of new data from Data Sources
+- Improve our data model and instrumentation
+- Identify and build shared libraries and resources for Data Science work such as, forecasting tooling, anomaly detection at scale, and support for different machine learning approaches
 
 #### Attitude towards others: 
 
