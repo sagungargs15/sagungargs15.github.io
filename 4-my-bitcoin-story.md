@@ -6,7 +6,7 @@ title: "my-bitcoin-journey"
 ## My Bitcoin Journey: Sagun Garg
 
 ### My Angel Investments Portfolio: Sagun Garg 
-    - Overall 25+ Investments as of March 2024
+    - Overall 25+ Investments in Bitcoin Native startups out of the Portfolio of 40+ startups invested as of May 2024
 
 ### My Writings in Bitcoin Space: Sagun Garg
 

@@ -19,17 +19,17 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products angelinvestor men
 
 - **CTO-Advisor**: [Vanna](https://weworkremotely.com/company/vanna) - AI Automated Content Authoring (NLG) in Ed-Tech/Career-tech Startup - Helped Close Pre-Series A 1.1 mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture
 
-- **Entrepreneur in Residence**: [NEC Labs](https://www.nec.com/en/global/rd/labs/singapore/index.html)Solopreneur in Biotech Muscle Sensory Devices hardware platform for Medical Research Labs , NEC Labs (Accelerator) Singapore, ML/AI Technologies
+- **Entrepreneur in Residence**: [NEC Labs](https://www.nec.com/en/global/rd/labs/singapore/index.html) Solopreneur in Biotech Muscle Sensory Devices hardware platform for Medical Research Labs , NEC Labs (Accelerator) Singapore, ML/AI Technologies
 
-- **Entrepreneur in Residence**: [Entrepreneur First](https://www.joinef.com/)External Co-Founder Entrepreneur First SG6 2019 - Singapore
+- **Entrepreneur in Residence**: [Entrepreneur First](https://www.joinef.com/) External Co-Founder Entrepreneur First SG6 2019 - Singapore
 
-- **Entrepreneur in Residence**: [Antler SG3](https://www.antler.co/)Graduated from Antler SG3 2019 - Singapore 
+- **Entrepreneur in Residence**: [Antler SG3](https://www.antler.co/) Graduated from Antler SG3 2019 - Singapore 
 
 - **StartUp School**: [Y Combinator SUS 2019](https://www.ycombinator.com/blog/announcing-startup-school-2019)
 
-- **Co-Founder2**: Nexchanges (Oyeok App) Price Discovery of Real Estate[VC Funded $175k: 4yrs], 
+- **Co-Founder2**: Nexchanges(Oyeok App) Price Discovery of Real Estate[Venture Funded $175k: 6yrs 2013-2019] 
 
-- **Co-Founder1**: Black & White Aventura, PropTech End to End Portal, [BooStrapped GMV $100mn Cum - 9 yrs]
+- **Co-Founder1**: Black & White Aventura, PropTech End to End Portal, [BootStrapped GMV $100mn Cum - 9 yrs]
 
 - **Competitions/hackathons**: Won 6 of them till date Intel, Microsoft(Singapore), NEC Labs(Singapore), IBM, IIM-A, IIT-B, Web-Summit(Ireland)
 
@@ -50,8 +50,6 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products angelinvestor men
 - **OLTP/OLAP DBs** Handle evolving data tables of order of billion rows generated hourly
 
 Keywords: Developer Portal, API Catalog, API Gateway, Kafka, Event-driven, Streaming, Kubernetes, Distributed Computing and Queuing
-
-
 
 #### Leadership Experience
 - Experience with the OKR framework
