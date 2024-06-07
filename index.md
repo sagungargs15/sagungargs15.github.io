@@ -14,7 +14,7 @@ layout: default
   - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers 
 
     <details open>
-    <summary>Event Pics</summary>
+    <summary>Click here for Event Pics</summary>
       ![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png)![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2.png)
     </details>
 
