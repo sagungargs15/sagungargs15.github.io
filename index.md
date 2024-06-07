@@ -60,7 +60,7 @@ layout: default
   
   - **July 2023**: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups !
   
-    ![pic](https://sagungarg.com/assets/img/sff-launchpad-booth-sophie-product-1.png)
+    ![pic](https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png)
   
   - **June 2023**: Speaker - Master Class in Zurich for, Tenity(https://www.tenity.com/) - formerly F10 Batch
 
