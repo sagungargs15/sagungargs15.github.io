@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arpil2024 - Bitcoin | Wizardsardine's new Self Custody Wallet products Revault & Liana"
-date: 2024-03-14 23:59:59 -0000
+date: 2024-04-14 23:59:59 -0000
 categories: btc multi-sig decay inheritance planning security self-custody
 author: "Sagun Garg"
 tags: btc multi-sig decay inheritance planning

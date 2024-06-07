@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June23-Bitcoin Estate Planning"
+title: "June2023-Bitcoin Estate Planning"
 date: 2023-06-30 23:59:59 -0000
 categories: bitcoin estate planning
 author: "Sagun Garg"
