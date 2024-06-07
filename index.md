@@ -8,31 +8,27 @@ layout: default
 
 - 🗣 **Brief**: Currently serving as Global Innovation Director - Software Engineering  & Enterprise Architecture at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. I have also played couple of stints of CTO-on-Hire to turn around two(2) pre-Series A startups in Singapore & Hong Kong respectively. 
 
-- 💬 **Speaker/Judging Series**: 
+- 💬 **Speaker/Judging/Presenter Series**: 
 
-  - **June 2024**: Google + EDB(Economic Development Board) Mid-Checkin Demo - Industry Competition AI Trailblazers 
+  - **June 2024**: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers 
   
+   ![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1)![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2)
+
   - **May 2024**: Bitcoin Conference Asia 2024 - Hong Kong
     
     ### Topic: Miniscript Bitcoin Inheritance Planning
     
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png)
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png)
   
   - **May 2024**: Students from Indiana University - Kelley School of Business
 
-  ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png)
-  
-
+  ![pic](https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png)
 
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png)
 
-    [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop)
-
-    [LINK TO Plug & Play Tech Center](https://www.plugandplaytechcenter.com/)
-
-    [LINK TO Aelf Blockchain](https://aelf.com/)
+    [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop) | [LINK TO Plug & Play Tech Center](https://www.plugandplaytechcenter.com/) | [LINK TO Aelf Blockchain](https://aelf.com/)
 
   <!-- - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
 
