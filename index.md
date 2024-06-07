@@ -10,6 +10,20 @@ layout: default
 
 - 💬 **Speaker/Judging Series**: 
 
+  - **June 2024**: Google + EDB(Economic Development Board) Mid-Checkin Demo - Industry Competition AI Trailblazers 
+  
+  - **May 2024**: Bitcoin Conference Asia 2024 - Hong Kong
+    
+    ### Topic: Miniscript Bitcoin Inheritance Planning
+    
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png)
+  
+  - **May 2024**: Students from Indiana University - Kelley School of Business
+
+  ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png)
+  
+
+
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png)![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png)
@@ -20,9 +34,9 @@ layout: default
 
     [LINK TO Aelf Blockchain](https://aelf.com/)
 
-  - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
+  <!-- - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
 
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-master-class-tenity-singapore-corporate-innovation-partnerships.png)
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-master-class-tenity-singapore-corporate-innovation-partnerships.png) -->
 
   - **January 2024**: Investor - Judge for Tenity Singapore Incubation Batch 7
 
