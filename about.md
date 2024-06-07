@@ -7,13 +7,13 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products angelinvestor men
 
 ## About ME
 
-[Sagun Garg](https://twitter.com/sagungarg)
+[Sagun Garg](https://x.com/sagungarg)
 
 **Brief: CTO of Global Innovation Lab, 3 x Founder(15+ Yrs Serial Entrepreneur), 40+ Angel Investments, 2 x CTO-on-Hire, 3 x EIR,  Hands on CTO, Singapore**
 
-- **Global Innovation Director - Technology & Engineering of Bank Julius Baer**: Built 7+ products in AI/ML, Crypto and Private Banking): Role- Leading & Hiring Engineering teams for AI/ML products, managing budgets and advisor to senior Executive Board member alignments on deeptech products. Privacy engineering techniques for AI?ML products deployed On-Prem and Cloud hybrid architecture. 
+- **Global Innovation Director - Technology & Engineering of Bank Julius Baer**: Built 7+ products in AI/ML, Digital Assets and Private Banking: Role - Leading & Hiring Engineering teams for AI/ML products, managing budgets and advisor to senior Executive Board member alignments on deeptech products. Privacy engineering techniques for AI/ML products deployed On-Prem and Cloud hybrid architecture. 
 
-- **Founder3**: 0Research.com - 3rd time Founder - Singapore, ML/AI Metadata catalog search i.e AI-SDK Devtool for 3Ds(Data Scientist, Data Analyst, Data Engineer) to view Live Data pipelines along with evolving Metadata across landscape of data objects
+- **Founder3**: [0Research.com](https://0Research.com/) - 3rd time Founder - Singapore, ML/AI Metadata catalog search i.e AI-SDK Devtool for 3Ds(Data Scientist, Data Analyst, Data Engineer) to view Live Data pipelines along with evolving Metadata across landscape of data objects
 
 - **CTO-Advisor**: [Portcast.io](https://www.portcast.io/) - Predictive Data Intelligence(Maritime Supply Chain) - Helped Close Pre-Series A 3.2mn$ USD round after outgoing CTO/Cofounder decided to part ways with the Venture. 
 
@@ -35,9 +35,9 @@ categories: engineer entrepreneur sagun AI/ML Bitcoin products angelinvestor men
 
 ### Quick Check
 - **Hands-on-CTO**: Full Stack - Polyglot Programmer - Architect Experience
-- **Responsible AI**:
-- **Innovation Architect**: 
-- **Enterprise Architect**:
+- **Responsible AI**: Developing and deploying AI systems with a focus on ethical principles, accountability, and societal impact.
+- **Innovation Architect**: Driving the ideation, design, and implementation of cutting-edge AI solutions that create value while upholding ethical standards.
+- **Enterprise Architect**: Architecting AI systems that align with organizational strategies, ensuring scalability, security, and responsible governance.
 - **Startup Speed**: Hackathon style break fast, fail fast & launch embarassing products to pivot fast
 - **Multi-Paradigm**: Problem statement driven programming paradigm: functional, oops, imperative or hybrid
 - **Product Management**: Product Features, Roadmap, Design skills(UI-UX especially 0 to 1 MVPs)

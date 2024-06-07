@@ -6,7 +6,7 @@ layout: default
 
 **Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is multiple hats in one Go: Selling to stakeholders, Resource mobilization & Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert).**
 
-- 🗣 **Brief**: Currently serving as Global Innovation Director - Software Engineering  & Enterprise Architecture at Bank Julius Baer. In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. I have also played couple of stints of CTO-on-Hire to turn around two(2) pre-Series A startups in Singapore & Hong Kong respectively. 
+- 🗣 **Brief**: Currently serving as Global Innovation Director - Software Engineering & Enterprise Architecture at [Bank Julius Baer](https://www.juliusbaer.com/). In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTool, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. I have also played couple of stints of CTO-on-Hire to turn around two(2) pre-Series A startups in Singapore & Hong Kong respectively. 
 
 - 💬 **Speaker/Judging/Presenter Series**: 
 
