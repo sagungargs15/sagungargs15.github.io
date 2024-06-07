@@ -10,10 +10,14 @@ layout: default
 
 - 💬 **Speaker/Judging/Presenter Series**: 
 
-  - **June 2024**: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers 
-  
-   ![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1)![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2)
 
+  - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers 
+
+    <details open>
+    <summary>Event Pics</summary>
+      ![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1)![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2)
+    </details>
+    
   - **May 2024**: Bitcoin Conference Asia 2024 - Hong Kong
     
     ### Topic: Miniscript Bitcoin Inheritance Planning
