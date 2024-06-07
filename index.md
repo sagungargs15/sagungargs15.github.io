@@ -15,9 +15,9 @@ layout: default
 
     <details open>
     <summary>Event Pics</summary>
-      ![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1)![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2)
+      ![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png)![pic](https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2.png)
     </details>
-    
+
   - **May 2024**: Bitcoin Conference Asia 2024 - Hong Kong
     
     ### Topic: Miniscript Bitcoin Inheritance Planning
