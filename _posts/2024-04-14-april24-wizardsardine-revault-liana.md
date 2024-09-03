@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arpil2024 - Bitcoin | Wizardsardine's new Self Custody Wallet products Revault & Liana"
+title: "April2024 - Bitcoin | Wizardsardine's new Self Custody Wallet products Revault & Liana"
 date: 2024-04-14 23:59:59 -0000
 categories: btc multi-sig decay inheritance planning security self-custody
 author: "Sagun Garg"
@@ -28,6 +28,5 @@ Here is an example of a Liana wallet configuration:
     2. Any 2 keys from the owner's spouse and two kids (after 1 year)
     3. A third party, in case all else failed (after 1 year and 3 months)
     The lockup period is enforced onchain by the Bitcoin network. This is achieved by leveraging timelock capabilities of Bitcoin smart contracts (Script).
-
 
 In conclusion, this article offers a comprehensive technical overview of Wizard Sardine's Revault and Liana, delving into the nuanced design decisions, trade-offs, and potential future developments in the realm of advanced Bitcoin self-custody solutions. The depth of the technical discussion provides valuable insights for individuals and organizations seeking to better understand the evolving landscape of secure Bitcoin management.
