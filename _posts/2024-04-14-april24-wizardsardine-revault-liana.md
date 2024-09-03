@@ -23,4 +23,11 @@ The discussion extends to the potential benefits of Bitcoin soft forks, such as 
 
 Throughout I place the emphasis on the practical, real-world implementations of these security solutions, rather than purely theoretical or speculative approaches. I consistently emphasize the importance of building tools that work with the Bitcoin network as it exists today, rather than relying on hypothetical future capabilities.
 
+Here is an example of a Liana wallet configuration:
+    1. Owner's key (can always spend)
+    2. Any 2 keys from the owner's spouse and two kids (after 1 year)
+    3. A third party, in case all else failed (after 1 year and 3 months)
+    The lockup period is enforced onchain by the Bitcoin network. This is achieved by leveraging timelock capabilities of Bitcoin smart contracts (Script).
+
+
 In conclusion, this article offers a comprehensive technical overview of Wizard Sardine's Revault and Liana, delving into the nuanced design decisions, trade-offs, and potential future developments in the realm of advanced Bitcoin self-custody solutions. The depth of the technical discussion provides valuable insights for individuals and organizations seeking to better understand the evolving landscape of secure Bitcoin management.
