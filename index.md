@@ -58,7 +58,7 @@ layout: default
     position: absolute;
     top: 50%;
     font-size: 50px;
-    color: white;
+    color: black; /* Change arrow color to black */
     cursor: pointer;
     user-select: none;
     z-index: 1001;
@@ -70,6 +70,10 @@ layout: default
 
   .arrow-right {
     right: 30px;
+  }
+
+  .arrow:hover {
+  color: gray; /* Changes arrow color when hovered */
   }
 </style>
 
