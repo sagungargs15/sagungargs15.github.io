@@ -85,11 +85,19 @@ layout: default
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png) -->
     
   - **May 2024**: Students from Indiana University - Kelley School of Business
-    
-    Topic: Web3 Fireside Chat
 
-    ![pic](https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png)
-    ![pic](https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png)
+  Topic: Web3 Fireside Chat
+
+  <div class="scroll-container">
+    <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png" alt="Image 1" onclick="openLightbox(this)">
+    <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png" alt="Image 2" onclick="openLightbox(this)">
+  </div>  
+
+  <!-- Lightbox container -->
+  <div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <span class="lightbox-close">&times;</span>
+    <img id="lightbox-img" src="" alt="">
+  </div>
 
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
 
@@ -197,6 +205,29 @@ layout: default
 - ⏱ **Testing Frameworks**: Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And [much more](https://sagungarg.com/0-much-more) 🙂
 
+
+
+<script>
+  // Open the lightbox with the clicked image
+  function openLightbox(imgElement) {
+    var lightbox = document.getElementById('lightbox');
+    var lightboxImg = document.getElementById('lightbox-img');
+    
+    // Set the clicked image's source to the lightbox image
+    lightboxImg.src = imgElement.src;
+    
+    // Show the lightbox
+    lightbox.style.display = 'flex';
+  }
+
+  // Close the lightbox
+  function closeLightbox() {
+    var lightbox = document.getElementById('lightbox');
+    
+    // Hide the lightbox
+    lightbox.style.display = 'none';
+  }
+</script>
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
