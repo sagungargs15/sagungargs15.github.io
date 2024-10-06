@@ -56,7 +56,7 @@ layout: default
 
 ## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://x.com/sagungarg). You can also find me on linkedin [Sagun](https://www.linkedin.com/in/sagungarg)
 
-**Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is a self discovery of a polymath within you while you solve a problem creating something: Along they way you sell value to stakeholders, you enagage in Resource mobilization & attain Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert) to deliver a vision inspite of the constraints.**
+**Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is a self discovery of a polymath within you while you solve a problem creating something: Along the way you sell value to stakeholders, you enagage in resource mobilization & cultivate skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert) to deliver a vision inspite of the constraints.**
 
 - 🗣 **Brief**: Currently serving as Global Innovation Director - Software Engineering & Enterprise Architecture at [Bank Julius Baer](https://www.juliusbaer.com/). In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTools, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. I have also played couple of stints of CTO-on-Hire to turn around two(2) pre-Series A startups in Singapore & Hong Kong respectively. 
 
@@ -106,7 +106,6 @@ layout: default
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(this)">
         <img src=https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(this)">
-        <img src=https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-3.png" alt="Image 3" onclick="openLightbox(this)">
       </div> 
 
   - **July 2024**: Panel discussion on mainstage at Bitcoin Nashville Conference with Caitlin Long, Miles Paschini and Sagun Garg
@@ -149,6 +148,8 @@ layout: default
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png" alt="Image 1" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png" alt="Image 2" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-3.png" alt="Image 3" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-4.png" alt="Image 4" onclick="openLightbox(this)">
       </div>
 
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
