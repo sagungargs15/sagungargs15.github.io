@@ -87,7 +87,7 @@ layout: default
 
   - **September 2024**: Presentation talk at Lightning Returns Bitcoin Conference in Singapore
 
-    > Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"
+    > **Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" onclick="openLightbox(0)">
@@ -98,7 +98,7 @@ layout: default
 
     - **September 2024**: Presentation at Thailand Bitcoin Conference (TBC 2024)
 
-    > Topic: “ Redistribution of Wealth in the coming era of Hyperbitcoinization - Bitcoin based Future of Wealth Banking & Digital Private Banks””
+    > **Topic: “Redistribution of Wealth in the coming era of Hyperbitcoinization - Bitcoin based Future of Wealth Banking & Digital Private Banks”**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png" alt="Image 1" onclick="openLightbox(4)">
@@ -108,7 +108,7 @@ layout: default
 
   - **September 2024**: Panel talk with industry experts organised by ABS and MAS
 
-    > Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”
+    > **Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Image 1" onclick="openLightbox(7)">
@@ -118,7 +118,7 @@ layout: default
 
   - **August 2024**: Guest lecturer at Singapore Management University to batch of industry VC professionals
 
-      Topic: "Market Overview & Global Perspectives and Advanced Certificate in Venture Capital"
+      > **Topic: "Market Overview & Global Perspectives and Advanced Certificate in Venture Capital"**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(10)">
@@ -129,7 +129,7 @@ layout: default
 
   - **August 2024**: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival
 
-      Topic: "Judge & Evaluator for AI Startups for applications in Singapore Fintetc Festival (SFF 2024)"
+      > **Topic: "Judge & Evaluator for AI Startups for applications in Singapore Fintetc Festival (SFF 2024)"**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(14)">
@@ -138,7 +138,7 @@ layout: default
 
   - **July 2024**: Panel discussion on mainstage at Bitcoin Nashville Conference with Caitlin Long, Miles Paschini and Sagun Garg
 
-      Topic: ”Bitcoin's Role in Traditional Banks” 
+      > **Topic: ”Bitcoin's Role in Traditional Banks”**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Image 1" onclick="openLightbox(16)">
@@ -149,7 +149,7 @@ layout: default
 
   - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers
 
-      Topic: "GenAI Narrative builder for protfolio re-assement for switching positions using factual references of internal publications"
+      > **Topic: "GenAI Narrative builder for protfolio re-assement for switching positions using factual references of internal publications"**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png" alt="Image 1" onclick="openLightbox(20)">
@@ -160,7 +160,7 @@ layout: default
 
   - **May 2024**: Panel discussion at Bitcoin Conference Asia 2024 - Hong Kong
     
-      Topic: "Miniscript & Bitcoin Inheritance Planning" 
+      > **Topic: "Miniscript & Bitcoin Inheritance Planning"**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1" onclick="openLightbox(24)">
@@ -171,7 +171,7 @@ layout: default
     
   - **May 2024**: Students from Indiana University - Kelley School of Business
 
-      Topic: Web3 Fireside Chat
+      > **Topic: Web3 Fireside Chat on Bitcoin Crypto and Tokenization**
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png" alt="Image 1" onclick="openLightbox(28)">
@@ -182,7 +182,7 @@ layout: default
 
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
 
-    Topic: Web3: Blockhain and Tokenization
+    > **Topic: Web3: Blockhain and RWA Tokenization**
     [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop) | [Plug & Play Tech Center](https://www.plugandplaytechcenter.com/) | [Aelf Blockchain](https://aelf.com/)
 
       <div class="scroll-container">
