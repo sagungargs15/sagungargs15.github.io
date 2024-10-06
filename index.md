@@ -314,6 +314,20 @@ layout: default
     var lightboxImg = document.getElementById('lightbox-img');
     lightboxImg.src = images[currentImageIndex].src;
   }
+
+  // Add event listener for keyboard navigation
+  document.addEventListener('keydown', function(event) {
+    if (isLightboxOpen) {
+      if (event.key === 'ArrowRight') {
+        changeImage(1); // Go to next image
+      } else if (event.key === 'ArrowLeft') {
+        changeImage(-1); // Go to previous image
+      } else if (event.key === 'Escape') {
+        closeLightbox(); // Close the lightbox when Escape is pressed
+      }
+    }
+  });
+
 </script>
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
