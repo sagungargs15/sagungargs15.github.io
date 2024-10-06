@@ -94,13 +94,6 @@
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
       </div>  
 
-      <!-- Lightbox container
-      <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-        <span class="lightbox-close">&times;</span>
-        <img id="lightbox-img" src="" alt="">
-      </div> -->
-
-
   - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers
 
       Topic: 
@@ -110,12 +103,6 @@
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2.png" alt="Image 2" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-3.png" alt="Image 3" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(this)">
-      </div>  
-
-      <!-- Lightbox container -->
-      <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-        <span class="lightbox-close">&times;</span>
-        <img id="lightbox-img" src="" alt="">
       </div>
 
   - **May 2024**: Bitcoin Conference Asia 2024 - Hong Kong
@@ -142,12 +129,6 @@
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png" alt="Image 1" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png" alt="Image 2" onclick="openLightbox(this)">
-      </div>  
-
-      <!-- Lightbox container -->
-      <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-        <span class="lightbox-close">&times;</span>
-        <img id="lightbox-img" src="" alt="">
       </div>
 
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
@@ -256,7 +237,11 @@
 - ⏱ **Testing Frameworks**: Consulting on testing strategies (project testability, balance between Unit/UI/Snapshot/manual tests, interaction with QA…)
 - ✨ And [much more](https://sagungarg.com/0-much-more) 🙂
 
-
+<!-- Lightbox container -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close">&times;</span>
+  <img id="lightbox-img" src="" alt="">
+</div>
 
 <script>
   // Open the lightbox with the clicked image
