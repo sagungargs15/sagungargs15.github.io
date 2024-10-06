@@ -52,6 +52,25 @@ layout: default
     color: white;
     cursor: pointer;
   }
+
+  /* Navigation arrows */
+  .arrow {
+    position: absolute;
+    top: 50%;
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+    z-index: 1001;
+  }
+
+  .arrow-left {
+    left: 30px;
+  }
+
+  .arrow-right {
+    right: 30px;
+  }
 </style>
 
 ## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://x.com/sagungarg). You can also find me on linkedin [Sagun](https://www.linkedin.com/in/sagungarg)
@@ -93,10 +112,10 @@ layout: default
       Topic: "Market Overview & Global Perspectives and Advanced Certificate in Venture Capital"
 
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(3)">
       </div> 
 
   - **August 2024**: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival
@@ -104,8 +123,8 @@ layout: default
       Topic: "Judge & Evaluator for AI Startups for applications in Singapore Fintetc Festival (SFF 2024)"
 
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(this)">
-        <img src=https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src=https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(1)">
       </div> 
 
   - **July 2024**: Panel discussion on mainstage at Bitcoin Nashville Conference with Caitlin Long, Miles Paschini and Sagun Garg
@@ -113,10 +132,10 @@ layout: default
       Topic: ”Bitcoin's Role in Traditional Banks” 
 
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Image 1" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Image 2" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-3.png" alt="Image 3" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-4.png" alt="Image 4" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-4.png" alt="Image 4" onclick="openLightbox(3)">
       </div>  
 
   - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers
@@ -124,10 +143,10 @@ layout: default
       Topic: "GenAI Narrative builder for protfolio re-assement for switching positions using factual references of internal publications"
 
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png" alt="Image 1" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2.png" alt="Image 2" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-3.png" alt="Image 3" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(3)">
       </div>
 
   - **May 2024**: Panel discussion at Bitcoin Conference Asia 2024 - Hong Kong
@@ -135,10 +154,10 @@ layout: default
       Topic: "Miniscript & Bitcoin Inheritance Planning" 
 
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Image 2" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png" alt="Image 3" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 4" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 4" onclick="openLightbox(3)">
       </div>
     
   - **May 2024**: Students from Indiana University - Kelley School of Business
@@ -259,17 +278,24 @@ layout: default
 <!-- Lightbox container -->
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
   <span class="lightbox-close">&times;</span>
+  <span class="arrow arrow-left" onclick="event.stopPropagation(); changeImage(-1)">&#10094;</span>
   <img id="lightbox-img" src="" alt="">
+  <span class="arrow arrow-right" onclick="event.stopPropagation(); changeImage(1)">&#10095;</span>
 </div>
 
 <script>
+  // Store the images in an array
+  const images = document.querySelectorAll('.scroll-container img');
+  let currentImageIndex = 0;
+
   // Open the lightbox with the clicked image
-  function openLightbox(imgElement) {
+  function openLightbox(index) {
+    currentImageIndex = index;
     var lightbox = document.getElementById('lightbox');
     var lightboxImg = document.getElementById('lightbox-img');
     
     // Set the clicked image's source to the lightbox image
-    lightboxImg.src = imgElement.src;
+    lightboxImg.src = images[currentImageIndex].src;
     
     // Show the lightbox
     lightbox.style.display = 'flex';
@@ -281,6 +307,13 @@ layout: default
     
     // Hide the lightbox
     lightbox.style.display = 'none';
+  }
+
+  // Change the image (backward or forward)
+  function changeImage(direction) {
+    currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
+    var lightboxImg = document.getElementById('lightbox-img');
+    lightboxImg.src = images[currentImageIndex].src;
   }
 </script>
 
