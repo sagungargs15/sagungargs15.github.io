@@ -70,21 +70,34 @@ layout: default
 
     Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"
 
-    <div style="width: 600px; overflow-x: auto; white-space: nowrap; border: 1px solid black;">
-      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" style="height: 150px; display: inline-block;">
-      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-2.jpeg" alt="Image 2" style="height: 150px; display: inline-block;">
-      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-2.jpeg" alt="Image 3" style="height: 150px; display: inline-block;">
-    </div>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-2.jpeg" alt="Image 2" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-3.jpeg" alt="Image 3" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
+      </div> 
 
   - **September 2024**: Panel talk with industry experts organised by ABS and MAS
 
     Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”
 
-    <div style="width: 600px; overflow-x: auto; white-space: nowrap; border: 1px solid black;">
-      <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.jpeg" alt="Image 1" style="height: 150px; display: inline-block;">
-      <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-2.jpeg" alt="Image 2" style="height: 150px; display: inline-block;">
-      <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-3.jpeg" alt="Image 3" style="height: 150px; display: inline-block;">
-    </div>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
+      </div> 
+
+  - **August 2024**: Guest lecturer at Singapore Management University to batch of industry VC professionals
+
+      Topic: "Market Overview & Global Perspectives and Advanced Certificate in Venture Capital"
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
+      </div> 
 
   - **August 2024**: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival
 
