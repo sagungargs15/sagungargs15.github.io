@@ -2,6 +2,34 @@
 layout: default
 ---
 
+<style>
+  .scroll-container {
+    width: 100%; /* Takes full width of the parent container */
+    max-width: 100%; /* Ensures it doesn't overflow */
+    overflow-x: auto;
+    white-space: nowrap;
+    border: 1px solid black;
+  }
+
+  .scroll-container img {
+    height: auto; /* Maintain image aspect ratio */
+    max-width: 100%; /* Scale images to fit container width */
+    display: inline-block;
+  }
+
+  /* Optional: Add some spacing between images */
+  .scroll-container img:not(:last-child) {
+    margin-right: 10px;
+  }
+
+  /* Media query for very small devices */
+  @media (max-width: 600px) {
+    .scroll-container img {
+      height: 100px; /* Reduce image height for smaller screens */
+    }
+  }
+</style>
+
 ## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://x.com/sagungarg). You can also find me on linkedin [Sagun](https://www.linkedin.com/in/sagungarg)
 
 **Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is a self discovery of a polymath within you while you solve a problem creating something: Along they way you sell value to stakeholders, you enagage in Resource mobilization & attain Skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert) to deliver a vision inspite of the constraints.**
@@ -10,7 +38,7 @@ layout: default
 
 - 💬 **Speaker/Judging/Presenter Series**: 
 
-  - Stay tuned...More talks will be updated soo...
+  - Stay tuned...More talks will be updated soon...
 
   - **September 2024**: "Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world ? Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard"
 
@@ -43,10 +71,16 @@ layout: default
     
     Topic: Miniscript Bitcoin Inheritance Planning
       
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)
+    <div class="scroll-container">
+      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1">
+      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Image 2">
+      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png" alt="Image 3">
+      <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 3">
+    </div>
+    <!-- ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png)
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png)
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png)
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png)
+    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png) -->
     
   - **May 2024**: Students from Indiana University - Kelley School of Business
     
