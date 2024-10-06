@@ -82,10 +82,10 @@ layout: default
     Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”
 
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(this)">
-        <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.jpeg" alt="Image 1" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-2.jpeg" alt="Image 2" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-3.jpeg" alt="Image 3" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-4.jpeg" alt="Image 4" onclick="openLightbox(this)">
       </div> 
 
   - **August 2024**: Guest lecturer at Singapore Management University to batch of industry VC professionals
