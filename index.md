@@ -276,9 +276,9 @@ layout: default
 
 <!-- Lightbox container -->
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-  <span class="lightbox-close">&times;</span>
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
   <span class="arrow arrow-left" onclick="event.stopPropagation(); changeImage(-1)">&#10094;</span>
-  <img id="lightbox-img" src="" alt="">
+  <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation();">
   <span class="arrow arrow-right" onclick="event.stopPropagation(); changeImage(1)">&#10095;</span>
 </div>
 
