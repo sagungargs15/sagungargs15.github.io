@@ -4,7 +4,7 @@ layout: default
 
 <style>
   .scroll-container {
-    width: 100%; /* Takes full width of the parent container */
+    width: 100%; /* Full width of the parent container */
     max-width: 100%; /* Ensures it doesn't overflow */
     overflow-x: auto;
     white-space: nowrap;
@@ -12,8 +12,9 @@ layout: default
   }
 
   .scroll-container img {
-    height: auto; /* Maintain image aspect ratio */
-    max-width: 100%; /* Scale images to fit container width */
+    width: 200px; /* Set a fixed width for all images */
+    height: 150px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensures the image covers the set dimensions, cropping if needed */
     display: inline-block;
   }
 
@@ -22,10 +23,11 @@ layout: default
     margin-right: 10px;
   }
 
-  /* Media query for very small devices */
+  /* Media query for smaller devices */
   @media (max-width: 600px) {
     .scroll-container img {
-      height: 100px; /* Reduce image height for smaller screens */
+      width: 150px; /* Adjust width for smaller screens */
+      height: 100px; /* Adjust height for smaller screens */
     }
   }
 </style>
