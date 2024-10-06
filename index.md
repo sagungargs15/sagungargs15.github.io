@@ -1,6 +1,7 @@
+---
+layout: default
+---
 
-<<<<<<< HEAD
-=======
 <style>
   /* Scrollable container styles */
   .scroll-container {
@@ -65,7 +66,9 @@
 
   - **September 2024**: "Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world ? Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard"
 
-  - **September 2024**: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking" at Lightning Returns Bitcoin Conference in Singapore
+  - **September 2024**: Presentation talk at Lightning Returns Bitcoin Conference in Singapore
+
+    Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"
 
     <div style="width: 600px; overflow-x: auto; white-space: nowrap; border: 1px solid black;">
       <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" style="height: 150px; display: inline-block;">
@@ -73,7 +76,9 @@
       <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-2.jpeg" alt="Image 3" style="height: 150px; display: inline-block;">
     </div>
 
-  - **September 2024**: Panel talk with industry experts: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value” organised by ABS and MAS
+  - **September 2024**: Panel talk with industry experts organised by ABS and MAS
+
+    Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”
 
     <div style="width: 600px; overflow-x: auto; white-space: nowrap; border: 1px solid black;">
       <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.jpeg" alt="Image 1" style="height: 150px; display: inline-block;">
@@ -82,6 +87,14 @@
     </div>
 
   - **August 2024**: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival
+
+      Topic: "Judge & Evaluator for AI Startups for applications in Singapore Fintetc Festival (SFF 2024)"
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(this)">
+        <img src=https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(this)">
+        <img src=https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-3.png" alt="Image 3" onclick="openLightbox(this)">
+      </div> 
 
   - **July 2024**: Panel discussion on mainstage at Bitcoin Nashville Conference with Caitlin Long, Miles Paschini and Sagun Garg
 
@@ -96,7 +109,7 @@
 
   - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers
 
-      Topic: 
+      Topic: "GenAI Narrative builder for protfolio re-assement for switching positions using factual references of internal publications"
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png" alt="Image 1" onclick="openLightbox(this)">
@@ -105,21 +118,15 @@
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(this)">
       </div>
 
-  - **May 2024**: Bitcoin Conference Asia 2024 - Hong Kong
+  - **May 2024**: Panel discussion at Bitcoin Conference Asia 2024 - Hong Kong
     
-      Topic: Miniscript Bitcoin Inheritance Planning 
+      Topic: "Miniscript & Bitcoin Inheritance Planning" 
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Image 2" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png" alt="Image 3" onclick="openLightbox(this)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 4" onclick="openLightbox(this)">
-      </div>  
-
-      <!-- Lightbox container -->
-      <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-        <span class="lightbox-close">&times;</span>
-        <img id="lightbox-img" src="" alt="">
       </div>
     
   - **May 2024**: Students from Indiana University - Kelley School of Business
@@ -134,14 +141,12 @@
   - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
 
     Topic: Web3: Blockhain and Tokenization
+    [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop) | [Plug & Play Tech Center](https://www.plugandplaytechcenter.com/) | [Aelf Blockchain](https://aelf.com/)
 
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png)
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png)
-
-    [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop)
-    [LINK TO Plug & Play Tech Center](https://www.plugandplaytechcenter.com/)
-    [LINK TO Aelf Blockchain](https://aelf.com/)
-
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png" alt="Image 1" onclick="openLightbox(this)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png" alt="Image 2" onclick="openLightbox(this)">
+      </div>
 
   <!-- - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
 
@@ -392,4 +397,3 @@ The final element.
 
 
 
->>>>>>> 6471c2fda9110a013d2cfc493dbc955300fe5973
