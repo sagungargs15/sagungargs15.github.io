@@ -1,7 +1,6 @@
----
-layout: default
----
 
+<<<<<<< HEAD
+=======
 <style>
   /* Scrollable container styles */
   .scroll-container {
@@ -407,3 +406,5 @@ The final element.
 ``` -->
 
 
+
+>>>>>>> 6471c2fda9110a013d2cfc493dbc955300fe5973
