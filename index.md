@@ -3,32 +3,54 @@ layout: default
 ---
 
 <style>
+  /* Scrollable container styles */
   .scroll-container {
-    width: 100%; /* Full width of the parent container */
-    max-width: 100%; /* Ensures it doesn't overflow */
+    width: 100%;
+    max-width: 100%;
     overflow-x: auto;
     white-space: nowrap;
     border: 1px solid black;
   }
 
   .scroll-container img {
-    width: 200px; /* Set a fixed width for all images */
-    height: 150px; /* Set a fixed height for all images */
-    object-fit: cover; /* Ensures the image covers the set dimensions, cropping if needed */
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
     display: inline-block;
-  }
-
-  /* Optional: Add some spacing between images */
-  .scroll-container img:not(:last-child) {
+    cursor: pointer; /* Show that image is clickable */
     margin-right: 10px;
   }
 
-  /* Media query for smaller devices */
-  @media (max-width: 600px) {
-    .scroll-container img {
-      width: 150px; /* Adjust width for smaller screens */
-      height: 100px; /* Adjust height for smaller screens */
-    }
+  /* Lightbox container (hidden by default) */
+  .lightbox {
+    display: none; /* Hidden until clicked */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Black background with transparency */
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it appears above other elements */
+  }
+
+  /* Fullscreen image inside the lightbox */
+  .lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  }
+
+  /* Close button */
+  .lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
   }
 </style>
 
