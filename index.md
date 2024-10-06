@@ -87,7 +87,7 @@ layout: default
 
   - **September 2024**: Presentation talk at Lightning Returns Bitcoin Conference in Singapore
 
-    Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"
+    > Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" onclick="openLightbox(0)">
@@ -98,7 +98,7 @@ layout: default
 
   - **September 2024**: Panel talk with industry experts organised by ABS and MAS
 
-    Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”
+    > Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Image 1" onclick="openLightbox(4)">
