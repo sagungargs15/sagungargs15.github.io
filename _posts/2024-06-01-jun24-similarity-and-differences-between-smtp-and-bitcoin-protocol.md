@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jun24 - Similarity and Differences between SMTP and Bitcoin Protocol from Lens of Computer Science Guy"
+title: "June24 - Comparsion between SMTP & Bitcoin Protocol"
 date: 2024-06-01 23:59:59 -0000
 categories: smtp email-servers bitcoin procotol-design decentralised communication
 author: "Sagun Garg"

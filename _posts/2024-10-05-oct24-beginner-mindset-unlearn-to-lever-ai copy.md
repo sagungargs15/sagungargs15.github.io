@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct2024 - Beginner Mindset: Unlearn to Lever AI"
+title: "October2024 - Beginner Mindset: Unlearn to Lever AI"
 date: 2024-10-05 23:59:59 -0000
 categories: mindset bootstrap unlearn artificialintelligence ai/ml
 author: "Sagun Garg"

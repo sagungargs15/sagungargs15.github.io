@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct2024 - 4 Types of Learners"
+title: "October2024 - 4 Types of Learners"
 date: 2024-10-08 23:59:59 -0000
 categories: 
 author: "Sagun Garg"

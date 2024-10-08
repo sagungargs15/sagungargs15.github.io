@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct2024 - Miniscript Enterprise Custody of Bitcoin"
+title: "October2024 - Miniscript Enterprise Custody of Bitcoin"
 date: 2024-10-07 23:59:59 -0000
 categories: miniscript enterprise custody bitcoin
 author: "Sagun Garg"
