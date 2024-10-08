@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arpil2024-BTC New Bitcoin Core v27.0 Release"
+title: "Arpil2024-BTC | New Bitcoin Core v27.0 Release"
 date: 2024-04-11 23:59:59 -0000
 categories: bitcoincore release Libitcoin mempool BIP
 author: "Sagun Garg"

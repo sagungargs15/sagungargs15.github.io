@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May2024 - Bitcoin | Wizardsardine's new Self Custody Wallet products Revault & Liana"
+title: "May2024 - BTC| Miniscript Advanced Notes"
 date: 2024-05-04 23:59:59 -0000
 categories: btc multi-sig decay inheritance planning security self-custody
 author: "Sagun Garg"

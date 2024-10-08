@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June24 - Comparsion between SMTP & Bitcoin Protocol"
+title: "June24 - BTC | Comparsion: SMTP & Bitcoin Protocol"
 date: 2024-06-01 23:59:59 -0000
 categories: smtp email-servers bitcoin procotol-design decentralised communication
 author: "Sagun Garg"

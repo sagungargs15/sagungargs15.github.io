@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May2024 - Ordinal vs Cardinal Wallets"
+title: "May2024 - BTC | Ordinal vs Cardinal Wallets"
 date: 2024-05-08 23:59:59 -0000
 categories: btc multi-sig ordinals cardinal-wallets ordinal-wallets nft-bitcoin
 author: "Sagun Garg"

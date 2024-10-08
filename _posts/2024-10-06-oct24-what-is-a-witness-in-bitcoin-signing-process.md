@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October2024 - What is a Witness in Bitcoin Signing Process"
+title: "October2024 - BTC | What is a Witness in Signing Process"
 date: 2024-10-08 23:59:59 -0000
 categories: witness bitcoin signing
 author: "Sagun Garg"
