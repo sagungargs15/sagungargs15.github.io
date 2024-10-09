@@ -2,10 +2,12 @@
 layout: post
 title: "October2024 - Bitcoin Wealth and Inheritance"
 date: 2024-10-10 23:59:59 -0000
-categories: 
+categories: miniscript enterprise custody bitcoin
 author: "Sagun Garg"
-tags: 
+tags: miniscript enterprise custody bitcoin
 ---
+
+# BTC Conference Amsterdam 2024
 
 ## Bitcoin Wealth and Inheritance
 
