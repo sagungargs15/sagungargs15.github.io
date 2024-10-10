@@ -26,7 +26,7 @@ What are the Technical Challenges
 While Revised Uniform Fiduciary Access to Digital Assets Act (RUFADAA) doesn't explicitly address Bitcoin, its principles aim to facilitate the management of digital assets post-mortem by providing legal frameworks for fiduciaries
 
 ## Execution Details 
-1. 5 Stage Process spanning over decades: (Setup → Periodic Health Checks → Upgrades → Trigger →  Delivery → Legal Recourse)
+1. 5 Stage Process spanning over decades: (Setup → Periodic Health Checks → Upgrades/Rotation of Keys or Setup → Trigger →  Delivery → Legal Recourse)
 2. Triggers of Confirmation Death: 
     A. These contracts would automatically verify conditions like the death of the owner through various oracles (services that provide real-world data to blockchains), which could include death registries, obituaries, or notifications from trusted parties.
     B. Manually verifying creates a dependency on a Single institution 
