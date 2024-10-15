@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sep24 - BTC | Deflation, Hyberbitcoinization & Wealth Banking"
-date: 2024-09-30 23:59:59 -0000
+date: 2024-09-21 23:59:59 -0000
 categories: deflation hyberbitcoinization wealth-banking
 author: "Sagun Garg"
 tags: deflation hyberbitcoinization wealth-banking
@@ -9,9 +9,9 @@ tags: deflation hyberbitcoinization wealth-banking
 
 > Think of Bitcoin more like a metric system - like kilometers, miles, kilograms, liters. We need a measuring system in a hyper deflationary world where everything falls down significantly in price. That's where the finite supply of 21 million coins is beautiful. That's how you will finally have a metric system that will measure the unit of GDP account across the world.
 
-This quote highlights the Sagun's vision of Bitcoin as a universal measuring tool for economic value in a world experiencing rapid technological deflation. It emphasizes Bitcoin's potential role not just as a currency or store of value, but as a fundamental unit of account in a transformed global economy. 
+This talk highlights the Sagun's vision of Bitcoin as a universal measuring tool for economic value in a world experiencing rapid technological deflation. It emphasizes Bitcoin's potential role not just as a currency or store of value, but as a fundamental unit of account in a transformed global economy. 
 
-Presentation Link: https://youtu.be/GLLea0GZ_ro?si=9uGfKhN0HRxxsWM3
+[Youtube Presentation Link](https://youtu.be/GLLea0GZ_ro?si=9uGfKhN0HRxxsWM3)
 
 # Bitcoin - Store of Value Vehicle (HODL):
 

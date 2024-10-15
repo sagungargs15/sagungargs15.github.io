@@ -9,15 +9,15 @@ tags: AI/ML bitcoin
 
 > AI could lead to a world of "hyper deflation" where the cost of goods and services tends toward zero due to increased automation and efficiency and Bitcoin could serve as a standard measurement tool for wealth and value, similar to how the meter is used to measure distance.
 
-Podcast Link: https://youtu.be/kvX7QBVNL_M?si=bEZewkTPFeOlLecS
+[Youtube Podcast Link](https://youtu.be/kvX7QBVNL_M?si=bEZewkTPFeOlLecS)
 
 # Interseaction of AI and Bitcoin:
 
 Here are the key important points discussed in this podcast:
 
-1. The guest, Segun Garg, has been involved in Bitcoin for over 10 years and views it as a revolutionary technology that combines computer science, security protocols, and economics.
+1. The guest, [Sagun Garg](https://x.com/sagungarg), has been involved in Bitcoin for over 11+ years and views it as a revolutionary technology that combines computer science, security protocols, and economics. The polymathic nature of the Bitcoin technology is what got him curious and involved since 2013. 
 
-2. Bitcoin is described as "discovered money" rather than invented money, comparable to how humans discovered fire or electricity rather than inventing them.
+2. Bitcoin is described by him as "discovered money" rather than invented money, comparable to how humans discovered fire or electricity rather than inventing them.
 
 3. The podcast discusses the potential future intersection of AI and Bitcoin, suggesting AI could lead to a world of "hyper deflation" where the cost of goods and services tends toward zero due to increased automation and efficiency.
 

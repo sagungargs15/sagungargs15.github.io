@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sep24 - BTC | Future of Wealth & Private Banking"
-date: 2024-09-30 23:59:59 -0000
+date: 2024-09-15 23:59:59 -0000
 categories: future wealth bitcoin private-banking
 author: "Sagun Garg"
 tags: future wealth bitcoin private-banking
@@ -9,7 +9,7 @@ tags: future wealth bitcoin private-banking
 
 > Bitcoin has potential as a medium of exchange in the future, its current and near-future value proposition is primarily as a store of value. Entrepreneurs in the space should focus on building products and services that cater to this use case.
 
-Presentation Link: https://youtu.be/g_qglws0r38?si=5MQdbjlnciNELdHk
+[Youtube Presentation Link](https://youtu.be/g_qglws0r38?si=5MQdbjlnciNELdHk)
 
 # Bitcoin - Store of Value Vehicle (HODL):
 
