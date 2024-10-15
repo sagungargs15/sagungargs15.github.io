@@ -87,11 +87,33 @@ layout: default
 
   - Stay tuned...More talks will be updated soon...
 
-  - **September 2024**: "Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world ? Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard"
+  - **October 2024**: "Bitcoin Conference 2024 at Amsterdam Panel amongst industry experts"
+
+    > **Topic: "Bitcoin Wealth & Inheritance"**
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-3.png" alt="Image 3" onclick="openLightbox(2)">
+      </div> 
+
+  - **September 2024**: "Podcast with OnRamp MENA on Intersection of AI and Bitcoin exploring the Hyperdeflation and Hyperbitcoinization scenarios"
+
+    > **Topic:"Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world ? Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard"**
+
+      [Youtube Video](https://youtu.be/kvX7QBVNL_M?si=UNpcI7ah2jbgIfy5)
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-3.png" alt="Image 3" onclick="openLightbox(2)">
+      </div> 
 
   - **September 2024**: Presentation talk at Lightning Returns Bitcoin Conference in Singapore
 
     > **Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"**
+
+      [Youtube Video](https://youtu.be/GLLea0GZ_ro?si=ZZHXTWStD6V4Yt8n)
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" onclick="openLightbox(0)">
@@ -100,9 +122,11 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-4.jpeg" alt="Image 4" onclick="openLightbox(3)">
       </div> 
 
-    - **September 2024**: Presentation at Thailand Bitcoin Conference (TBC 2024)
+  - **September 2024**: Presentation at Thailand Bitcoin Conference (TBC 2024)
 
     > **Topic: “Redistribution of Wealth in the coming era of Hyperbitcoinization - Bitcoin based Future of Wealth Banking & Digital Private Banks”**
+
+      [Youtube Video](https://youtu.be/g_qglws0r38?si=ubn1mnNTodtC55pn)
 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png" alt="Image 1" onclick="openLightbox(4)">
