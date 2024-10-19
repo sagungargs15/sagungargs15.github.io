@@ -9,7 +9,8 @@ layout: default
     max-width: 100%;
     overflow-x: auto;
     white-space: nowrap;
-    border: 1px solid black;
+    border: 1px solid white; /* Changed border color to white */
+    padding: 10px; /* Added padding inside the container */
   }
 
   .scroll-container img {
@@ -18,7 +19,10 @@ layout: default
     object-fit: cover;
     display: inline-block;
     cursor: pointer; /* Show that image is clickable */
-    margin-right: 10px;
+    margin-right: 10px; /* Spacing between images */
+    border: 2px solid white; /* Border around images */
+    border-radius: 5px; /* Optional: adds rounded corners */
+    padding: 5px; /* Optional: space between image and border */
   }
 
   /* Lightbox container (hidden by default) */
