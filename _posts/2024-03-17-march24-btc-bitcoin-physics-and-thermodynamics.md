@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March24-BTC: Bitcoin Physics and Thermodynamics"
+title: "March24 - BTC | Bitcoin Physics and Thermodynamics"
 date: 2024-03-17 23:59:59 -0000
 categories: bitcoin physics saylor thermodynamics
 author: "Sagun Garg"

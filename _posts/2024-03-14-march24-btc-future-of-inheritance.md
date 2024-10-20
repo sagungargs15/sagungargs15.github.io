@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mar2024-BTC Future of Inheritance"
+title: "Mar2024 - BTC | Future of Inheritance"
 date: 2024-03-14 23:59:59 -0000
 categories: btc multi-sig decay inheritance planning
 author: "Sagun Garg"

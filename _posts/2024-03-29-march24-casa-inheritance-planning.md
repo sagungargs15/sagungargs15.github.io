@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March2024- Bitcoin | Casa Non-KYC Global Inheritance Plan"
+title: "March2024 - BTC | Casa Non-KYC Global Bitcoin Inheritance Plan"
 date: 2024-03-29 23:59:59 -0000
 categories: casa multis-ig bitcoin-wallet inheritance-planning
 author: "Sagun Garg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct24 - BTC | Bitcoin Structured Products"
+title: "October2024 - BTC | Bitcoin Structured Products"
 date: 2024-10-17 23:59:59 -0000
 categories: microstrategy bitcoin
 author: "Sagun Garg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arpil2024-BTC | Bitcoin Inheritance planning and Miniscript"
+title: "Arpil2024 - BTC | Bitcoin Inheritance planning and Miniscript"
 date: 2024-04-30 23:59:59 -0000
 categories: bitcoin inheritance planning miniscript timelocks bitcoin-smartcontracts
 author: "Sagun Garg"

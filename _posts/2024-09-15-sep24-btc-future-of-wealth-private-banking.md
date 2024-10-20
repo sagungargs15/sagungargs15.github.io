@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sep24 - BTC | Future of Wealth & Private Banking"
+title: "September2024 - BTC | Future of Wealth & Private Banking"
 date: 2024-09-15 23:59:59 -0000
 categories: future wealth bitcoin private-banking
 author: "Sagun Garg"

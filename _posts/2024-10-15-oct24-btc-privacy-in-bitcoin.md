@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct24 - BTC | Privacy in Bitcoin"
+title: "October2024 - BTC | Privacy in Bitcoin"
 date: 2024-10-15 23:59:59 -0000
 categories: privacy bitcoin
 author: "Sagun Garg"

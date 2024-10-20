@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "October24-Bitcoin OG View: Michael Saylor/What is Bitcoin?"
+title: "October2024 - BTC | Bitcoin OG View of Michael Saylor?"
 date: 2024-10-20 23:59:59 -0000
 categories: bitcoin-physics notes bitcoin michael-saylor OG
 author: "Sagun Garg"
 tags: bitcoin-physics bitcoin michael-saylor OG
+
 ---
 
 > *"It's not a glitch, it's a digital transformation of the capital markets."* - Michael Saylor

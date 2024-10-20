@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sep24 - BTC | Intersection of AI and Bitcoin"
+title: "September2024 - BTC | Intersection of AI and Bitcoin"
 date: 2024-09-30 23:59:59 -0000
 categories: AI/ML bitcoin
 author: "Sagun Garg"

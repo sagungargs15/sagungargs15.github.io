@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sep24 - BTC | Deflation, Hyberbitcoinization & Wealth Banking"
+title: "September2024 - BTC | Deflation, Hyberbitcoinization & Wealth Banking"
 date: 2024-09-21 23:59:59 -0000
 categories: deflation hyberbitcoinization wealth-banking
 author: "Sagun Garg"
