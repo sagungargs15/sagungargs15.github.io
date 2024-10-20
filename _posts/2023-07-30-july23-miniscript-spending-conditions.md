@@ -30,21 +30,21 @@ In conclusion, Miniscript is a powerful domain-specific language that simplifies
 # Usage of Miniscript
 Several prominent Bitcoin projects and initiatives are currently utilizing Miniscript in their development efforts. Here are some of the key projects that have adopted Miniscript:
 
-1. Bitcoin Core:
+1. **Bitcoin Core**:
     Miniscript has been integrated into the Bitcoin Core client, the reference implementation of the Bitcoin protocol. This integration allows developers working with Bitcoin Core to leverage Miniscript for defining transaction scripts and spending policies.
-2. Trezor Hardware Wallets:
+2. **Trezor Hardware Wallets**:
     The Trezor team, known for their popular hardware wallets, has incorporated Miniscript support into their products. This allows Trezor users to create and manage complex Bitcoin transactions using the Miniscript language.
-3. Coldcard Hardware Wallets:
+3. **Coldcard Hardware Wallets**:
     Coldcard, another leading hardware wallet manufacturer, has also added Miniscript support to their devices. This integration enables Coldcard users to leverage Miniscript-based spending policies for their Bitcoin holdings.
-4. Electrum Wallet:
+4. **Electrum Wallet**:
     he Electrum Bitcoin wallet has implemented Miniscript support, allowing users to create and manage Miniscript-based transactions within the Electrum interface.
-5. Rust Bitcoin Library:
+5. **Rust Bitcoin Library**:
     The Rust-based Bitcoin library, a popular choice for Bitcoin-related development in the Rust ecosystem, has included Miniscript support, making it easier for Rust developers to incorporate Miniscript into their applications.
-6. Lightning Network:
+6. **Lightning Network**:
     The Lightning Network, a Layer 2 scaling solution for Bitcoin, has started exploring the use of Miniscript for defining channel opening and closing conditions, as well as for complex payment routing scenarios.
-7. DeFi and Scriptless Scripts:
+7. **DeFi and Scriptless Scripts**:
     The decentralized finance (DeFi) space and the ongoing research into "scriptless scripts" have shown interest in Miniscript as a way to represent and analyze complex spending conditions in a more intuitive and maintainable manner.
-8. Academic Research:
+8. **Academic Research**:
     Miniscript has gained attention from academic researchers studying Bitcoin script, as it provides a more formal and expressive language for analyzing and reasoning about the properties of Bitcoin transactions.
 
 The widespread adoption of Miniscript across these prominent Bitcoin projects and initiatives underscores its growing importance in the ecosystem. As developers continue to explore and leverage the capabilities of Miniscript, we can expect to see more innovative and sophisticated Bitcoin applications emerge, further expanding the utility and reach of the Bitcoin network.
@@ -53,6 +53,6 @@ The widespread adoption of Miniscript across these prominent Bitcoin projects an
 Miniscript becomes particularly useful for managing complex spending conditions, such as those encountered in inheritance use cases for Bitcoin. Here's how Miniscript can be leveraged in this context:
 
 In an inheritance scenario, a Bitcoin holder may want to set up a spending policy that allows their heirs to access the funds after the holder's passing, while also incorporating additional conditions or restrictions. This could include:
-    a. Time-locked access: The holder may want to ensure that the heirs can only access the funds after a certain amount of time has elapsed, to prevent immediate access upon the holder's death.
-    b. Multi-signature requirements: The holder may want to require multiple heirs to collectively authorize the spending of the funds, rather than allowing a single heir to have sole control.
-    c. Conditional access: The holder may want to grant access to the funds only if certain conditions are met, such as the heirs reaching a specific age or providing proof of identity.
+    a. **Time-locked access**: The holder may want to ensure that the heirs can only access the funds after a certain amount of time has elapsed, to prevent immediate access upon the holder's death.
+    b. **Multi-signature requirements**: The holder may want to require multiple heirs to collectively authorize the spending of the funds, rather than allowing a single heir to have sole control.
+    c. **Conditional access**: The holder may want to grant access to the funds only if certain conditions are met, such as the heirs reaching a specific age or providing proof of identity.

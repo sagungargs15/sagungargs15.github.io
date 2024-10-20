@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "December21-Bitcoin notes: Power Projection, Militia and Bitcoin"
+title: "December21- BTC: Power Projection, Militia and Bitcoin"
 date: 2021-12-21 23:59:59 -0000
 categories: notes bitcoin
 author: "Sagun Garg"
 tags: bitcoin-physics proof-of-work bitcoin power-projection
 ---
-
 
 ## Power Projection, Militia and Bitcoin
 - Distribution, ownership and scarcity defines the economics over resources allocation and 

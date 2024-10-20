@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "March22-Crypto notes: Bitcoin Smart Contracts"
+title: "March22-BTC: Bitcoin Smart Contracts"
 date: 2022-03-15 23:59:59 -0000
-categories: notes crypto bitcoin smart-contracts
+categories: notes bitcoin smart-contracts
 author: "Sagun Garg"
-tags: crypto bitcoin smart-contracts 
+tags: bitcoin smart-contracts 
 ---
 
 ***"The Bitcoin community activated Taproot at block 709,632 on November 12th, 2021."***
