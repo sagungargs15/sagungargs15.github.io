@@ -4,7 +4,7 @@ title: "July2023-Minicript Spending Conditions in Bitcoin"
 date: 2023-07-30 23:59:59 -0000
 categories: bitcoin multi-sig miniscript spending-conditions
 author: "Sagun Garg"
-tags: bitcoin multi-sig miniscript spending-conditions
+tags: bitcoin multi-sig miniscript spending-conditions 
 ---
 
 # Miniscript: A Domain-Specific Language for Bitcoin Script
