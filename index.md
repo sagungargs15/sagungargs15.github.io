@@ -292,29 +292,43 @@ layout: default
 
   - **December 2023**: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer
 
-     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-web3-singapore-smu-professor.png)
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-web3-singapore-smu-professor.png" alt="Image 1" onclick="openLightbox(55)">
+      </div>
 
   - **November 2023**: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer
 
-    ![pic](https://sagungarg.com/assets/img/competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png)
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(55)">
+      </div>
 
   - **November 2023**: Investor - Judge at Carta Investor program at Singapore Fintech Festival 2023
 
-    ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png) ![pic](https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png)
-
     [LINK TO EVENT](https://www.fintechfestival.sg/investor-hours)
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png" alt="Image 1" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png" alt="Image 2" onclick="openLightbox(56)">
+      </div>
     
   - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore in November 2023 
-  
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png) ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png)
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png" alt="Image 1" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png" alt="Image 2" onclick="openLightbox(56)">
+      </div>
   
   - **July 2023**: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups !
-  
-    ![pic](https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png)
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png" alt="Image 1" onclick="openLightbox(55)">
+      </div>
   
   - **June 2023**: Speaker - Master Class in Zurich for, Tenity(https://www.tenity.com/) - formerly F10 Batch
 
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png)
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(55)">
+      </div>
 
 - ✨ **Current Active Interests**: What keep's me busy these days
   - 💬 &nbsp; Lately my nascent curiosity has been sparked in Quantum Computing influencing the AI/ML space, Gene therapy leveraging AI and private LLMs deployed on edge computing devices. 
