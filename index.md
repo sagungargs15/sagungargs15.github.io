@@ -83,13 +83,58 @@ layout: default
 
 ## [About](https://sagungarg.com/about) my expertise: CTO/Founder: [Sagun](https://x.com/sagungarg). You can also find me on linkedin [Sagun](https://www.linkedin.com/in/sagungarg)
 
-**Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is a self discovery of a polymath within you while you solve a problem creating something: Along the way you sell value to stakeholders, you enagage in resource mobilization & cultivate skewed skills (Polyglot: Programmer in 7+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert) to deliver a vision inspite of the constraints.**
+**Entrepreneurship[(poem)](https://sagungarg.com/0-poem) for me is a self discovery of a polymath within you while you solve a problem creating something: Along the way you sell value to stakeholders, you enagage in resource mobilization & cultivate skewed skills (Polyglot: Programmer in 9+ languages, System Architect, Engineering Manager, Product Owner, Product Manager & DevOps Expert) to deliver a vision inspite of the constraints.**
 
 - 🗣 **Brief**: Currently serving as Global Innovation Director - Software Engineering & Enterprise Architecture at [Bank Julius Baer](https://www.juliusbaer.com/). In my past life I have been a [repeat](https://sagungarg.com/1-previous-startups) Founder/CTO with 3 x startups [DevTools, CareerTech, PropTech] built with AI/ML to craft data products specially in architectures that are characterised by time-series, textual, geospatial, bigdata, nosql & erratic nature of data. I have also played couple of stints of CTO-on-Hire to turn around two(2) pre-Series A startups in Singapore & Hong Kong respectively. 
 
 - 💬 **Speaker/Judging/Presenter Series**: 
 
   - Stay tuned...More talks will be updated soon...
+
+  - **October 2024**: "Masterclass at NUS MBA Business School"
+
+    > **Topic: "Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury"**
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(4)">
+      </div> 
+
+    >     
+    <!-- Extra Space vertical padding  -->
+
+  - **October 2024**: "Launch of AI CTO Program: Singapore Google Office Panel Discussion "
+
+    > **Topic: "Building a Sustainable COE - AI CTO Program"**
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(4)">
+      </div> 
+
+    >     
+    <!-- Extra Space vertical padding  -->
+
+  - **October 2024**: "Tab Conference 6 2024 at Georgia Tech - Atlanta Talk"
+
+    > **Topic: "Architectural Nuances for Bitcoin Enterprise Custody for Institutions/Orgs (Small/Medium) on Bitcoin Standard - Self Sovereignty for “Corporate Plebs & Non-Profits"**
+
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(4)">
+      </div> 
+
+    >     
+    <!-- Extra Space vertical padding  -->
 
   - **October 2024**: "Bitcoin Conference 2024 at Amsterdam Panel amongst industry experts"
 
