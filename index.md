@@ -155,7 +155,7 @@ layout: default
     >     
     <!-- Extra Space vertical padding  -->
   
-  <div id="tab-aiml" class="tab-content">
+  <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>October 2024: Launch of AI CTO Program: Singapore Google Office Panel Discussion</h2>
     <p>Topic: Building a Sustainable COE - AI CTO Program</p>  
       <div class="scroll-container">
@@ -169,10 +169,9 @@ layout: default
     >     
     <!-- Extra Space vertical padding  -->
 
-  - **October 2024**: "Tab Conference 6 2024 at Georgia Tech - Atlanta Talk"
-
-    > **Topic: "Architectural Nuances for Bitcoin Enterprise Custody for Institutions/Orgs (Small/Medium) on Bitcoin Standard - Self Sovereignty for “Corporate Plebs & Non-Profits"**
-    <div id="tab-btc" class="tab-content">
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>October 2024: Tab Conference 6 2024 at Georgia Tech - Atlanta Talk</h2>
+    <p>Topic: Architectural Nuances for Bitcoin Enterprise Custody for Institutions/Orgs (Small/Medium) on Bitcoin Standard - Self Sovereignty for “Corporate Plebs & Non-Profits</p> 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(10)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(11)">
@@ -184,11 +183,9 @@ layout: default
     >     
     <!-- Extra Space vertical padding  -->
 
-  - **October 2024**: "Bitcoin Conference 2024 at Amsterdam Panel amongst industry experts"
-
-    > **Topic: "Bitcoin Wealth & Inheritance"**
-    
-    <div id="tab-btc" class="tab-content">
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>October 2024: Bitcoin Conference 2024 at Amsterdam Panel amongst industry experts</h2>
+    <p>Topic: Bitcoin Wealth & Inheritance</p> 
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(15)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(16)">
@@ -198,11 +195,11 @@ layout: default
     >     
     <!-- Extra Space vertical padding  -->
 
-  - **September 2024**: "Podcast with OnRamp MENA on Intersection of AI and Bitcoin exploring the Hyperdeflation and Hyperbitcoinization scenarios"
-
-    > **Topic:"Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world ? Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard"** - [Youtube Video](https://youtu.be/kvX7QBVNL_M?si=UNpcI7ah2jbgIfy5)
-
-    <div id="tab-btc" class="tab-content">
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>September 2024: Podcast with OnRamp MENA on Intersection of AI and Bitcoin exploring the Hyperdeflation and Hyperbitcoinization scenarios</h2>
+    <p>Topic: Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world</p>
+    <p>Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard</p>
+    <a href="https://youtu.be/kvX7QBVNL_M?si=UNpcI7ah2jbgIfy5" target="_blank" rel="noopener noreferrer">YouTube</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-1.png" alt="Image 1" onclick="openLightbox(18)">
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Image 2" onclick="openLightbox(19)">
