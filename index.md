@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<!-- Tab Navigation -->
+<div class="tab-container">
+  <button class="tab-button" onclick="openTab(event, 'tab1')">Bitcoin</button>
+  <button class="tab-button" onclick="openTab(event, 'tab2')">AI/ML</button>
+  <button class="tab-button" onclick="openTab(event, 'tab3')">Founder</button>
+  <button class="tab-button" onclick="openTab(event, 'tab3')">Angel/VC</button>
+</div>
+
 <style>
   /* Scrollable container styles */
   .scroll-container {
@@ -94,14 +102,15 @@ layout: default
   - **October 2024**: "Masterclass at NUS MBA Business School"
 
     > **Topic: "Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury"**
-
+    <div id="tab1" class="tab-content">
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(1)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-3.png" alt="Image 3" onclick="openLightbox(2)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-4.png" alt="Image 4" onclick="openLightbox(3)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(4)">
-      </div> 
+      </div>
+    </div>   
 
     >     
     <!-- Extra Space vertical padding  -->
