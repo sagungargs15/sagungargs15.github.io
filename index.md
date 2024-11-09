@@ -131,16 +131,16 @@ layout: default
 
   <!-- Tab Navigation -->
   <div class="tab-container">
-    <button class="tab-button" onclick="openTab(event, 'tab1')">Bitcoin</button>
-    <button class="tab-button" onclick="openTab(event, 'tab2')">AI/ML</button>
-    <button class="tab-button" onclick="openTab(event, 'tab3')">Founder</button>
-    <button class="tab-button" onclick="openTab(event, 'tab3')">Angel/VC</button>
+    <button class="tab-button" onclick="openTab(event, 'tab-btc')">Bitcoin</button>
+    <button class="tab-button" onclick="openTab(event, 'tab-aiml')">AI/ML</button>
+    <button class="tab-button" onclick="openTab(event, 'tab-fndr')">Founder</button>
+    <button class="tab-button" onclick="openTab(event, 'tab-avc')">Angel/VC</button>
   </div>
 
   - **October 2024**: "Masterclass at NUS MBA Business School"
 
     > **Topic: "Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury"**
-    <div id="tab1" class="tab-content">
+    <div id="tab-btc" class="tab-content">
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(1)">
@@ -156,7 +156,7 @@ layout: default
   - **October 2024**: "Launch of AI CTO Program: Singapore Google Office Panel Discussion "
 
     > **Topic: "Building a Sustainable COE - AI CTO Program"**
-
+    <div id="tab-aiml" class="tab-content">
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(5)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(6)">
@@ -164,14 +164,14 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(8)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(9)">
       </div> 
-
+    </div>
     >     
     <!-- Extra Space vertical padding  -->
 
   - **October 2024**: "Tab Conference 6 2024 at Georgia Tech - Atlanta Talk"
 
     > **Topic: "Architectural Nuances for Bitcoin Enterprise Custody for Institutions/Orgs (Small/Medium) on Bitcoin Standard - Self Sovereignty for “Corporate Plebs & Non-Profits"**
-
+    <div id="tab-btc" class="tab-content">
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(10)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(11)">
@@ -179,20 +179,21 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(13)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(14)">
       </div> 
-
+    </div>
     >     
     <!-- Extra Space vertical padding  -->
 
   - **October 2024**: "Bitcoin Conference 2024 at Amsterdam Panel amongst industry experts"
 
     > **Topic: "Bitcoin Wealth & Inheritance"**
-
+    
+    <div id="tab-btc" class="tab-content">
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(15)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(16)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-3.png" alt="Image 3" onclick="openLightbox(17)">
       </div> 
-
+    </div>
     >     
     <!-- Extra Space vertical padding  -->
 
@@ -200,12 +201,13 @@ layout: default
 
     > **Topic:"Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world ? Are these two ideas two sides of the same Coin and why corporates will move on to Enterprise Custody Multsig, Mult-jurisdiction and multi-agents setup on Bitcoin Standard"** - [Youtube Video](https://youtu.be/kvX7QBVNL_M?si=UNpcI7ah2jbgIfy5)
 
+    <div id="tab-btc" class="tab-content">
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-1.png" alt="Image 1" onclick="openLightbox(18)">
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Image 2" onclick="openLightbox(19)">
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-3.png" alt="Image 3" onclick="openLightbox(20)">
       </div> 
-    
+    </div>
     >     
     <!-- Extra Space vertical padding  -->
 
