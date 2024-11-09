@@ -140,11 +140,9 @@ layout: default
   </div>
 
 
-  <div id="tab-btc" class="tab-content">  
-  - **October 2024**: "Masterclass at NUS MBA Business School"
-
-    > **Topic: "Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury"**
-    
+  <div id="tab-btc" class="tab-content" style="display: block;">  
+    <h2>October 2024: Masterclass at NUS MBA Business School</h2>
+    <p>Topic: "Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(1)">
@@ -158,10 +156,8 @@ layout: default
     <!-- Extra Space vertical padding  -->
   
   <div id="tab-aiml" class="tab-content">
-  - **October 2024**: "Launch of AI CTO Program: Singapore Google Office Panel Discussion "
-
-    > **Topic: "Building a Sustainable COE - AI CTO Program"**
-    
+    <h2>October 2024: Launch of AI CTO Program: Singapore Google Office Panel Discussion</h2>
+    <p>Topic: Building a Sustainable COE - AI CTO Program</p>  
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(5)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(6)">
