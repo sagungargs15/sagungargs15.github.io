@@ -444,6 +444,60 @@ layout: default
 </div>
 
 <script>
+// Tab functionality
+function openTab(event, tabId) {
+  // Hide all tab contents and remove active class from tabs
+  document.querySelectorAll('.tab-content').forEach(content => content.style.display = 'none');
+  document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+  
+  // Show the selected tab content and set the clicked tab as active
+  document.getElementById(tabId).style.display = 'block';
+  event.currentTarget.classList.add('active');
+}
+
+// Lightbox functionality
+let currentImageIndex = 0;
+let images = [];
+
+// Open lightbox with the specified image index
+function openLightbox(index) {
+  images = document.querySelectorAll('.tab-content img');
+  currentImageIndex = index;
+  
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightboxImage');
+  lightbox.style.display = 'flex';
+  lightboxImage.src = images[currentImageIndex].src;
+}
+
+// Close the lightbox
+document.getElementById('lightboxClose').onclick = function() {
+  document.getElementById('lightbox').style.display = 'none';
+};
+
+// Show the previous image
+document.getElementById('prevArrow').onclick = function(event) {
+  event.stopPropagation();
+  currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
+  document.getElementById('lightboxImage').src = images[currentImageIndex].src;
+};
+
+// Show the next image
+document.getElementById('nextArrow').onclick = function(event) {
+  event.stopPropagation();
+  currentImageIndex = (currentImageIndex + 1) % images.length;
+  document.getElementById('lightboxImage').src = images[currentImageIndex].src;
+};
+
+// Close lightbox when clicking outside the image
+document.getElementById('lightbox').onclick = function(event) {
+  if (event.target === document.getElementById('lightbox')) {
+    document.getElementById('lightbox').style.display = 'none';
+  }
+};
+</script>
+
+<!-- <script>
   // Store the images in an array
   const images = document.querySelectorAll('.scroll-container img');
   let currentImageIndex = 0;
@@ -501,7 +555,7 @@ layout: default
       }
     }
   });
-</script>
+</script> -->
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
