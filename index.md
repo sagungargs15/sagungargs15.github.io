@@ -23,24 +23,24 @@ layout: default
     transition: background-color 0.3s, color 0.3s;
   }
 
-  .tab:hover {
-    background-color: #ffffff;
-    color: #1a73e8;
-  }
-
   .tab.active {
-    background-color: #ffffff;
-    color: #1a73e8;
-    font-weight: bold;
-    border-bottom: 2px solid #1a73e8;
+    color: white;
+    background-color: #2F73BA; /* Matches blue color in the image */
+    border-color: #2F73BA;
   }
 
+  .tab:hover {
+    background-color: #d9e8f8; /* Slightly lighter blue for hover effect */
+  }
+
+  /* Content container styling */
   .tab-content {
     display: none;
-    padding: 16px;
-    background-color: #ffffff;
-    border: 1px solid #e0e0e0;
-    border-top: none;
+    padding: 20px;
+  }
+
+  .tab-content.active {
+    display: block;
   }
 
   /* Scrollable container styles */
@@ -458,49 +458,47 @@ function openTab(event, tabId) {
   event.currentTarget.classList.add('active');
 }
 
-// Lightbox functionality
-let currentImageIndex = 0;
-let images = [];
+// // Lightbox functionality
+// let currentImageIndex = 0;
+// let images = [];
 
-// Open lightbox with the specified image index
-function openLightbox(index) {
-  images = document.querySelectorAll('.tab-content img');
-  currentImageIndex = index;
+// // Open lightbox with the specified image index
+// function openLightbox(index) {
+//   images = document.querySelectorAll('.tab-content img');
+//   currentImageIndex = index;
   
-  const lightbox = document.getElementById('lightbox');
-  const lightboxImage = document.getElementById('lightboxImage');
-  lightbox.style.display = 'flex';
-  lightboxImage.src = images[currentImageIndex].src;
-}
+//   const lightbox = document.getElementById('lightbox');
+//   const lightboxImage = document.getElementById('lightboxImage');
+//   lightbox.style.display = 'flex';
+//   lightboxImage.src = images[currentImageIndex].src;
+// }
 
-// Close the lightbox
-document.getElementById('lightboxClose').onclick = function() {
-  document.getElementById('lightbox').style.display = 'none';
-};
+// // Close the lightbox
+// document.getElementById('lightboxClose').onclick = function() {
+//   document.getElementById('lightbox').style.display = 'none';
+// };
 
-// Show the previous image
-document.getElementById('prevArrow').onclick = function(event) {
-  event.stopPropagation();
-  currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
-  document.getElementById('lightboxImage').src = images[currentImageIndex].src;
-};
+// // Show the previous image
+// document.getElementById('prevArrow').onclick = function(event) {
+//   event.stopPropagation();
+//   currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
+//   document.getElementById('lightboxImage').src = images[currentImageIndex].src;
+// };
 
-// Show the next image
-document.getElementById('nextArrow').onclick = function(event) {
-  event.stopPropagation();
-  currentImageIndex = (currentImageIndex + 1) % images.length;
-  document.getElementById('lightboxImage').src = images[currentImageIndex].src;
-};
+// // Show the next image
+// document.getElementById('nextArrow').onclick = function(event) {
+//   event.stopPropagation();
+//   currentImageIndex = (currentImageIndex + 1) % images.length;
+//   document.getElementById('lightboxImage').src = images[currentImageIndex].src;
+// };
 
-// Close lightbox when clicking outside the image
-document.getElementById('lightbox').onclick = function(event) {
-  if (event.target === document.getElementById('lightbox')) {
-    document.getElementById('lightbox').style.display = 'none';
-  }
-};
-</script>
+// // Close lightbox when clicking outside the image
+// document.getElementById('lightbox').onclick = function(event) {
+//   if (event.target === document.getElementById('lightbox')) {
+//     document.getElementById('lightbox').style.display = 'none';
+//   }
+// };
 
-<!-- <script>
   // Store the images in an array
   const images = document.querySelectorAll('.scroll-container img');
   let currentImageIndex = 0;
