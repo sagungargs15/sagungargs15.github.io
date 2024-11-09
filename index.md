@@ -3,41 +3,43 @@ layout: default
 ---
 
 <style>
-  /* Tab container with browser-style appearance */
   .tab-container {
     display: flex;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 2px solid #e0e0e0;
+    padding: 0 16px;
     background-color: #f1f1f1;
   }
 
   .tab {
     padding: 10px 20px;
+    margin-right: 4px;
     cursor: pointer;
-    background-color: #f1f1f1;
-    border: 1px solid #ccc;
+    color: #333;
+    font-weight: 500;
+    background-color: #e8e8e8;
+    border: 1px solid #d0d0d0;
     border-bottom: none;
-    color: #555;
-    margin-right: 5px;
-    font-weight: bold;
-    transition: background-color 0.3s;
+    border-radius: 8px 8px 0 0;
+    transition: background-color 0.3s, color 0.3s;
   }
 
   .tab:hover {
-    background-color: #e1e1e1;
+    background-color: #ffffff;
+    color: #1a73e8;
   }
 
   .tab.active {
     background-color: #ffffff;
-    border-top: 2px solid #0073e6;
-    color: #0073e6;
-    border-bottom: none;
+    color: #1a73e8;
+    font-weight: bold;
+    border-bottom: 2px solid #1a73e8;
   }
 
-  /* Tab content styling */
   .tab-content {
     display: none;
-    padding: 15px;
-    border: 1px solid #ccc;
+    padding: 16px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
     border-top: none;
   }
 
