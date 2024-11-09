@@ -2,15 +2,45 @@
 layout: default
 ---
 
-<!-- Tab Navigation -->
-<div class="tab-container">
-  <button class="tab-button" onclick="openTab(event, 'tab1')">Bitcoin</button>
-  <button class="tab-button" onclick="openTab(event, 'tab2')">AI/ML</button>
-  <button class="tab-button" onclick="openTab(event, 'tab3')">Founder</button>
-  <button class="tab-button" onclick="openTab(event, 'tab3')">Angel/VC</button>
-</div>
-
 <style>
+  /* Tab container with browser-style appearance */
+  .tab-container {
+    display: flex;
+    border-bottom: 2px solid #ccc;
+    background-color: #f1f1f1;
+  }
+
+  .tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    color: #555;
+    margin-right: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+
+  .tab:hover {
+    background-color: #e1e1e1;
+  }
+
+  .tab.active {
+    background-color: #ffffff;
+    border-top: 2px solid #0073e6;
+    color: #0073e6;
+    border-bottom: none;
+  }
+
+  /* Tab content styling */
+  .tab-content {
+    display: none;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+
   /* Scrollable container styles */
   .scroll-container {
     width: 100%;
@@ -98,6 +128,14 @@ layout: default
 - 💬 **Speaker/Judging/Presenter Series**: 
 
   - Stay tuned...More talks will be updated soon...
+
+  <!-- Tab Navigation -->
+  <div class="tab-container">
+    <button class="tab-button" onclick="openTab(event, 'tab1')">Bitcoin</button>
+    <button class="tab-button" onclick="openTab(event, 'tab2')">AI/ML</button>
+    <button class="tab-button" onclick="openTab(event, 'tab3')">Founder</button>
+    <button class="tab-button" onclick="openTab(event, 'tab3')">Angel/VC</button>
+  </div>
 
   - **October 2024**: "Masterclass at NUS MBA Business School"
 
