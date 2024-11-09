@@ -209,11 +209,11 @@ layout: default
     >     
     <!-- Extra Space vertical padding  -->
 
-  - **September 2024**: Presentation talk at Lightning Returns Bitcoin Conference in Singapore
-
-    > **Topic: "AI's Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"** - [Youtube Video](https://youtu.be/GLLea0GZ_ro?si=ZZHXTWStD6V4Yt8n)
-
-      <div class="scroll-container">
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>September 2024: Presentation talk at Lightning Returns Bitcoin Conference in Singapore</h2>
+    <p>Topic: Technological Progress Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking"</p>
+    <a href="https://youtu.be/GLLea0GZ_ro?si=ZZHXTWStD6V4Yt8n" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <div class="scroll-container">  
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.jpeg" alt="Image 1" onclick="openLightbox(21)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-2.jpeg" alt="Image 2" onclick="openLightbox(22)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-3.jpeg" alt="Image 3" onclick="openLightbox(23)">
@@ -223,10 +223,10 @@ layout: default
     >     
     <!-- Extra Space vertical padding  -->
 
-  - **September 2024**: Presentation at Thailand Bitcoin Conference (TBC 2024)
-
-    > **Topic: “Redistribution of Wealth in the coming era of Hyperbitcoinization - Bitcoin based Future of Wealth Banking & Digital Private Banks”** - [Youtube Video](https://youtu.be/g_qglws0r38?si=ubn1mnNTodtC55pn)
-
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>September 2024: Presentation at Thailand Bitcoin Conference (TBC 2024)</h2>
+    <p>Topic: Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth in a HyperBitcoinization world</p>
+    <a href="https://youtu.be/g_qglws0r38?si=ubn1mnNTodtC55pn" target="_blank" rel="noopener noreferrer">YouTube</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png" alt="Image 1" onclick="openLightbox(25)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-2.png" alt="Image 2" onclick="openLightbox(26)">
@@ -235,11 +235,9 @@ layout: default
 
     >     
     <!-- Extra Space vertical padding  -->
-
-  - **September 2024**: Panel talk with industry experts organised by ABS and MAS
-
-    > **Topic: “Unlocking the Future: Key Considerations and Path to Capture Generative AI Value”**
-
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>September 2024: Panel talk with industry experts organised by ABS and MAS</h2>
+    <p>Topic: Unlocking the Future: Key Considerations and Path to Capture Generative AI Value</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Image 1" onclick="openLightbox(28)">
         <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-2.png" alt="Image 2" onclick="openLightbox(29)">
@@ -248,11 +246,9 @@ layout: default
 
     >     
     <!-- Extra Space vertical padding  -->
-
-  - **August 2024**: Guest lecturer at Singapore Management University to batch of industry VC professionals
-
-      > **Topic: "Market Overview & Global Perspectives and Advanced Certificate in Venture Capital"**
-
+  <div id="tab-avc" class="tab-content" style="display: block;">
+    <h2>August2024: Guest lecturer at Singapore Management University to batch of industry VC professionals</h2>
+    <p>Topic: Market Overview & Global Perspectives and Advanced Certificate in Venture Capital</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(31)">
         <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(32)">
@@ -444,57 +440,16 @@ layout: default
 </div>
 
 <script>
-// Tab functionality
-function openTab(event, tabId) {
-  // Hide all tab contents and remove active class from tabs
-  document.querySelectorAll('.tab-content').forEach(content => content.style.display = 'none');
-  document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-  
-  // Show the selected tab content and set the clicked tab as active
-  document.getElementById(tabId).style.display = 'block';
-  event.currentTarget.classList.add('active');
-}
-
-// // Lightbox functionality
-// let currentImageIndex = 0;
-// let images = [];
-
-// // Open lightbox with the specified image index
-// function openLightbox(index) {
-//   images = document.querySelectorAll('.tab-content img');
-//   currentImageIndex = index;
-  
-//   const lightbox = document.getElementById('lightbox');
-//   const lightboxImage = document.getElementById('lightboxImage');
-//   lightbox.style.display = 'flex';
-//   lightboxImage.src = images[currentImageIndex].src;
-// }
-
-// // Close the lightbox
-// document.getElementById('lightboxClose').onclick = function() {
-//   document.getElementById('lightbox').style.display = 'none';
-// };
-
-// // Show the previous image
-// document.getElementById('prevArrow').onclick = function(event) {
-//   event.stopPropagation();
-//   currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
-//   document.getElementById('lightboxImage').src = images[currentImageIndex].src;
-// };
-
-// // Show the next image
-// document.getElementById('nextArrow').onclick = function(event) {
-//   event.stopPropagation();
-//   currentImageIndex = (currentImageIndex + 1) % images.length;
-//   document.getElementById('lightboxImage').src = images[currentImageIndex].src;
-// };
-
-// // Close lightbox when clicking outside the image
-// document.getElementById('lightbox').onclick = function(event) {
-//   if (event.target === document.getElementById('lightbox')) {
-//     document.getElementById('lightbox').style.display = 'none';
-//   }
-// };
+  // Tab functionality
+  function openTab(event, tabId) {
+    // Hide all tab contents and remove active class from tabs
+    document.querySelectorAll('.tab-content').forEach(content => content.style.display = 'none');
+    document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+    
+    // Show the selected tab content and set the clicked tab as active
+    document.getElementById(tabId).style.display = 'block';
+    event.currentTarget.classList.add('active');
+  }
 
   // Store the images in an array
   const images = document.querySelectorAll('.scroll-container img');
