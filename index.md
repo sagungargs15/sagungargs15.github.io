@@ -151,8 +151,7 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(4)">
       </div>
     </div>   
-
-    >     
+ 
     <!-- Extra Space vertical padding  -->
   
   <div id="tab-aiml" class="tab-content" style="display: block;">
@@ -165,8 +164,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(8)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(9)">
       </div> 
-    </div>
-    >     
+  </div>
+   
     <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -179,8 +178,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(13)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(14)">
       </div> 
-    </div>
-    >     
+  </div>
+  
     <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -193,8 +192,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(18)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(19)">
       </div> 
-    </div>
-    >     
+  </div>
+
     <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -207,8 +206,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Image 2" onclick="openLightbox(19)">
         <img src="https://sagungarg.com/assets/img/podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-3.png" alt="Image 3" onclick="openLightbox(20)">
       </div> 
-    </div>
-    >     
+  </div>
+ 
     <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -221,8 +220,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-3.jpeg" alt="Image 3" onclick="openLightbox(23)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-4.jpeg" alt="Image 4" onclick="openLightbox(24)">
       </div> 
+  </div> 
 
-    >     
     <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -234,9 +233,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-2.png" alt="Image 2" onclick="openLightbox(26)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-3.png" alt="Image 3" onclick="openLightbox(27)">
       </div> 
+  </div> 
 
-    >     
     <!-- Extra Space vertical padding  -->
+
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>September 2024: Panel talk with industry experts organised by ABS and MAS</h2>
     <p>Topic: Unlocking the Future: Key Considerations and Path to Capture Generative AI Value</p>
@@ -245,9 +245,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-2.png" alt="Image 2" onclick="openLightbox(29)">
         <img src="https://sagungarg.com/assets/img/speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-3.png" alt="Image 3" onclick="openLightbox(30)">
       </div> 
+  </div>    
 
-    >     
     <!-- Extra Space vertical padding  -->
+
   <div id="tab-avc" class="tab-content" style="display: block;">
     <h2>August2024: Guest lecturer at Singapore Management University to batch of industry VC professionals</h2>
     <p>Topic: Market Overview & Global Perspectives and Advanced Certificate in Venture Capital</p>
@@ -257,8 +258,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(33)">
         <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(34)">
       </div> 
+  </div> 
 
-   >     
     <!-- Extra Space vertical padding  -->
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>August2024: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival</h2>
@@ -267,8 +268,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(35)">
         <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(36)">
       </div> 
+  </div>  
 
-   >     
     <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -280,7 +281,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-3.png" alt="Image 3" onclick="openLightbox(39)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-4.png" alt="Image 4" onclick="openLightbox(40)">
       </div>  
-   >     
+  </div> 
+
   <!-- Extra Space vertical padding  -->
 
   <div id="tab-avc" class="tab-content" style="display: block;">
@@ -292,8 +294,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-3.png" alt="Image 3" onclick="openLightbox(43)">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(44)">
       </div>
+  </div>  
 
-   >     
   <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -305,83 +307,112 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-3.png" alt="Image 3" onclick="openLightbox(47)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 4" onclick="openLightbox(48)">
       </div>
-    
-  >     
+  </div>  
+
   <!-- Extra Space vertical padding  -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>May2024: Students from Indiana University - Kelley School of Business</h2>
-    <p>Topic: Web3 Fireside Chat on Bitcoin Crypto and Tokenization</p>
+    <p>Topic: Fireside Chat on Bitcoin, Crypto and Tokenization</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png" alt="Image 1" onclick="openLightbox(49)">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png" alt="Image 2" onclick="openLightbox(50)">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-3.png" alt="Image 3" onclick="openLightbox(51)">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-4.png" alt="Image 4" onclick="openLightbox(52)">
       </div>
+  </div>  
 
-  - **March 2024**: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin
+  <!-- Extra Space vertical padding  -->
 
-    > **Topic: Web3: Blockhain and RWA Tokenization**
-    [Linkedin Post](https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB?utm_source=share&utm_medium=member_desktop) | [Plug & Play Tech Center](https://www.plugandplaytechcenter.com/) | [Aelf Blockchain](https://aelf.com/)
-
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>March2024: Guest speaker organised by Plug & Play Tech Center & Aelf Blockchain on Layer 2 solutions on Bitcoin</h2>
+    <p>Topic: Web3: Blockhain and RWA Tokenization</p>
+    <a href="https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB" target="_blank" rel="noopener noreferrer">Linkedin Post</a>
+    <a href="https://www.plugandplaytechcenter.com/" target="_blank" rel="noopener noreferrer">Plug & Play Tech Center</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png" alt="Image 1" onclick="openLightbox(53)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png" alt="Image 2" onclick="openLightbox(54)">
       </div>
+  </div>  
 
   <!-- - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
 
     ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-master-class-tenity-singapore-corporate-innovation-partnerships.png) -->
 
-  - **January 2024**: Investor - Judge for Tenity Singapore Incubation Batch 7
-
-    > **Theme of Startups Pitching: Fintech, Insurtech, or RegTech, DeepTech, Web3, Sustainable Finance, LegalTech, CryptoFinance startups** | [LINK TO EVENT](https://www.tenity.com/programs/singapore-incubation-batch-7)
-      
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>January2024: Investor - Judge for Tenity Singapore Incubation Batch 7</h2>
+    <p>Theme of Startups Pitching: Fintech, Insurtech, or RegTech, DeepTech, Web3, Sustainable Finance, LegalTech, CryptoFinance startups</p>
+    <a href="https://www.tenity.com/programs/singapore-incubation-batch-7" target="_blank" rel="noopener noreferrer">Link To Event</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/judge-sagun-garg-tenity-singapore-incubation-batch7-1.png" alt="Image 1" onclick="openLightbox(55)">
         <img src="https://sagungarg.com/assets/img/judge-sagun-garg-tenity-singapore-incubation-batch7-2.png" alt="Image 2" onclick="openLightbox(56)">
         <img src="https://sagungarg.com/assets/img/judge-sagun-garg-tenity-singapore-incubation-batch7-3.png" alt="Image 2" onclick="openLightbox(57)">
       </div>
+  </div> 
 
-  - **December 2023**: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer
+  <!-- Extra Space vertical padding  -->
 
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>December2023: Singapore SMU professor doing a Series for Bank Julius Baer Employees</h2>
+    <p>Topic: Intersection of Web3 and AI for Digital Assets</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-web3-singapore-smu-professor.png" alt="Image 1" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-web3-singapore-smu-professor.png" alt="Image 1" onclick="openLightbox(60)">
       </div>
+  </div> 
 
-  - **November 2023**: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer
+  <!-- Extra Space vertical padding  -->
 
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>Decemberh2023: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer</h2>
+    <p>Topic: GenAI: Using LLMs building Impactful Corporate Cost Saving Applications</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(61)">
       </div>
+  </div> 
 
-  - **November 2023**: Investor - Judge at Carta Investor program at Singapore Fintech Festival 2023
+  <!-- Extra Space vertical padding  -->
 
-    [LINK TO EVENT](https://www.fintechfestival.sg/investor-hours)
-
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>November2023: Investor - Judge at Carta Investor program at Singapore Fintech Festival 2023</h2>
+    <p>Investor: Meeting and Guiding startups shortlisted bt Carta for pitching at Singapore Fintech Festival </p>
+    <a href="https://www.fintechfestival.sg/investor-hours" target="_blank" rel="noopener noreferrer">Link To Event</a>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png" alt="Image 1" onclick="openLightbox(55)">
-        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png" alt="Image 2" onclick="openLightbox(56)">
+        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png" alt="Image 1" onclick="openLightbox(62)">
+        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png" alt="Image 2" onclick="openLightbox(63)">
       </div>
-    
-  - **November 2023**: Speaker - At Hustle Fund Angel Squad event in Singapore in November 2023 
+  </div> 
 
-      <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png" alt="Image 1" onclick="openLightbox(55)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png" alt="Image 2" onclick="openLightbox(56)">
-      </div>
-  
-  - **July 2023**: Judge - for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups !
+<!-- Extra Space vertical padding  -->
 
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>November2023: Speaker - At Hustle Fund Angel Squad event in Singapore in November 2023</h2>
+    <p>Topic: Evolution of Bitcoin and Web3 in next coming 1 year </p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png" alt="Image 1" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png" alt="Image 1" onclick="openLightbox(64)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png" alt="Image 2" onclick="openLightbox(65)">
       </div>
-  
-  - **June 2023**: Speaker - Master Class in Zurich for, Tenity(https://www.tenity.com/) - formerly F10 Batch
+  </div>
 
+<!-- Extra Space vertical padding  -->
+
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>July2023: Judge for Hackcelerator AI Startup Competition organised by Singapore Govt through MAS </h2>
+    <p>Judge: for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups !</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png" alt="Image 1" onclick="openLightbox(66)">
       </div>
+  </div>
+
+<!-- Extra Space vertical padding  -->
+
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>June2023: Speaker - Master Class in Zurich for, Tenity(formerly F10 Batch)</h2>
+    <p>Judge: for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups ! </p>
+    <a href="https://www.tenity.com" target="_blank" rel="noopener noreferrer">Tenity Accelerator</a>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(67)">
+      </div>
+  </div>
 
 - ✨ **Current Active Interests**: What keep's me busy these days
   - 💬 &nbsp; Lately my nascent curiosity has been sparked in Quantum Computing influencing the AI/ML space, Gene therapy leveraging AI and private LLMs deployed on edge computing devices. 
