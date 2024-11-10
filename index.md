@@ -190,6 +190,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(15)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(16)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-3.png" alt="Image 3" onclick="openLightbox(17)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(18)">
+        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(19)">
       </div> 
     </div>
     >     
@@ -256,30 +258,34 @@ layout: default
         <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(34)">
       </div> 
 
-  - **August 2024**: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival
-
-      > **Topic: "Judge & Evaluator for AI Startups for applications in Singapore Fintetc Festival (SFF 2024)"**
-
+   >     
+    <!-- Extra Space vertical padding  -->
+  <div id="tab-aiml" class="tab-content" style="display: block;">
+    <h2>August2024: Evaluator for the Global FinTech Hackcelerator at Singapore Fintech Festival</h2>
+    <p>Topic: Judge & Evaluator for AI Startups for applications in Singapore Fintetc Festival (SFF 2024)</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(35)">
         <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(36)">
       </div> 
 
-  - **July 2024**: Panel discussion on mainstage at Bitcoin Nashville Conference with Caitlin Long, Miles Paschini and Sagun Garg
+   >     
+    <!-- Extra Space vertical padding  -->
 
-      > **Topic: ”Bitcoin's Role in Traditional Banks”**
-
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>July2024: Panel discussion on mainstage at Bitcoin Nashville Conference with Caitlin Long, Miles Paschini and Sagun Garg</h2>
+    <p>Topic: Bitcoin's Role in Traditional Banks</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Image 1" onclick="openLightbox(37)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Image 2" onclick="openLightbox(38)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-3.png" alt="Image 3" onclick="openLightbox(39)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-4.png" alt="Image 4" onclick="openLightbox(40)">
       </div>  
+   >     
+  <!-- Extra Space vertical padding  -->
 
-  - **June 2024**: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers
-
-      > **Topic: "GenAI Narrative builder for protfolio re-assement for switching positions using factual references of internal publications"**
-
+  <div id="tab-avc" class="tab-content" style="display: block;">
+    <h2>July2024: Industry Competition in GenAI LLMs: Google + EDB(Economic Development Board) - Industry Competition AI Trailblazers</h2>
+    <p>Topic: GenAI Narrative builder for protfolio re-assement for switching positions using factual references of internal publications</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-1.png" alt="Image 1" onclick="openLightbox(41)">
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-2.png" alt="Image 2" onclick="openLightbox(42)">
@@ -287,10 +293,12 @@ layout: default
         <img src="https://sagungarg.com/assets/img/presenter-series-singapore-google-edb-AI-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(44)">
       </div>
 
-  - **May 2024**: Panel discussion at Bitcoin Conference Asia 2024 - Hong Kong
-    
-      > **Topic: "Miniscript & Bitcoin Inheritance Planning"**
+   >     
+  <!-- Extra Space vertical padding  -->
 
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>May2024: Panel discussion at Bitcoin Conference Asia 2024 - Hong Kong</h2>
+    <p>Topic: Miniscript & Bitcoin Inheritance Planning</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1" onclick="openLightbox(45)">
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Image 2" onclick="openLightbox(46)">
@@ -298,10 +306,12 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 4" onclick="openLightbox(48)">
       </div>
     
-  - **May 2024**: Students from Indiana University - Kelley School of Business
+  >     
+  <!-- Extra Space vertical padding  -->
 
-      > **Topic: Web3 Fireside Chat on Bitcoin Crypto and Tokenization**
-
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>May2024: Students from Indiana University - Kelley School of Business</h2>
+    <p>Topic: Web3 Fireside Chat on Bitcoin Crypto and Tokenization</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-1.png" alt="Image 1" onclick="openLightbox(49)">
         <img src="https://sagungarg.com/assets/img/speaker-series-singapore-students-business-school-sagungarg-Bitcoin-Digital-Assets-2.png" alt="Image 2" onclick="openLightbox(50)">
