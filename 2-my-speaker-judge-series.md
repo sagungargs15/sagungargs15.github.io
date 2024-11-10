@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "speaker-judge-series"
+title: "speaker"
 ---
-  
+
 <style>
     /* Grid Container */
     .grid-container {
@@ -141,10 +141,6 @@ title: "speaker-judge-series"
     }
   });
 </script>
-
-</body>
-</html>
-
 
 ## Speaking/Judge Series: Sagun Garg
 
