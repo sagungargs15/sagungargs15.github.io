@@ -2,14 +2,8 @@
 layout: default
 title: "speaker-judge-series"
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Thumbnail Grid with Lightbox</title>
-  <style>
+  
+<style>
     /* Grid Container */
     .grid-container {
       display: grid;
@@ -61,9 +55,8 @@ title: "speaker-judge-series"
       color: #fff;
       cursor: pointer;
     }
-  </style>
-</head>
-<body>
+</style>
+
 
 <div class="grid-container">
   <!-- Thumbnails (100 Images) -->
