@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "speaker"
 ---
 
 <style>
@@ -65,14 +64,14 @@ title: "speaker"
   <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 2" onclick="openLightbox(2)">
   <!-- Repeat the above line for each image up to 100 -->
   <!-- Example below up to 10, just duplicate to make 100 total -->
-  <img src="image3.jpg" alt="Thumbnail 3" onclick="openLightbox(3)">
+  <!-- <img src="image3.jpg" alt="Thumbnail 3" onclick="openLightbox(3)">
   <img src="image4.jpg" alt="Thumbnail 4" onclick="openLightbox(4)">
   <img src="image5.jpg" alt="Thumbnail 5" onclick="openLightbox(5)">
   <img src="image6.jpg" alt="Thumbnail 6" onclick="openLightbox(6)">
   <img src="image7.jpg" alt="Thumbnail 7" onclick="openLightbox(7)">
   <img src="image8.jpg" alt="Thumbnail 8" onclick="openLightbox(8)">
   <img src="image9.jpg" alt="Thumbnail 9" onclick="openLightbox(9)">
-  <img src="image10.jpg" alt="Thumbnail 10" onclick="openLightbox(10)">
+  <img src="image10.jpg" alt="Thumbnail 10" onclick="openLightbox(10)"> -->
   <!-- Continue adding images up to 100 thumbnails -->
 </div>
 
