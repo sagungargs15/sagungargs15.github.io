@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan2024-BTC Multi Sig Decay notes"
+title: "Jan2024- BTC | Multi Sig Decay notes"
 date: 2024-01-02 23:59:59 -0000
 categories: btc multi-sig decay inheritance-planning
 author: "Sagun Garg"

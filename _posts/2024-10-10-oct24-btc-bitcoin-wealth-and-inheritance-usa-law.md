@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October2024 - Bitcoin Wealth and Inheritance"
+title: "October2024 - BTC | Bitcoin Wealth and Inheritance"
 date: 2024-10-10 23:59:59 -0000
 categories: miniscript enterprise custody bitcoin
 author: "Sagun Garg"

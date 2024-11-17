@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October2024 - RUFAADA Stand on Bitcoin Inheritance in USA"
+title: "October2024 - BTC | RUFAADA Stand on Bitcoin Inheritance in USA"
 date: 2024-10-09 23:59:59 -0000
 categories: miniscript enterprise custody bitcoin
 author: "Sagun Garg"

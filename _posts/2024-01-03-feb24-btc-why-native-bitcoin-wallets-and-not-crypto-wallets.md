@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feb2024-BTC Why Bitcoin Native Wallets and Not Crypto Wallets"
+title: "Feb2024- BTC | Why Bitcoin Native Wallets and Not Crypto Wallets"
 date: 2024-02-03 23:59:59 -0000
 categories: btc multi-sig decay inheritance-planning native-btc btc-only-wallets
 author: "Sagun Garg"

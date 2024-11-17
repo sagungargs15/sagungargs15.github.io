@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October2024 - Microstrategy is Modern Berkeshire Hathway"
+title: "October2024 - $MSTR | Microstrategy is Modern Berkeshire Hathway"
 date: 2024-10-11 23:59:59 -0000
 categories: microstrategy berkeshire-hathway accumulation bitcoin
 author: "Sagun Garg"
