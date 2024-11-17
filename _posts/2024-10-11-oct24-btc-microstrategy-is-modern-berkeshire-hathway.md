@@ -7,6 +7,8 @@ author: "Sagun Garg"
 tags: microstrategy berkeshire-hathway accumulation bitcoin
 ---
 
+# Microstrategy is a modern version of Berkshire Hathway
+
 > Microstrategy is a modern version of Berkshire Hathway by accumulating Bitcoins instead of premium equity stocks
 
 # Parallels between the two
