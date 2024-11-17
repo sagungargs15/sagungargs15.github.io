@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November2024 - Options Moneyness | Call/Put - Strike Price vs Market Price
+title: "November2024 - Options | Moneyness : Call/Put - Strike Price vs Market Price"
 date: 2024-11-18 23:59:59 -0000
 categories: options moneyness call put strike_price market_price
 author: "Sagun Garg"

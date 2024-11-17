@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November2024 - HedgeFund | Management Fee and Incentive Structure of a Hedge Fund
+title: "November2024 - HedgeFund | Management Fee & Incentive Structure"
 date: 2024-11-17 23:59:59 -0000
 categories: hedgefund btc mstu mstx mstr bitcoin
 author: "Sagun Garg"

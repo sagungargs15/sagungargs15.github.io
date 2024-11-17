@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November2024 - $MSTR | Avoid Degen MSTR Volatility via Trading MSTU and MSTX Leveraged ETFs"
+title: "November2024 - $MSTR | Leveraged ETFs via MSTR Volatility (MSTU & MSTX)"
 date: 2024-11-21 23:59:59 -0000
 categories: mstr degen mstu mstx
 author: "Sagun Garg"
