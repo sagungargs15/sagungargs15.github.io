@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November2024 - Options | Moneyness : Call/Put - Strike Price vs Market Price"
+title: "November2024 - Options | Moneyness:Call(buy)/Put(sell) Strike Price vs Market Price"
 date: 2024-11-18 23:59:59 -0000
 categories: options moneyness call put strike_price market_price
 author: "Sagun Garg"
@@ -17,11 +17,12 @@ Moneyness refers to the relationship between an option's strike price and the un
 
 For an in-the-money call option, the underlying stock price is greater than the strike price. This gives the call owner the right to buy the stock at a price lower than the market price, which in turn gives the option intrinsic value.
 For an in-the-money put option, the strike price is greater than the underlying stock price. This gives the put owner the right to sell the stock at a price higher than the market price, which in turn gives the option intrinsic value.
+
 In this scenario, the put option's underlying stock price is less than its strike price. Therefore, the option is trading in the money. Note that the option's premium is irrelevant to determining the option's intrinsic value; it would, however, be relevant to determining the option's profit at exercise.
 
-(Choice B) If the stock price equals the strike price, the option is trading at the money (ATM). At expiration, an ATM option is economically equivalent to owning the underlying asset.
+If the stock price equals the strike price, the option is trading at the money (ATM). At expiration, an ATM option is economically equivalent to owning the underlying asset.
 
-(Choice C) For a call option, if the stock price is less than the strike price, the option is trading out of the money (OTM) and has no intrinsic value. The same is true for a put option if the stock price is greater than the strike price.
+For a call option, if the stock price is less than the strike price, the option is trading out of the money (OTM) and has no intrinsic value. The same is true for a put option if the stock price is greater than the strike price.
 
 
 
