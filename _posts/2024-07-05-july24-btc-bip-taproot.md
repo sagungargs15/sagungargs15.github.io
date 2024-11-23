@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July2024 - BIP | Taproot"
-date: 2024-06-03 23:59:59 -0000
+date: 2024-07-05 23:59:59 -0000
 categories: bip taproot
 author: "Sagun Garg"
 tags: bip taproot
