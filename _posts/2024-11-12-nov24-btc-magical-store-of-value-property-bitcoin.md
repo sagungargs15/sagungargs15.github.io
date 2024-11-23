@@ -11,15 +11,15 @@ tags: utxo pow store-of-value bitcoin
 
 > Magic Behind Store of Value" in Bitcoin lies in the UTXO Model + PoW which becomes a metric system for measuring wealth in technology driven hyperdelfation.
 
-![pic](https://sagungarg.com/assets/img/log-post-images/blog-12nov24-chiangmai-1.png)
+![pic](https://sagungarg.com/assets/img/blog-post-images/blog-12nov24-chiangmai-1.png)
 
-![pic](https://sagungarg.com/assets/img/log-post-images/blog-12nov24-chiangmai-2.png)
+![pic](https://sagungarg.com/assets/img/blog-post-images/blog-12nov24-chiangmai-2.png)
 
-![pic](https://sagungarg.com/assets/img/log-post-images/blog-12nov24-chiangmai-3.png)
+![pic](https://sagungarg.com/assets/img/blog-post-images/blog-12nov24-chiangmai-3.png)
 
-![pic](https://sagungarg.com/assets/img/log-post-images/blog-12nov24-chiangmai-4.png)
+![pic](https://sagungarg.com/assets/img/blog-post-images/blog-12nov24-chiangmai-4.png)
 
-![pic](https://sagungarg.com/assets/img/log-post-images/blog-12nov24-chiangmai-5.png)
+![pic](https://sagungarg.com/assets/img/blog-post-images/blog-12nov24-chiangmai-5.png)
 
 At the "Common Knowledge Conference", CKON 2024 (Chiangmai, Thailand), I gave a talk on "The Magic Behind [Store of Value] in Bitcoin".
 
