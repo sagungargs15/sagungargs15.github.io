@@ -153,7 +153,6 @@ layout: default
       </div>
     </div>  
 
-
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week </h2>
     <p>Topic: "​Breaking Barriers: How Lightning Unlocks P2P Money"</p>
@@ -181,7 +180,6 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2025-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-7.png" alt="Image 7" onclick="openLightbox(4)">
       </div>
     </div>  
-
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>October 2024: Masterclass at NUS MBA Business School</h2>
