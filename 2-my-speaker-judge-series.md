@@ -2,61 +2,59 @@
 layout: default
 ---
 
-<!-- <style>
-    /* Grid Container */
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(10, 1fr);
-      gap: 5px;
-      max-width: 100%;
-      margin: auto;
-    }
-    
-    /* Thumbnail Styling */
-    .grid-container img {
-      width: 100%;
-      height: auto;
-      cursor: pointer;
-      transition: transform 0.2s;
-    }
-
-    /* Hover Effect */
-    .grid-container img:hover {
-      transform: scale(1.05);
-    }
-
-    /* Lightbox Overlay */
-    .lightbox-overlay {
-      display: none;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.8);
-      justify-content: center;
-      align-items: center;
-      z-index: 10;
-    }
-
-    /* Lightbox Image */
-    .lightbox-overlay img {
-      max-width: 90%;
-      max-height: 90%;
-    }
-
-    /* Close Button */
-    .close-btn {
-      position: absolute;
-      top: 20px;
-      right: 30px;
-      font-size: 30px;
-      color: #fff;
-      cursor: pointer;
-    }
-</style> -->
-
 <style>
+  /* Grid Container */
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 5px;
+    max-width: 100%;
+    margin: auto;
+  }
+  
+  /* Thumbnail Styling */
+  .grid-container img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+
+  /* Hover Effect */
+  .grid-container img:hover {
+    transform: scale(1.05);
+  }
+
+  /* Lightbox Overlay */
+  .lightboxthumbnail-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+  }
+
+  /* Lightbox Image */
+  .lightboxthumbnail-overlay img {
+    max-width: 90%;
+    max-height: 90%;
+  }
+
+  /* Close Button */
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+  }
+
   .tab-container {
     display: flex;
     border-bottom: 2px solid #e0e0e0;
@@ -64,6 +62,7 @@ layout: default
     background-color: #f1f1f1;
   }
 
+  /* Tab Styling */
   .tab {
     padding: 10px 20px;
     margin-right: 4px;
@@ -179,26 +178,26 @@ layout: default
 <div class="grid-container">
   <!-- Thumbnails (100 Images) -->
   <!-- Replace 'imageX.jpg' with actual image paths -->
-  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Thumbnail 1" onclick="openLightbox(1)">
-  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 2" onclick="openLightbox(2)">
+  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Thumbnail 1" onclick="openLightboxThumbnail(1)">
+  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 2" onclick="openLightboxThumbnail(2)">
   <!-- Repeat the above line for each image up to 100 -->
   <!-- Example below up to 10, just duplicate to make 100 total -->
   <!-- <img src="image3.jpg" alt="Thumbnail 3" onclick="openLightbox(3)">
-  <img src="image4.jpg" alt="Thumbnail 4" onclick="openLightbox(4)">
-  <img src="image5.jpg" alt="Thumbnail 5" onclick="openLightbox(5)">
-  <img src="image6.jpg" alt="Thumbnail 6" onclick="openLightbox(6)">
-  <img src="image7.jpg" alt="Thumbnail 7" onclick="openLightbox(7)">
-  <img src="image8.jpg" alt="Thumbnail 8" onclick="openLightbox(8)">
-  <img src="image9.jpg" alt="Thumbnail 9" onclick="openLightbox(9)">
-  <img src="image10.jpg" alt="Thumbnail 10" onclick="openLightbox(10)"> -->
+  <img src="image4.jpg" alt="Thumbnail 4" onclick="openLightboxThumbnail(4)">
+  <img src="image5.jpg" alt="Thumbnail 5" onclick="openLightboxThumbnail(5)">
+  <img src="image6.jpg" alt="Thumbnail 6" onclick="openLightboxThumbnail(6)">
+  <img src="image7.jpg" alt="Thumbnail 7" onclick="openLightboxThumbnail(7)">
+  <img src="image8.jpg" alt="Thumbnail 8" onclick="openLightboxThumbnail(8)">
+  <img src="image9.jpg" alt="Thumbnail 9" onclick="openLightboxThumbnail(9)">
+  <img src="image10.jpg" alt="Thumbnail 10" onclick="openLightboxThumbnail(10)"> -->
   <!-- Continue adding images up to 100 thumbnails -->
 </div>
 
 <!-- Lightbox Overlay -->
-<!-- <div class="lightbox-overlay" id="lightboxOverlay">
+<div class="lightboxthumbnail-overlay" id="lightboxOverlaythumbnail">
   <span class="close-btn" onclick="closeLightbox()">&times;</span>
   <img id="lightboxImage" src="" alt="Large View">
-</div> -->
+</div>
 
 ## Stay tuned...More talks will be updated soon...
 - 💬 **Speaker/Judging/Presenter Series**: 
