@@ -14,10 +14,17 @@ layout: default
   
   /* Thumbnail Styling */
   .grid-container img {
-    width: 100%;
+    /* width: 100%;
     height: auto;
-    cursor: pointer;
+    cursor: pointer; */
+    width: 50px;
+    height: 50px;
+    cursor: pointer; /* Show that image is clickable */
     transition: transform 0.2s;
+    margin-right: 5px; /* Spacing between images */
+    border: 2px solid white; /* Border around images */
+    border-radius: 5px; /* Optional: adds rounded corners */
+    padding: 5px; /* Optional: space between image and border */
   }
 
   /* Hover Effect */
