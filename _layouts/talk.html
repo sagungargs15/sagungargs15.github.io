@@ -2,6 +2,31 @@
 layout: default
 ---
 
+<div class="catalogue">
+  {% for talk in site.talks %}
+    {% if talk.sticky %}
+      {% include catalogue_item.html sticky='true' %}
+    {% endif %}
+  {% endfor %}
+
+  {% for talk in paginator.talks %}
+    {% include catalogue_item.html %}
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>
+
+
+<!-- 
 <div class="talk">
   <div class="talk-info">
     <span>Written by</span>
@@ -43,4 +68,4 @@ layout: default
   {% endif %}
 
   <a href="#" class="top">Top</a>
-</div>
+</div> -->
