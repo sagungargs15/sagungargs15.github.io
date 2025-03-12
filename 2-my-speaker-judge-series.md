@@ -139,6 +139,78 @@ layout: default
       }
     }
   });
+
+  // Tab functionality
+  function openTab(event, tabId) {
+    // Hide all tab contents and remove active class from tabs
+    document.querySelectorAll('.tab-content').forEach(content => content.style.display = 'none');
+    document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+    
+    // Show the selected tab content and set the clicked tab as active
+    document.getElementById(tabId).style.display = 'block';
+    event.currentTarget.classList.add('active');
+  }
+
+  // Store the images in an array
+  const images = document.querySelectorAll('.scroll-container img');
+  let currentImageIndex = 0;
+  let isLightbox2Open = false;
+
+  // Open the lightbox with the clicked image
+  function openLightbox2(index) {
+    currentImageIndex = index;  // Set the current index to the clicked image
+    var lightbox2 = document.getElementById('lightbox2');
+    var lightbox2Img = document.getElementById('lightbox2-img');
+    
+    // Set the clicked image's source to the lightbox image
+    lightbox2Img.src = images[currentImageIndex].src;
+    
+    // Show the lightbox2
+    lightbox2.style.display = 'flex';
+    isLightbox2Open = true; // Mark lightbox as open
+    
+    // Disable background scroll when lightbox is open
+    document.body.style.overflow = 'hidden';
+  }
+
+  // Close the lightbox
+  function closeLightbox2() {
+    var lightbox2 = document.getElementById('lightbox2');
+    
+    // Hide the lightbox2
+    lightbox2.style.display = 'none';
+    isLightbox2Open = false; // Mark lightbox2 as closed
+    
+    // Re-enable background scroll
+    document.body.style.overflow = '';
+  }
+
+  // Change the image (backward or forward)
+  function changeImage(direction) {
+    // Calculate the next image index
+    currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
+    
+    var lightbox2Img = document.getElementById('lightbox2-img');
+    lightbox2Img.src = images[currentImageIndex].src;  // Update the lightbox image
+  }
+
+  // Add event listener for keyboard navigation
+  document.addEventListener('keydown', function(event) {
+    if (isLightboxOpen) {
+      event.preventDefault(); // Prevent default arrow key behavior (e.g., scrolling)
+      
+      if (event.key === 'ArrowRight') {
+        changeImage(1); // Go to next image
+      } else if (event.key === 'ArrowLeft') {
+        changeImage(-1); // Go to previous image
+      } else if (event.key === 'Escape') {
+        closeLightbox(); // Close the lightbox when Escape is pressed
+      }
+    }
+  });
+
+
+
 </script>
 
 ## Stay tuned...More talks will be updated soon...
@@ -502,6 +574,16 @@ layout: default
         <img src="https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(67)">
       </div>
   </div>
+
+<!-- Lightbox container -->
+<div id="lightbox2" class="lightbox" onclick="closeLightbox2()">
+  <span class="lightbox2-close" onclick="closeLightbox2()">&times;</span>
+  <span class="arrow arrow-left" onclick="event.stopPropagation(); changeImage(-1)">&#10094;</span>
+  <img id="lightbox2-img" src="" alt="" onclick="event.stopPropagation();">
+  <span class="arrow arrow-right" onclick="event.stopPropagation(); changeImage(1)">&#10095;</span>
+</div>
+
+
 
 ## Speaking/Judge Series: Sagun Garg
 
