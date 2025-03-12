@@ -180,6 +180,18 @@ layout: default
   <!-- Replace 'imageX.jpg' with actual image paths -->
   <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Thumbnail 1" onclick="openLightboxThumbnail(1)">
   <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 2" onclick="openLightboxThumbnail(2)">
+  <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-1.png" alt="Thumbnail 3" onclick="openLightboxThumbnail(3)">
+  <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Thumbnail 4" onclick="openLightboxThumbnail(4)">
+  <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-1.png" alt="Thumbnail 5" onclick="openLightboxThumbnail(5)">
+  <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-3.png" alt="Thumbnail 6" onclick="openLightboxThumbnail(6)">
+  <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Thumbnail 7" onclick="openLightboxThumbnail(7)">
+  <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Thumbnail 8" onclick="openLightboxThumbnail(8)">
+  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 9" onclick="openLightboxThumbnail(9)">
+  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Thumbnail 10" onclick="openLightboxThumbnail(10)">
+  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 11" onclick="openLightboxThumbnail(11)">
+  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 12" onclick="openLightboxThumbnail(12)">
+
+
   <!-- Repeat the above line for each image up to 100 -->
   <!-- Example below up to 10, just duplicate to make 100 total -->
   <!-- <img src="image3.jpg" alt="Thumbnail 3" onclick="openLightbox(3)">
@@ -211,7 +223,7 @@ layout: default
   </div>
 
     <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week </h2>
+    <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
     <p>Topic: "Are Custody Providers Adequately Supporting the Needs of Tokenization"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -225,7 +237,7 @@ layout: default
     </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week </h2>
+    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week</h2>
     <p>Topic: "​Breaking Barriers: How Lightning Unlocks P2P Money"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
