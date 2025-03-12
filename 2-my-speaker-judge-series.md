@@ -154,32 +154,32 @@ layout: default
   // Store the images in an array
   const images = document.querySelectorAll('.scroll-container img');
   let currentImageIndex = 0;
-  let isLightbox2Open = false;
+  let isLightboxOpen = false;
 
   // Open the lightbox with the clicked image
-  function openLightbox2(index) {
+  function openLightbox(index) {
     currentImageIndex = index;  // Set the current index to the clicked image
-    var lightbox2 = document.getElementById('lightbox2');
-    var lightbox2Img = document.getElementById('lightbox2-img');
+    var lightbox = document.getElementById('lightbox');
+    var lightboxImg = document.getElementById('lightbox-img');
     
     // Set the clicked image's source to the lightbox image
-    lightbox2Img.src = images[currentImageIndex].src;
+    lightboxImg.src = images[currentImageIndex].src;
     
-    // Show the lightbox2
-    lightbox2.style.display = 'flex';
-    isLightbox2Open = true; // Mark lightbox as open
+    // Show the lightbox
+    lightbox.style.display = 'flex';
+    isLightboxOpen = true; // Mark lightbox as open
     
     // Disable background scroll when lightbox is open
     document.body.style.overflow = 'hidden';
   }
 
   // Close the lightbox
-  function closeLightbox2() {
-    var lightbox2 = document.getElementById('lightbox2');
+  function closeLightbox() {
+    var lightbox = document.getElementById('lightbox');
     
-    // Hide the lightbox2
-    lightbox2.style.display = 'none';
-    isLightbox2Open = false; // Mark lightbox2 as closed
+    // Hide the lightbox
+    lightbox.style.display = 'none';
+    isLightboxOpen = false; // Mark lightbox as closed
     
     // Re-enable background scroll
     document.body.style.overflow = '';
@@ -190,8 +190,8 @@ layout: default
     // Calculate the next image index
     currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
     
-    var lightbox2Img = document.getElementById('lightbox2-img');
-    lightbox2Img.src = images[currentImageIndex].src;  // Update the lightbox image
+    var lightboxImg = document.getElementById('lightbox-img');
+    lightboxImg.src = images[currentImageIndex].src;  // Update the lightbox image
   }
 
   // Add event listener for keyboard navigation
@@ -576,10 +576,10 @@ layout: default
   </div>
 
 <!-- Lightbox container -->
-<div id="lightbox2" class="lightbox" onclick="closeLightbox2()">
-  <span class="lightbox2-close" onclick="closeLightbox2()">&times;</span>
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
   <span class="arrow arrow-left" onclick="event.stopPropagation(); changeImage(-1)">&#10094;</span>
-  <img id="lightbox2-img" src="" alt="" onclick="event.stopPropagation();">
+  <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation();">
   <span class="arrow arrow-right" onclick="event.stopPropagation(); changeImage(1)">&#10095;</span>
 </div>
 
