@@ -76,142 +76,10 @@ layout: default
 </div>
 
 <!-- Lightbox Overlay -->
-<div class="lightbox-overlay" id="lightboxOverlay">
+<!-- <div class="lightbox-overlay" id="lightboxOverlay">
   <span class="close-btn" onclick="closeLightbox()">&times;</span>
   <img id="lightboxImage" src="" alt="Large View">
-</div>
-
-<script>
-  // Store the images in an array
-  const images = document.querySelectorAll('.scroll-container img');
-  let currentImageIndex = 0;
-  let isLightboxOpen = false;
-
-  // Open the lightbox with the clicked image
-  function openLightbox(index) {
-    currentImageIndex = index;  // Set the current index to the clicked image
-    var lightbox = document.getElementById('lightbox');
-    var lightboxImg = document.getElementById('lightbox-img');
-    
-    // Set the clicked image's source to the lightbox image
-    lightboxImg.src = images[currentImageIndex].src;
-    
-    // Show the lightbox
-    lightbox.style.display = 'flex';
-    isLightboxOpen = true; // Mark lightbox as open
-    
-    // Disable background scroll when lightbox is open
-    document.body.style.overflow = 'hidden';
-  }
-
-  // Close the lightbox
-  function closeLightbox() {
-    var lightbox = document.getElementById('lightbox');
-    
-    // Hide the lightbox
-    lightbox.style.display = 'none';
-    isLightboxOpen = false; // Mark lightbox as closed
-    
-    // Re-enable background scroll
-    document.body.style.overflow = '';
-  }
-
-  // Change the image (backward or forward)
-  function changeImage(direction) {
-    // Calculate the next image index
-    currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
-    
-    var lightboxImg = document.getElementById('lightbox-img');
-    lightboxImg.src = images[currentImageIndex].src;  // Update the lightbox image
-  }
-
-  // Add event listener for keyboard navigation
-  document.addEventListener('keydown', function(event) {
-    if (isLightboxOpen) {
-      event.preventDefault(); // Prevent default arrow key behavior (e.g., scrolling)
-      
-      if (event.key === 'ArrowRight') {
-        changeImage(1); // Go to next image
-      } else if (event.key === 'ArrowLeft') {
-        changeImage(-1); // Go to previous image
-      } else if (event.key === 'Escape') {
-        closeLightbox(); // Close the lightbox when Escape is pressed
-      }
-    }
-  });
-
-  // Tab functionality
-  function openTab(event, tabId) {
-    // Hide all tab contents and remove active class from tabs
-    document.querySelectorAll('.tab-content').forEach(content => content.style.display = 'none');
-    document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-    
-    // Show the selected tab content and set the clicked tab as active
-    document.getElementById(tabId).style.display = 'block';
-    event.currentTarget.classList.add('active');
-  }
-
-  // Store the images in an array
-  const images = document.querySelectorAll('.scroll-container img');
-  let currentImageIndex = 0;
-  let isLightboxOpen = false;
-
-  // Open the lightbox with the clicked image
-  function openLightbox(index) {
-    currentImageIndex = index;  // Set the current index to the clicked image
-    var lightbox = document.getElementById('lightbox');
-    var lightboxImg = document.getElementById('lightbox-img');
-    
-    // Set the clicked image's source to the lightbox image
-    lightboxImg.src = images[currentImageIndex].src;
-    
-    // Show the lightbox
-    lightbox.style.display = 'flex';
-    isLightboxOpen = true; // Mark lightbox as open
-    
-    // Disable background scroll when lightbox is open
-    document.body.style.overflow = 'hidden';
-  }
-
-  // Close the lightbox
-  function closeLightbox() {
-    var lightbox = document.getElementById('lightbox');
-    
-    // Hide the lightbox
-    lightbox.style.display = 'none';
-    isLightboxOpen = false; // Mark lightbox as closed
-    
-    // Re-enable background scroll
-    document.body.style.overflow = '';
-  }
-
-  // Change the image (backward or forward)
-  function changeImage(direction) {
-    // Calculate the next image index
-    currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
-    
-    var lightboxImg = document.getElementById('lightbox-img');
-    lightboxImg.src = images[currentImageIndex].src;  // Update the lightbox image
-  }
-
-  // Add event listener for keyboard navigation
-  document.addEventListener('keydown', function(event) {
-    if (isLightboxOpen) {
-      event.preventDefault(); // Prevent default arrow key behavior (e.g., scrolling)
-      
-      if (event.key === 'ArrowRight') {
-        changeImage(1); // Go to next image
-      } else if (event.key === 'ArrowLeft') {
-        changeImage(-1); // Go to previous image
-      } else if (event.key === 'Escape') {
-        closeLightbox(); // Close the lightbox when Escape is pressed
-      }
-    }
-  });
-
-
-
-</script>
+</div> -->
 
 ## Stay tuned...More talks will be updated soon...
 - 💬 **Speaker/Judging/Presenter Series**: 
@@ -584,6 +452,134 @@ layout: default
 </div>
 
 
+<script>
+  // // Store the images in an array
+  // const images = document.querySelectorAll('.scroll-container img');
+  // let currentImageIndex = 0;
+  // let isLightboxOpen = false;
+
+  // // Open the lightbox with the clicked image
+  // function openLightbox(index) {
+  //   currentImageIndex = index;  // Set the current index to the clicked image
+  //   var lightbox = document.getElementById('lightbox');
+  //   var lightboxImg = document.getElementById('lightbox-img');
+    
+  //   // Set the clicked image's source to the lightbox image
+  //   lightboxImg.src = images[currentImageIndex].src;
+    
+  //   // Show the lightbox
+  //   lightbox.style.display = 'flex';
+  //   isLightboxOpen = true; // Mark lightbox as open
+    
+  //   // Disable background scroll when lightbox is open
+  //   document.body.style.overflow = 'hidden';
+  // }
+
+  // // Close the lightbox
+  // function closeLightbox() {
+  //   var lightbox = document.getElementById('lightbox');
+    
+  //   // Hide the lightbox
+  //   lightbox.style.display = 'none';
+  //   isLightboxOpen = false; // Mark lightbox as closed
+    
+  //   // Re-enable background scroll
+  //   document.body.style.overflow = '';
+  // }
+
+  // // Change the image (backward or forward)
+  // function changeImage(direction) {
+  //   // Calculate the next image index
+  //   currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
+    
+  //   var lightboxImg = document.getElementById('lightbox-img');
+  //   lightboxImg.src = images[currentImageIndex].src;  // Update the lightbox image
+  // }
+
+  // // Add event listener for keyboard navigation
+  // document.addEventListener('keydown', function(event) {
+  //   if (isLightboxOpen) {
+  //     event.preventDefault(); // Prevent default arrow key behavior (e.g., scrolling)
+      
+  //     if (event.key === 'ArrowRight') {
+  //       changeImage(1); // Go to next image
+  //     } else if (event.key === 'ArrowLeft') {
+  //       changeImage(-1); // Go to previous image
+  //     } else if (event.key === 'Escape') {
+  //       closeLightbox(); // Close the lightbox when Escape is pressed
+  //     }
+  //   }
+  // });
+
+  // Tab functionality
+  function openTab(event, tabId) {
+    // Hide all tab contents and remove active class from tabs
+    document.querySelectorAll('.tab-content').forEach(content => content.style.display = 'none');
+    document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+    
+    // Show the selected tab content and set the clicked tab as active
+    document.getElementById(tabId).style.display = 'block';
+    event.currentTarget.classList.add('active');
+  }
+
+  // Store the images in an array
+  const images = document.querySelectorAll('.scroll-container img');
+  let currentImageIndex = 0;
+  let isLightboxOpen = false;
+
+  // Open the lightbox with the clicked image
+  function openLightbox(index) {
+    currentImageIndex = index;  // Set the current index to the clicked image
+    var lightbox = document.getElementById('lightbox');
+    var lightboxImg = document.getElementById('lightbox-img');
+    
+    // Set the clicked image's source to the lightbox image
+    lightboxImg.src = images[currentImageIndex].src;
+    
+    // Show the lightbox
+    lightbox.style.display = 'flex';
+    isLightboxOpen = true; // Mark lightbox as open
+    
+    // Disable background scroll when lightbox is open
+    document.body.style.overflow = 'hidden';
+  }
+
+  // Close the lightbox
+  function closeLightbox() {
+    var lightbox = document.getElementById('lightbox');
+    
+    // Hide the lightbox
+    lightbox.style.display = 'none';
+    isLightboxOpen = false; // Mark lightbox as closed
+    
+    // Re-enable background scroll
+    document.body.style.overflow = '';
+  }
+
+  // Change the image (backward or forward)
+  function changeImage(direction) {
+    // Calculate the next image index
+    currentImageIndex = (currentImageIndex + direction + images.length) % images.length;
+    
+    var lightboxImg = document.getElementById('lightbox-img');
+    lightboxImg.src = images[currentImageIndex].src;  // Update the lightbox image
+  }
+
+  // Add event listener for keyboard navigation
+  document.addEventListener('keydown', function(event) {
+    if (isLightboxOpen) {
+      event.preventDefault(); // Prevent default arrow key behavior (e.g., scrolling)
+      
+      if (event.key === 'ArrowRight') {
+        changeImage(1); // Go to next image
+      } else if (event.key === 'ArrowLeft') {
+        changeImage(-1); // Go to previous image
+      } else if (event.key === 'Escape') {
+        closeLightbox(); // Close the lightbox when Escape is pressed
+      }
+    }
+  });
+</script>
 
 ## Speaking/Judge Series: Sagun Garg
 
