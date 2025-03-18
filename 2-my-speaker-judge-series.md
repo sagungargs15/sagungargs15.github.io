@@ -193,11 +193,10 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-3.png" alt="Thumbnail 6" onclick="openLightboxThumbnail(6)">
   <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Thumbnail 7" onclick="openLightboxThumbnail(7)">
   <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Thumbnail 8" onclick="openLightboxThumbnail(8)">
-  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 9" onclick="openLightboxThumbnail(9)">
-  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Thumbnail 10" onclick="openLightboxThumbnail(10)">
-  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 11" onclick="openLightboxThumbnail(11)">
+  <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Thumbnail 9" onclick="openLightboxThumbnail(9)">
+  <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-3.png" alt="Thumbnail 10" onclick="openLightboxThumbnail(10)">
+  <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Thumbnail 11" onclick="openLightboxThumbnail(11)">
   <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 12" onclick="openLightboxThumbnail(12)">
-
 
   <!-- Repeat the above line for each image up to 100 -->
   <!-- Example below up to 10, just duplicate to make 100 total -->
@@ -306,15 +305,16 @@ layout: default
       </div>
     </div>  
 
+
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>October 2024: Masterclass at NUS MBA Business School</h2>
     <p>Topic: "Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury"</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(0)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(1)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-3.png" alt="Image 3" onclick="openLightbox(2)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-4.png" alt="Image 4" onclick="openLightbox(3)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(4)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(4)">
       </div>
     </div>   
  
@@ -324,11 +324,11 @@ layout: default
     <h2>October 2024: Launch of AI CTO Program: Singapore Google Office Panel Discussion</h2>
     <p>Topic: Building a Sustainable COE - AI CTO Program</p>  
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(5)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(6)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-3.png" alt="Image 3" onclick="openLightbox(7)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-4.png" alt="Image 4" onclick="openLightbox(8)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(9)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(5)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(6)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-3.png" alt="Image 3" onclick="openLightbox(7)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-4.png" alt="Image 4" onclick="openLightbox(8)">
+        <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(9)">
       </div> 
   </div>
    
