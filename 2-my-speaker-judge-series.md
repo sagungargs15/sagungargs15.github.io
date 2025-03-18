@@ -194,10 +194,15 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Thumbnail 7" onclick="openLightboxThumbnail(7)">
   <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Thumbnail 8" onclick="openLightboxThumbnail(8)">
   <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Thumbnail 9" onclick="openLightboxThumbnail(9)">
-  <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-bitcoinconference-3.png" alt="Thumbnail 10" onclick="openLightboxThumbnail(10)">
-  <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Thumbnail 11" onclick="openLightboxThumbnail(11)">
-  <img src="https://sagungarg.com/assets/img/guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Thumbnail 12" onclick="openLightboxThumbnail(12)">
+  <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-3.png" alt="Thumbnail 10" onclick="openLightboxThumbnail(10)">
+  <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Thumbnail 11" onclick="openLightboxThumbnail(11)">
+  <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png" alt="Thumbnail 12" onclick="openLightboxThumbnail(12)">
+  <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.png" alt="Thumbnail 13" onclick="openLightboxThumbnail(13)">
+  <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Thumbnail 14" onclick="openLightboxThumbnail(14)">
+  <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.png" alt="Thumbnail 15" onclick="openLightboxThumbnail(15)">
+  <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.png" alt="Thumbnail 16" onclick="openLightboxThumbnail(16)">
 
+  
   <!-- Repeat the above line for each image up to 100 -->
   <!-- Example below up to 10, just duplicate to make 100 total -->
   <!-- <img src="image3.jpg" alt="Thumbnail 3" onclick="openLightbox(3)">
@@ -390,8 +395,12 @@ layout: default
 
     <!-- Extra Space vertical padding  -->
     <!-- 
+    2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png
     2024-sep-speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png
     2024-sep-speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.png
+    2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png
+    2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.png
+
     -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">
@@ -423,10 +432,10 @@ layout: default
     <h2>August2024: Guest lecturer at Singapore Management University to batch of industry VC professionals</h2>
     <p>Topic: Market Overview & Global Perspectives and Advanced Certificate in Venture Capital</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.jpeg" alt="Image 1" onclick="openLightbox(31)">
-        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.jpeg" alt="Image 2" onclick="openLightbox(32)">
-        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.jpeg" alt="Image 3" onclick="openLightbox(33)">
-        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.jpeg" alt="Image 4" onclick="openLightbox(34)">
+        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.png" alt="Image 1" onclick="openLightbox(31)">
+        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.png" alt="Image 2" onclick="openLightbox(32)">
+        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-3.png" alt="Image 3" onclick="openLightbox(33)">
+        <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.png" alt="Image 4" onclick="openLightbox(34)">
       </div> 
   </div> 
 
