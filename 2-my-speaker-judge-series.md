@@ -225,30 +225,30 @@ layout: default
 ## Stay tuned...More talks will be updated soon...
 - 💬 **Speaker/Judging/Presenter Series**: 
 
-  <!-- Tab Navigation -->
+  <!-- Tab Navigation
   <div class="tab-container">
     <button class="tab-button" onclick="openTab(event, 'tab-btc')">Bitcoin</button>
     <button class="tab-button" onclick="openTab(event, 'tab-aiml')">AI/ML</button>
     <button class="tab-button" onclick="openTab(event, 'tab-fndr')">Founder</button>
     <button class="tab-button" onclick="openTab(event, 'tab-avc')">Angel/VC</button>
-  </div>
+  </div> -->
 
     <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
-    <p>Topic: "Are Custody Providers Adequately Supporting the Needs of Tokenization"</p>
+    <p>Topic:"Are Custody Providers Adequately Supporting the Needs of Tokenization"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-2.png" alt="Image 2" onclick="openLightbox(1)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-3.png" alt="Image 3" onclick="openLightbox(2)">
         <img src="https://sagungarg.com/assets/img/2025-feb-peaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-4.png" alt="Image 4" onclick="openLightbox(3)">
-        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-5.png" alt="Image 5" onclick="openLightbox(4)">
-        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-6.png" alt="Image 6" onclick="openLightbox(3)">
-        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-7.png" alt="Image 7" onclick="openLightbox(4)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-5.png" alt="Image 5" onclick="openLightbox(5)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-6.png" alt="Image 6" onclick="openLightbox(6)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-7.png" alt="Image 7" onclick="openLightbox(7)">
       </div>
     </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week</h2>
+    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week<h2>
     <p>Topic: "​Breaking Barriers: How Lightning Unlocks P2P Money"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -276,7 +276,7 @@ layout: default
     </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>December 2025: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
+    <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
     <p>Topic: "Bitcoin Venture Capital and Private Equity"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -287,7 +287,7 @@ layout: default
     </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>December 2025: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
+    <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
     <p>Topic: "Bitcoin the Real Fintech"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -299,7 +299,7 @@ layout: default
     </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>December 2025: Bitcoin MENA Conference in Abu Dhabi</h2>
+    <h2>December 2024: Bitcoin MENA Conference in Abu Dhabi</h2>
     <p>Topic: "Building the Tools for Institutional Adoption: Hardware and Software"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -310,6 +310,51 @@ layout: default
       </div>
     </div>  
 
+  <div id="tab-aiml" class="tab-content" style="display: block;">  
+    <h2>November 2024: GFTN Elevandi Insights Forum during Singapore Fintech Festival</h2>
+    <p>Topic: "Building Trust in Era of AI: Fostering Public Private Collaboration to Scale AI Responsibly"</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-5.png" alt="Image 5" onclick="openLightbox(4)">
+      </div>
+    </div>  
+
+  <div id="tab-avc" class="tab-content" style="display: block;">  
+    <h2>November 2024: Carta Investor Hours for Founders during Singapore Fintech Festival</h2>
+    <p>Topic: "Early-stage investments: 1-1 business matching with startups for ZeroToOne Advise and Investments"</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-5.png" alt="Image 5" onclick="openLightbox(4)">
+      </div>
+    </div>  
+
+  <div id="tab-btc" class="tab-content" style="display: block;">  
+    <h2>November 2024: Digital Assets Week</h2>
+    <p>Topic: "From POC to Production – The Future of the Digital Asset Custody Landscape"</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-5.png" alt="Image 5" onclick="openLightbox(4)">
+      </div>
+    </div> 
+
+  <div id="tab-btc" class="tab-content" style="display: block;">  
+    <h2>November 2024: Digital Assets Week</h2>
+    <p>Topic: "Institutional Investment Trends in Cryptocurrency Demand and Access"</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-institutional-demand-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-institutional-demand-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-institutional-demand-3.png" alt="Image 3" onclick="openLightbox(2)">
+      </div>
+    </div>     
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>October 2024: Masterclass at NUS MBA Business School</h2>
