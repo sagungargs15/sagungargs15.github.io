@@ -213,12 +213,13 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.png" alt="Thumbnail 22" onclick="openLightboxThumbnail(22)">
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Thumbnail 23" onclick="openLightboxThumbnail(23)">
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Thumbnail 24" onclick="openLightboxThumbnail(24)">
-  <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
+
+  <!-- <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
   <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(26)">
   <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
   <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
   <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(29)">
-  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)">
+  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)"> -->
 
   
   <!-- Repeat the above line for each image up to 100 -->
