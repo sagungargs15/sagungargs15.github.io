@@ -225,13 +225,13 @@ layout: default
 ## Stay tuned...More talks will be updated soon...
 - 💬 **Speaker/Judging/Presenter Series**: 
 
-  <!-- Tab Navigation
+  <!-- Tab Navigation -->
   <div class="tab-container">
     <button class="tab-button" onclick="openTab(event, 'tab-btc')">Bitcoin</button>
     <button class="tab-button" onclick="openTab(event, 'tab-aiml')">AI/ML</button>
     <button class="tab-button" onclick="openTab(event, 'tab-fndr')">Founder</button>
     <button class="tab-button" onclick="openTab(event, 'tab-avc')">Angel/VC</button>
-  </div> -->
+  </div>
 
     <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
@@ -580,7 +580,7 @@ layout: default
     <h2>December2023: Singapore SMU professor doing a Series for Bank Julius Baer Employees</h2>
     <p>Topic: Intersection of Web3 and AI for Digital Assets</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-garg-web3-singapore-smu-professor.png" alt="Image 1" onclick="openLightbox(60)">
+        <img src="https://sagungarg.com/assets/img/2023-nov-speaker-series-sagun-garg-web3-singapore-smu-professor.png" alt="Image 1" onclick="openLightbox(60)">
       </div>
   </div> 
 
@@ -590,7 +590,7 @@ layout: default
     <h2>Decemberh2023: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer</h2>
     <p>Topic: GenAI: Using LLMs building Impactful Corporate Cost Saving Applications</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(61)">
+        <img src="https://sagungarg.com/assets/img/2023-jun-competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(61)">
       </div>
   </div> 
 
@@ -601,8 +601,8 @@ layout: default
     <p>Investor: Meeting and Guiding startups shortlisted bt Carta for pitching at Singapore Fintech Festival </p>
     <a href="https://www.fintechfestival.sg/investor-hours" target="_blank" rel="noopener noreferrer">Link To Event</a>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png" alt="Image 1" onclick="openLightbox(62)">
-        <img src="https://sagungarg.com/assets/img/judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png" alt="Image 2" onclick="openLightbox(63)">
+        <img src="https://sagungarg.com/assets/img/2023-nov-judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png" alt="Image 1" onclick="openLightbox(62)">
+        <img src="https://sagungarg.com/assets/img/2023-nov-judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png" alt="Image 2" onclick="openLightbox(63)">
       </div>
   </div> 
 
@@ -612,8 +612,8 @@ layout: default
     <h2>November2023: Speaker - At Hustle Fund Angel Squad event in Singapore in November 2023</h2>
     <p>Topic: Evolution of Bitcoin and Web3 in next coming 1 year </p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png" alt="Image 1" onclick="openLightbox(64)">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png" alt="Image 2" onclick="openLightbox(65)">
+        <img src="https://sagungarg.com/assets/img/2023-nov-speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png" alt="Image 1" onclick="openLightbox(64)">
+        <img src="https://sagungarg.com/assets/img/2023-nov-speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png" alt="Image 2" onclick="openLightbox(65)">
       </div>
   </div>
 
@@ -623,7 +623,7 @@ layout: default
     <h2>July2023: Judge for Hackcelerator AI Startup Competition organised by Singapore Govt through MAS </h2>
     <p>Judge: for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups !</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png" alt="Image 1" onclick="openLightbox(66)">
+        <img src="https://sagungarg.com/assets/img/2023-july-judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png" alt="Image 1" onclick="openLightbox(66)">
       </div>
   </div>
 
@@ -634,7 +634,7 @@ layout: default
     <p>Judge: for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups ! </p>
     <a href="https://www.tenity.com" target="_blank" rel="noopener noreferrer">Tenity Accelerator</a>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(67)">
+        <img src="https://sagungarg.com/assets/img/2023-jun-speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(67)">
       </div>
   </div>
 
