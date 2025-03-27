@@ -258,7 +258,7 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-2.png" alt="Image 2" onclick="openLightbox(1)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-3.png" alt="Image 3" onclick="openLightbox(2)">
-        <img src="https://sagungarg.com/assets/img/2025-feb-peaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-4.png" alt="Image 4" onclick="openLightbox(3)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-5.png" alt="Image 5" onclick="openLightbox(5)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-6.png" alt="Image 6" onclick="openLightbox(6)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-7.png" alt="Image 7" onclick="openLightbox(7)">
@@ -324,7 +324,6 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-2.png" alt="Image 2" onclick="openLightbox(1)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-3.png" alt="Image 3" onclick="openLightbox(2)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-4.png" alt="Image 4" onclick="openLightbox(3)">
-        <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-5.png" alt="Image 5" onclick="openLightbox(4)">
       </div>
   </div>  
 
@@ -553,7 +552,6 @@ layout: default
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-jan-judge-sagun-garg-tenity-singapore-incubation-batch7-1.png" alt="Image 1" onclick="openLightbox(55)">
         <img src="https://sagungarg.com/assets/img/2024-jan-judge-sagun-garg-tenity-singapore-incubation-batch7-2.png" alt="Image 2" onclick="openLightbox(56)">
-        <img src="https://sagungarg.com/assets/img/2024-jan-judge-sagun-garg-tenity-singapore-incubation-batch7-3.png" alt="Image 2" onclick="openLightbox(57)">
       </div>
   </div>
 
@@ -569,7 +567,7 @@ layout: default
     <h2>Decemberh2023: Competition: Corporate Innovation Challenge at Singapore Fintech Festival - Launchpad Team - Bank Julius Baer</h2>
     <p>Topic: GenAI: Using LLMs building Impactful Corporate Cost Saving Applications</p>
       <div class="scroll-container">
-        <img src="https://sagungarg.com/assets/img/2023-jun-competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(61)">
+        <img src="https://sagungarg.com/assets/img/2023-nov-competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(61)">
       </div>
   </div>
 
