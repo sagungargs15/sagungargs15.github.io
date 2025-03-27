@@ -243,13 +243,13 @@ layout: default
 
 ## Stay tuned...More talks will be updated soon...
 
-  <!-- Tab Navigation -->
+  <!-- Tab Navigation
   <div class="tab-container">
     <button class="tab-button" onclick="openTab(event, 'tab-btc')">Bitcoin</button>
     <button class="tab-button" onclick="openTab(event, 'tab-aiml')">AI/ML</button>
     <button class="tab-button" onclick="openTab(event, 'tab-fndr')">Founder</button>
     <button class="tab-button" onclick="openTab(event, 'tab-avc')">Angel/VC</button>
-  </div>
+  </div> -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
