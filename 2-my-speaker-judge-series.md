@@ -243,8 +243,8 @@ layout: default
 
 ## Stay tuned...More talks will be updated soon...
 
-  <!-- Tab Navigation
-  <div class="tab-container">
+  <!-- Tab Navigation -->
+  <!-- <div class="tab-container">
     <button class="tab-button" onclick="openTab(event, 'tab-btc')">Bitcoin</button>
     <button class="tab-button" onclick="openTab(event, 'tab-aiml')">AI/ML</button>
     <button class="tab-button" onclick="openTab(event, 'tab-fndr')">Founder</button>
@@ -267,7 +267,7 @@ layout: default
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week<h2>
-    <p>Topic: "​Breaking Barriers: How Lightning Unlocks P2P Money"</p>
+    <p>Topic:"​Breaking Barriers: How Lightning Unlocks P2P Money"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-2.png" alt="Image 2" onclick="openLightbox(1)">
@@ -278,6 +278,7 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-7.png" alt="Image 7" onclick="openLightbox(6)">
       </div>
   </div>  
+
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>January 2025: Halborn Digital Assets Security Summit at NYSE, New York, USA</h2>
