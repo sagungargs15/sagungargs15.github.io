@@ -225,8 +225,8 @@ layout: default
 
   <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
   <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(26)">
-  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
-  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
   <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(29)">
   <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)">
 
