@@ -223,12 +223,12 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Thumbnail 23" onclick="openLightboxThumbnail(23)">
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Thumbnail 24" onclick="openLightboxThumbnail(24)">
 
-  <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
-  <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(26)">
-  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
-  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
-  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(29)">
-  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)">
+  <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
+  <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(26)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(29)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)">
 
   
   <!-- Repeat the above line for each image up to 100 -->
@@ -323,7 +323,6 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-2.png" alt="Image 2" onclick="openLightbox(1)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-3.png" alt="Image 3" onclick="openLightbox(2)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-4.png" alt="Image 4" onclick="openLightbox(3)">
-        <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-5.png" alt="Image 5" onclick="openLightbox(4)">
       </div>
   </div>  
 
@@ -358,7 +357,6 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-2.png" alt="Image 2" onclick="openLightbox(1)">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-3.png" alt="Image 3" onclick="openLightbox(2)">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-4.png" alt="Image 4" onclick="openLightbox(3)">
-        <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-5.png" alt="Image 5" onclick="openLightbox(4)">
       </div>
   </div>  
 
