@@ -190,6 +190,7 @@ layout: default
   }
 </style>
 
+## Speaking/Judge Series: Sagun Garg
 
 <div class="grid-container">
   <!-- Thumbnails (100 Images) -->
@@ -251,7 +252,8 @@ layout: default
 </div>
 
 
-# Stay tuned...More talks will be updated soon...
+
+## Stay tuned...More talks will be updated soon...
 
   <!-- Tab Navigation -->
   <!-- <div class="tab-container">
@@ -548,11 +550,7 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-mar-speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-1.png" alt="Image 1" onclick="openLightbox(53)">
         <img src="https://sagungarg.com/assets/img/2024-mar-speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png" alt="Image 2" onclick="openLightbox(54)">
       </div>
-  </div>  
-
-  <!-- - **February 2024**: SG-HK Corporate Innovation Program for Tenity Funded Startups
-
-    ![pic](https://sagungarg.com/assets/img/speaker-series-sagun-garg-master-class-tenity-singapore-corporate-innovation-partnerships.png) -->
+  </div>
 
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>January2024: Investor - Judge for Tenity Singapore Incubation Batch 7</h2>
@@ -609,7 +607,7 @@ layout: default
 
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>June2023: Speaker - Master Class in Zurich for, Tenity(formerly F10 Batch)</h2>
-    <p>Judge: for MAS AI Competition to evaluate global Startups for upcoming SFF 2023 Singapore startups ! </p>
+    <p> Candid Q&A 1 hour live AMA on Customer Money versus VC Money two ways to build your startup</p>
     <a href="https://www.tenity.com" target="_blank" rel="noopener noreferrer">Tenity Accelerator</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-jun-speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(67)">
@@ -754,7 +752,7 @@ layout: default
   });
 </script>
 
-## Speaking/Judge Series: Sagun Garg
+
 
 A. **May 2024**: Sagun has been nominated as a Speaker at Bitcoin Asia Hong Kong conference: Topic of Miniscript: Future of Inheritance in Bitcoin
 
@@ -763,5 +761,3 @@ B.**Jan 2024**: Nominated as Judge for Tenity incubator in Singapore for selecti
 C.**Sep 2023**: I mentored an incoming batch of entrepreneurs at Tenity, in Zurich Switzerland with a master class on Venture Capital and Entrepreneurship. Ran a masterclass for batch of 50+ Entrepreneurs on the Topic
 
 D.**June 2023**: I was nominated as round 1 Judge of AI in Finance Hackcelerator SG competition, conducted by MAS, for various startups. I closely worked with KOK Li Wen for evaluations at Fintech & Innovation Group of MAS
-
-   here..more to be updated soon
