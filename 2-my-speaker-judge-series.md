@@ -214,12 +214,12 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Thumbnail 23" onclick="openLightboxThumbnail(23)">
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Thumbnail 24" onclick="openLightboxThumbnail(24)">
 
-  <!-- <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
+  <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
   <img src="https://sagungarg.com/assets/img/  2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(26)">
   <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
   <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-sagun-garg-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
   <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(29)">
-  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)"> -->
+  <img src="https://sagungarg.com/assets/img/  2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)">
 
   
   <!-- Repeat the above line for each image up to 100 -->
@@ -241,7 +241,8 @@ layout: default
   <img id="lightboxImage" src="" alt="Large View">
 </div>
 
-## Stay tuned...More talks will be updated soon...
+
+# Stay tuned...More talks will be updated soon...
 
   <!-- Tab Navigation -->
   <!-- <div class="tab-container">
@@ -266,7 +267,7 @@ layout: default
   </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week<h2>
+    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week</h2>
     <p>Topic:"​Breaking Barriers: How Lightning Unlocks P2P Money"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -282,7 +283,7 @@ layout: default
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>January 2025: Halborn Digital Assets Security Summit at NYSE, New York, USA</h2>
-    <p>Topic: "Enhancing DLT Security: Strategies for Risk, Compliance, and Financial Integrity"</p>
+    <p>Topic:"Enhancing DLT Security: Strategies for Risk, Compliance, and Financial Integrity"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-2.png" alt="Image 2" onclick="openLightbox(1)">
@@ -307,7 +308,7 @@ layout: default
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
-    <p>Topic: "Bitcoin the Real Fintech"</p>
+    <p>Topic:"Bitcoin the Real Fintech"</p>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(0)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-2.png" alt="Image 2" onclick="openLightbox(1)">
