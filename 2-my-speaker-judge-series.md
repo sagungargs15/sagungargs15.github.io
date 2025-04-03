@@ -3,6 +3,13 @@ layout: default
 ---
 
 <style>
+
+  /* Reset default margins and padding */
+  h2, p, .tab-content {
+    margin: 0;
+    padding: 0;
+  }
+
   /* Grid Container */
   .grid-container {
     display: grid;
@@ -97,6 +104,7 @@ layout: default
   .tab-content {
     display: none;
     padding: 20px;
+    margin-bottom: 20px; /* Adjust this value to control spacing between sections */
   }
 
   .tab-content.active {
@@ -111,6 +119,7 @@ layout: default
     white-space: nowrap;
     border: 1px solid white; /* Changed border color to white */
     padding: 10px; /* Added padding inside the container */
+    margin-bottom: 10px; /* Adjust spacing between images */
   }
 
   .scroll-container img {
