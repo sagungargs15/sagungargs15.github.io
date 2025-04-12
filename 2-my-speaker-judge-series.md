@@ -264,6 +264,40 @@ layout: default
   </div> -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
+    <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
+    <p>Topic: “Bitcoin as next global reserve asset”</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-4.png" alt="Image 4" onclick="openLightbox(3)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-5.png" alt="Image 5" onclick="openLightbox(3)">
+      </div>
+  </div>  
+
+  <div id="tab-btc" class="tab-content" style="display: block;">  
+    <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
+    <p>Topic:“Bitcoin pizza in new Age”</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-3.png" alt="Image 3" onclick="openLightbox(2)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-4.png" alt="Image 4" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-5.png" alt="Image 5" onclick="openLightbox(2)">
+      </div>
+  </div>  
+
+  <div id="tab-btc" class="tab-content" style="display: block;">  
+    <h2>February 2025: Fintech Live Virtual Conference in Singapore</h2>
+    <p>Topic:"Bitcoin and lightning payments is the new fintech?"</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-singapore-fintech-live-conference-bitcoin-lightning-payments-new-fintech-1.png" alt="Image 1" onclick="openLightbox(0)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-singapore-fintech-live-conference-bitcoin-lightning-payments-new-fintech-2.png" alt="Image 2" onclick="openLightbox(1)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-singapore-fintech-live-conference-bitcoin-lightning-payments-new-fintech-3.png" alt="Image 3" onclick="openLightbox(2)">
+      </div>
+  </div>  
+
+  <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
     <p>Topic:"Are Custody Providers Adequately Supporting the Needs of Tokenization"</p>
       <div class="scroll-container">
@@ -441,6 +475,16 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-1.png" alt="Image 1" onclick="openLightbox(18)">
         <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Image 2" onclick="openLightbox(19)">
         <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-3.png" alt="Image 3" onclick="openLightbox(20)">
+      </div> 
+  </div>
+
+  <div id="tab-btc" class="tab-content" style="display: block;">
+    <h2>September 2024: Lecture at NUS in course: Investing Using Machine Learning and Alternative Data course!</h2>
+    <p>Topic: Future of Wealth Banking using AI/ML & Alternative Data</p>
+      <div class="scroll-container">
+        <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Image 1" onclick="openLightbox(18)">
+        <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Image 2" onclick="openLightbox(19)">
+        <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Image 3" onclick="openLightbox(20)">
       </div> 
   </div>
 
