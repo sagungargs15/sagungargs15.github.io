@@ -212,6 +212,7 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Thumbnail 13" onclick="openLightboxThumbnail(13)">
   <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Thumbnail 14" onclick="openLightboxThumbnail(14)">
   <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Thumbnail 15" onclick="openLightboxThumbnail(15)">
+  
   <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-3.png" alt="Thumbnail 16" onclick="openLightboxThumbnail(16)">
   <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Thumbnail 17" onclick="openLightboxThumbnail(17)">
   <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png" alt="Thumbnail 18" onclick="openLightboxThumbnail(18)">
@@ -223,13 +224,25 @@ layout: default
   <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.png" alt="Thumbnail 22" onclick="openLightboxThumbnail(22)">
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Thumbnail 23" onclick="openLightboxThumbnail(23)">
   <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Thumbnail 24" onclick="openLightboxThumbnail(24)">
-
   <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Thumbnail 25" onclick="openLightboxThumbnail(25)">
+
   <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(26)">
   <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(27)">
   <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(28)">
   <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(29)">
   <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(30)">
+
+  <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-1.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(31)">
+  <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-2.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(32)">
+  <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-1.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(33)">
+  <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-2.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(34)">
+  <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(35)">
+
+  <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Thumbnail 26" onclick="openLightboxThumbnail(36)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Thumbnail 27" onclick="openLightboxThumbnail(37)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Thumbnail 28" onclick="openLightboxThumbnail(38)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Thumbnail 29" onclick="openLightboxThumbnail(39)">
+  <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Thumbnail 30" onclick="openLightboxThumbnail(40)">
 
   
   <!-- Repeat the above line for each image up to 100 -->
@@ -251,7 +264,7 @@ layout: default
   <img id="lightboxImage" src="" alt="Large View">
 </div>
 
-
+***
 
 ## Stay tuned...More talks will be updated soon...
 
@@ -262,6 +275,8 @@ layout: default
     <button class="tab-button" onclick="openTab(event, 'tab-fndr')">Founder</button>
     <button class="tab-button" onclick="openTab(event, 'tab-avc')">Angel/VC</button>
   </div> -->
+
+***
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
@@ -274,6 +289,8 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-5.png" alt="Image 5" onclick="openLightbox(3)">
       </div>
   </div>  
+
+  ***
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
