@@ -192,7 +192,7 @@ layout: default
   /* Add this to your existing style section */
   .topic-badge {
     display: inline-block;
-    background-color: #2F73BA; /* Matches your existing blue theme */
+    background-color: #2F73BA;
     color: white;
     padding: 8px 16px;
     border-radius: 20px;
@@ -201,10 +201,23 @@ layout: default
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     font-size: 0.95em;
     letter-spacing: 0.3px;
+    text-decoration: none; /* Ensure the link doesn't show underline */
+  }
+
+  .topic-badge:hover {
+    background-color: #245d99; /* Slightly darker on hover */
+    transform: translateY(-1px);
+    transition: all 0.2s ease;
   }
 
   .topic-badge:before {
-    content: "📌 "; /* Adds a pin emoji before the topic */
+    content: "📌 ";
+  }
+
+  /* Add this to ensure the link inherits the badge styling */
+  a.topic-badge {
+    color: white;
+    text-decoration: none;
   }
 </style>
 
@@ -290,7 +303,7 @@ layout: default
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇭🇰 April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
-    <div class="topic-badge">Bitcoin as next global reserve asset</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin as next global reserve asset</a>
     <div class="scroll-container">
       <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-1.png" alt="Image 1" onclick="openLightbox(40)">
       <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-2.png" alt="Image 2" onclick="openLightbox(41)">
@@ -302,7 +315,7 @@ layout: default
 ---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇭🇰 April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
-    <div class="topic-badge">Bitcoin pizza in new Age</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin pizza in new Age</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-1.png" alt="Image 1" onclick="openLightbox(45)">
         <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-2.png" alt="Image 2" onclick="openLightbox(46)">
@@ -314,7 +327,7 @@ layout: default
 ---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇸🇬 February 2025: Fintech Live Virtual Conference in Singapore</h2>
-    <div class="topic-badge">Bitcoin and lightning payments is the new fintech?</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin and lightning payments is the new fintech?</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-singapore-fintech-live-conference-bitcoin-lightning-payments-new-fintech-1.png" alt="Image 1" onclick="openLightbox(50)">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-singapore-fintech-live-conference-bitcoin-lightning-payments-new-fintech-2.png" alt="Image 2" onclick="openLightbox(51)">
@@ -324,7 +337,7 @@ layout: default
 ---  
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇭🇰 February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
-    <div class="topic-badge">Are Custody Providers Adequately Supporting the Needs of Tokenization</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Are Custody Providers Adequately Supporting the Needs of Tokenization</a>
       <div class="scroll-container">
         <img src="..." alt="Image 1" onclick="openLightbox(53)">
         <img src="..." alt="Image 2" onclick="openLightbox(54)">
@@ -335,10 +348,10 @@ layout: default
         <img src="..." alt="Image 7" onclick="openLightbox(59)">
       </div>
   </div>  
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇭🇰 February 2025: Bitcoin Lightning Connect Summit in Hong Kong</h2>
-    <div class="topic-badge">Breaking Barriers: How Lightning Unlocks P2P Money</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Breaking Barriers: How Lightning Unlocks P2P Money</a>
       <div class="scroll-container">
         <img src="..." alt="Image 1" onclick="openLightbox(60)">
         <img src="..." alt="Image 2" onclick="openLightbox(61)">
@@ -349,11 +362,10 @@ layout: default
         <img src="..." alt="Image 7" onclick="openLightbox(66)">
       </div>
   </div>  
-
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇺🇸 January 2025: Halborn Digital Assets Security Summit at NYSE, New York, USA</h2>
-    <div class="topic-badge">Bitcoin as next global reserve asset</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Enhancing DLT security: strategies for risk, compliance, and integrity</a>
       <div class="scroll-container">
         <img src="..." alt="Image 1" onclick="openLightbox(67)">
         <img src="..." alt="Image 2" onclick="openLightbox(68)">
@@ -364,10 +376,10 @@ layout: default
         <img src="..." alt="Image 7" onclick="openLightbox(73)">
       </div>
   </div>  
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇦🇪 December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
-    <div class="topic-badge">Bitcoin Venture Capital and Private Equity</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin Venture Capital and Private Equity</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Image 1" onclick="openLightbox(74)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-2.png" alt="Image 2" onclick="openLightbox(75)">
@@ -375,10 +387,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-4.png" alt="Image 4" onclick="openLightbox(77)">
       </div>
   </div>  
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇦🇪 December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
-    <div class="topic-badge">Bitcoin the Real Fintech</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin the Real Fintech</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(78)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-2.png" alt="Image 2" onclick="openLightbox(79)">
@@ -386,10 +398,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-4.png" alt="Image 4" onclick="openLightbox(81)">
       </div>
   </div>  
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇦🇪 December 2024: Bitcoin MENA Conference in Abu Dhabi</h2>
-    <div class="topic-badge">Building the Tools for Institutional Adoption: Hardware and Software</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Building the Tools for Institutional Adoption: Hardware and Software</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(82)">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-2.png" alt="Image 2" onclick="openLightbox(83)">
@@ -397,10 +409,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-4.png" alt="Image 4" onclick="openLightbox(85)">
       </div>
   </div>  
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">  
     <h2>🇸🇬 November 2024: GFTN Elevandi Insights Forum during Singapore Fintech Festival</h2>
-    <div class="topic-badge">Building Trust in Era of AI: Fostering Public Private Collaboration to Scale AI Responsibly</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Building Trust in Era of AI: Fostering Public Private Collaboration to Scale AI Responsibly</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-1.png" alt="Image 1" onclick="openLightbox(86)">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-2.png" alt="Image 2" onclick="openLightbox(87)">
@@ -409,10 +421,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-5.png" alt="Image 5" onclick="openLightbox(90)">
       </div>
   </div>  
-
+---
   <div id="tab-avc" class="tab-content" style="display: block;">  
     <h2>🇸🇬 November 2024: Carta Investor Hours for Founders during Singapore Fintech Festival</h2>
-    <div class="topic-badge">Zero To One Angel Investments & Mentorship</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Zero To One Angel Investments & Mentorship</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-1.png" alt="Image 1" onclick="openLightbox(91)">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-2.png" alt="Image 2" onclick="openLightbox(92)">
@@ -420,10 +432,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-carta-investor-hours-4.png" alt="Image 4" onclick="openLightbox(94)">
       </div>
   </div>  
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>🇸🇬 November 2024: Digital Assets Week</h2>
-    <div class="topic-badge">The Future of the Digital Asset Custody Landscape</div>
+    <h2>🇸🇬 November 2024: Digital Assets Week in Singapore during SFF 2024</h2>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">The Future of the Digital Asset Custody Landscape</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-1.png" alt="Image 1" onclick="openLightbox(95)">
         <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-2.png" alt="Image 2" onclick="openLightbox(96)">
@@ -432,20 +444,20 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-custody-digital-assets-5.png" alt="Image 5" onclick="openLightbox(99)">
       </div>
   </div> 
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>🇸🇬 November 2024: Digital Assets Week</h2>
-    <div class="topic-badge">Institutional Investment Trends in Cryptocurrency Demand and Access</div>
+    <h2>🇸🇬 November 2024: Digital Assets Week in Singapore during SFF 2024</h2>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Institutional Investment Trends in Cryptocurrency Demand and Access</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-institutional-demand-1.png" alt="Image 1" onclick="openLightbox(100)">
         <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-institutional-demand-2.png" alt="Image 2" onclick="openLightbox(101)">
         <img src="https://sagungarg.com/assets/img/2024-nov-digital-assets-week-singapore-fintech-festival-juliet-media-institutional-demand-3.png" alt="Image 3" onclick="openLightbox(102)">
       </div>
   </div>     
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇸🇬 October 2024: Masterclass at NUS MBA Business School</h2>
-    <div class="topic-badge">Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Microstrategy: Modern Corporate Finance Case Study on Bitcoin Treasury</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(103)">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(104)">
@@ -454,10 +466,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-btc-treasury-microstrategy-saylor-masterclass-talk-nus-mba-business-school-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(107)">
       </div>
     </div>   
-  
+  ---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 October 2024: Launch of AI CTO Program: Singapore Google Office Panel Discussion</h2>
-    <div class="topic-badge">Building a Sustainable COE - AI CTO Program</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Building a Sustainable COE - AI CTO Program</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-1.png" alt="Image 1" onclick="openLightbox(108)">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-2.png" alt="Image 2" onclick="openLightbox(109)">
@@ -466,10 +478,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-ai-cto-launch-industry-panel-google-office-singapore-october2024-5.png" alt="Image 5" onclick="openLightbox(112)">
       </div> 
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇺🇸 October 2024: Tab Conference 6 2024 at Georgia Tech - Atlanta Talk</h2>
-    <div class="topic-badge">Architectural Nuances for Bitcoin Enterprise Custody for Institutions/Orgs</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Architectural Nuances for Bitcoin Enterprise Custody for Institutions/Orgs</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(113)">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(114)">
@@ -478,10 +490,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-georgia-atlanta-tabconf6-usa-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(117)">
       </div> 
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇳🇱 October 2024: Bitcoin Conference 2024 at Amsterdam Panel amongst industry experts</h2>
-    <div class="topic-badge">Bitcoin Wealth & Inheritance</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin Wealth & Inheritance</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-1.png" alt="Image 1" onclick="openLightbox(118)">
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-2.png" alt="Image 2" onclick="openLightbox(119)">
@@ -490,30 +502,30 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-oct-speaker-series-sagun-garg-amsterdam-europe-october2024-bitcoinconference-5.png" alt="Image 5" onclick="openLightbox(122)">
       </div> 
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇦🇪 September 2024: Podcast with OnRamp on Intersection of AI and Bitcoin</h2>
-    <div class="topic-badge">Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-1.png" alt="Image 1" onclick="openLightbox(123)">
         <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-2.png" alt="Image 2" onclick="openLightbox(124)">
         <img src="https://sagungarg.com/assets/img/2024-sep-podcast-series-sagun-garg-onramp-mena-uae-september2024-bitcoin-ai-ml-hyperdeflation-hyperbitcoinization-3.png" alt="Image 3" onclick="openLightbox(125)">
       </div> 
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇸🇬 September 2024: Lecture at NUS</h2>
-    <div class="topic-badge">Future of Wealth Banking using AI/ML & Alternative Data</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Future of Wealth Banking using AI/ML & Alternative Data</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Image 1" onclick="openLightbox(126)">
         <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Image 2" onclick="openLightbox(127)">
         <img src="https://sagungarg.com/assets/img/2024-sep-guest-lecturer-university-nus-academia-lecture-investing-using-machine-learning-alternative-data-1.png" alt="Image 3" onclick="openLightbox(128)">
       </div> 
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇸🇬 September 2024: Presentation talk at Lightning Returns Bitcoin Conference</h2>
-    <div class="topic-badge">Tech Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Tech Driven HyperDeflation, Bitcoin Hyperbitcoinization Era & Future of Wealth Banking</a>
     <a href="https://youtu.be/GLLea0GZ_ro?si=ZZHXTWStD6V4Yt8n" target="_blank" rel="noopener noreferrer">YouTube</a>
       <div class="scroll-container">  
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-1.png" alt="Image 1" onclick="openLightbox(129)">
@@ -522,10 +534,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-singapore-september2024-bitcoinconference-weekoftoken2049-2024-4.png" alt="Image 4" onclick="openLightbox(132)">
       </div> 
   </div> 
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇹🇭 September 2024: Presentation at Thailand Bitcoin Conference (TBC 2024)</h2>
-    <div class="topic-badge">Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Intersection of Bitcoin and AI: How AI will cause Hyperdeflation & Bitcoin will help measure wealth</a>
     <a href="https://youtu.be/g_qglws0r38?si=ubn1mnNTodtC55pn" target="_blank" rel="noopener noreferrer">YouTube</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-1.png" alt="Image 1" onclick="openLightbox(133)">
@@ -533,20 +545,20 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-sagun-garg-thailand-september2024-bitcoinconference-bangkok-2024-3.png" alt="Image 3" onclick="openLightbox(135)">
       </div> 
   </div> 
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 September 2024: Panel talk with industry experts organised by ABS and MAS</h2>
-    <div class="topic-badge">Unlocking the Future: Key Considerations and Path to Capture Generative AI Value</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Unlocking the Future: Key Considerations and Path to Capture Generative AI Value</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-1.png" alt="Image 1" onclick="openLightbox(136)">
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-2.png" alt="Image 2" onclick="openLightbox(137)">
         <img src="https://sagungarg.com/assets/img/2024-sep-speaker-series-panel-sagun-garg-singapore-september2024-ai-ml-conference-abs-mas-2024-3.png" alt="Image 3" onclick="openLightbox(138)">
       </div> 
   </div>    
-
+---
   <div id="tab-avc" class="tab-content" style="display: block;">
     <h2>🇸🇬 August 2024: Guest lecturer at Singapore Management University</h2>
-    <div class="topic-badge">Market Overview & Global Perspectives(Advanced Certificate in Venture Capital)</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Market Overview & Global Perspectives(Advanced Certificate in Venture Capital)</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-1.png" alt="Image 1" onclick="openLightbox(139)">
         <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-2.png" alt="Image 2" onclick="openLightbox(140)">
@@ -554,19 +566,19 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-aug-guest-lecturer-university-singapore-smu-advanced-certificate-in-venture-capital-4.png" alt="Image 4" onclick="openLightbox(142)">
       </div> 
   </div> 
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 August 2024: Evaluator for the Global FinTech Hackcelerator</h2>
-    <div class="topic-badge">Judge & Evaluator for AI Startups for applications in Singapore Fintech Festival (SFF 2024)</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Judge & Evaluator for AI Startups for applications in Singapore Fintech Festival (SFF 2024)</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-aug-judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-1.png" alt="Image 1" onclick="openLightbox(143)">
         <img src="https://sagungarg.com/assets/img/2024-aug-judge-series-sagungarg-singapore-sff-ai-hackcelerator-2024-challenge-2.png" alt="Image 2" onclick="openLightbox(144)">
       </div> 
   </div>  
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇺🇸 July 2024: Panel discussion at Bitcoin Nashville Conference</h2>
-    <div class="topic-badge">Bitcoin's Role in Traditional Banks</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Bitcoin's Role in Traditional Banks</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-1.png" alt="Image 1" onclick="openLightbox(145)">
         <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-2.png" alt="Image 2" onclick="openLightbox(146)">
@@ -574,10 +586,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-july-speaker-series-sagun-garg-usa-july2024-bitcoinconference-nashville-2024-4.png" alt="Image 4" onclick="openLightbox(148)">
       </div>  
   </div> 
-
+---
   <div id="tab-avc" class="tab-content" style="display: block;">
     <h2>🇸🇬 July 2024: Industry Competition in GenAI LLMs</h2>
-    <div class="topic-badge">GenAI Narrative builder for portfolio re-assesment factually matching internal house view</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">GenAI Narrative builder for portfolio re-assesment factually matching internal house view</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-1.png" alt="Image 1" onclick="openLightbox(149)">
         <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-2.png" alt="Image 2" onclick="openLightbox(150)">
@@ -585,10 +597,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-july-presenter-series-singapore-google-edb-ai-llm-genai-trailblazers-competition-4.png" alt="Image 4" onclick="openLightbox(152)">
       </div>
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇭🇰 May 2024: Panel discussion at Bitcoin Conference Asia 2024</h2>
-    <div class="topic-badge">Miniscript & Bitcoin Inheritance Planning</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Miniscript & Bitcoin Inheritance Planning</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-1.png" alt="Image 1" onclick="openLightbox(153)">
         <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-2.png" alt="Image 2" onclick="openLightbox(154)">
@@ -596,10 +608,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-sagun-garg-may2024-miniscript-bitcoin-inheritance-bitcoinconference-hongkong-4.png" alt="Image 4" onclick="openLightbox(156)">
       </div>
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇺🇸 May 2024: Students from Indiana University - Kelley School of Business</h2>
-    <div class="topic-badge">Fireside Chat on Bitcoin, Crypto and Tokenization</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Fireside Chat on Bitcoin, Crypto and Tokenization</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-1.png" alt="Image 1" onclick="openLightbox(157)">
         <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-2.png" alt="Image 2" onclick="openLightbox(158)">
@@ -607,10 +619,10 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-may-speaker-series-singapore-students-business-school-sagungarg-bitcoin-digital-assets-4.png" alt="Image 4" onclick="openLightbox(160)">
       </div>
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇸🇬 March 2024: Guest speaker organised by Plug & Play Tech Center</h2>
-    <div class="topic-badge">Blockhain and RWA Tokenization</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Blockhain and RWA Tokenization</a>
     <a href="https://www.linkedin.com/posts/sagungarg_web3-defi-tokenisation-activity-7172541301182197760-ZBvB" target="_blank" rel="noopener noreferrer">Linkedin Post</a>
     <a href="https://www.plugandplaytechcenter.com/" target="_blank" rel="noopener noreferrer">Plug & Play Tech Center</a>
       <div class="scroll-container">
@@ -618,69 +630,69 @@ layout: default
         <img src="https://sagungarg.com/assets/img/2024-mar-speaker-series-sagun-garg-march2024-plugandplay-aelf-web3-from-web2-journey-singapore-2.png" alt="Image 2" onclick="openLightbox(162)">
       </div>
   </div>
-
+---
   <div id="tab-btc" class="tab-content" style="display: block;">
     <h2>🇸🇬 January 2024: Investor - Judge for Tenity Singapore Incubation Batch 7</h2>
-    <div class="topic-badge">Startup Judging Panel</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Startup Judging Panel</a>
     <a href="https://www.tenity.com/programs/singapore-incubation-batch-7" target="_blank" rel="noopener noreferrer">Link To Event</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-jan-judge-sagun-garg-tenity-singapore-incubation-batch7-1.png" alt="Image 1" onclick="openLightbox(163)">
         <img src="https://sagungarg.com/assets/img/2024-jan-judge-sagun-garg-tenity-singapore-incubation-batch7-2.png" alt="Image 2" onclick="openLightbox(164)">
       </div>
   </div>
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 December 2023: Singapore SMU professor Series</h2>
-    <div class="topic-badge">Intersection of Web3 and AI for Digital Assets</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Intersection of Web3 and AI for Digital Assets</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-nov-speaker-series-sagun-garg-web3-singapore-smu-professor.png" alt="Image 1" onclick="openLightbox(165)">
       </div>
   </div>
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 December 2023: Competition: Corporate Innovation Challenge</h2>
-    <div class="topic-badge">GenAI: Using LLMs building Impactful Corporate Cost Saving Applications</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">GenAI: Using LLMs building Impactful Corporate Cost Saving Applications</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-nov-competition-sagun-garg-sff-launchpad-booth-sophie-product-1.png" alt="Image 1" onclick="openLightbox(166)">
       </div>
   </div>
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 November 2023: Investor - Judge at Carta Investor program</h2>
-    <div class="topic-badge">Zero To One Angel Investments & Mentorship</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Zero To One Angel Investments & Mentorship</a>
     <a href="https://www.fintechfestival.sg/investor-hours" target="_blank" rel="noopener noreferrer">Link To Event</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-nov-judge-sagun-garg-carta-investor-ambassador-sff-2023-1.png" alt="Image 1" onclick="openLightbox(167)">
         <img src="https://sagungarg.com/assets/img/2023-nov-judge-sagun-garg-carta-investor-ambassador-sff-2023-2.png" alt="Image 2" onclick="openLightbox(168)">
       </div>
   </div>
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 November 2023: Speaker - At Hustle Fund Angel Squad event</h2>
-    <div class="topic-badge">Evolution of Bitcoin and Web3 in next coming 1 year</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Evolution of Bitcoin and Web3 in next coming 1 year</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-nov-speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-1.png" alt="Image 1" onclick="openLightbox(169)">
         <img src="https://sagungarg.com/assets/img/2023-nov-speaker-series-sagun-hustlefund-angelsquad-crypto-nov2023-2.png" alt="Image 2" onclick="openLightbox(170)">
       </div>
   </div>
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇸🇬 July 2023: Judge for Hackcelerator AI Startup Competition</h2>
-    <div class="topic-badge">MAS AI Competition to evaluate global Startups for upcoming SFF 2023</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">MAS AI Competition to evaluate global Startups for upcoming SFF 2023</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-july-judge-series-sagungarg-singapore-mas-ai-fintech-challenge.png" alt="Image 1" onclick="openLightbox(171)">
       </div>
   </div>
-
+---
   <div id="tab-aiml" class="tab-content" style="display: block;">
     <h2>🇨🇭 June 2023: Speaker - Master Class in Zurich</h2>
-    <div class="topic-badge">Customer Money versus VC Money</div>
+    <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Customer Money versus VC Money</a>
     <a href="https://www.tenity.com" target="_blank" rel="noopener noreferrer">Tenity Accelerator</a>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2023-jun-speaker-series-sagun-zurich-master-class-tenity-batch-jun2023.png" alt="Image 1" onclick="openLightbox(200)">
       </div>
   </div>
-
+---
 <!-- Lightbox container -->
 <div id="lightbox" class="lightbox" onclick="closeLightbox()">
   <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
@@ -688,7 +700,6 @@ layout: default
   <img id="lightbox-img" src="" alt="" onclick="event.stopPropagation();">
   <span class="arrow arrow-right" onclick="event.stopPropagation(); changeImage(1)">&#10095;</span>
 </div>
-
 
 <script>
   // Store all images in a single array when the page loads
@@ -762,11 +773,11 @@ layout: default
 </script>
 
 
-
+<!-- 
 A. **May 2024**: Sagun has been nominated as a Speaker at Bitcoin Asia Hong Kong conference: Topic of Miniscript: Future of Inheritance in Bitcoin
 
 B.**Jan 2024**: Nominated as Judge for Tenity incubator in Singapore for selecting various startups, Inriskable was shortlisted for the name screening & source of wealth use case in the private bank space, a proof of concept within the Bank Julius Baer Innovation Lab in the Singapore office
 
 C.**Sep 2023**: I mentored an incoming batch of entrepreneurs at Tenity, in Zurich Switzerland with a master class on Venture Capital and Entrepreneurship. Ran a masterclass for batch of 50+ Entrepreneurs on the Topic
 
-D.**June 2023**: I was nominated as round 1 Judge of AI in Finance Hackcelerator SG competition, conducted by MAS, for various startups. I closely worked with KOK Li Wen for evaluations at Fintech & Innovation Group of MAS
+D.**June 2023**: I was nominated as round 1 Judge of AI in Finance Hackcelerator SG competition, conducted by MAS, for various startups. I closely worked with KOK Li Wen for evaluations at Fintech & Innovation Group of MAS -->
