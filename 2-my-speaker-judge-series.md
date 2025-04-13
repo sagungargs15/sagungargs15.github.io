@@ -289,7 +289,7 @@ layout: default
   </div> -->
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
+    🇭🇰 <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
     <div class="topic-badge">Bitcoin as next global reserve asset</div>
     <div class="scroll-container">
       <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-bitcoin-as-new-reserve-asset-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -301,7 +301,7 @@ layout: default
   </div>  
 ---
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
+    🇭🇰 <h2>April 2025: Web3 Festival in Hong Kong at the Bitcoin Stage</h2>
     <div class="topic-badge">Bitcoin pizza in new Age</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-apr-hongkong-bitcoin-stage-web-festival-bitcoin-in-new-pizza-age-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -313,7 +313,7 @@ layout: default
   </div>  
 ---
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Fintech Live Virtual Conference in Singapore</h2>
+    🇸🇬 <h2>February 2025: Fintech Live Virtual Conference in Singapore</h2>
     <div class="topic-badge">Bitcoin and lightning payments is the new fintech?</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-singapore-fintech-live-conference-bitcoin-lightning-payments-new-fintech-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -323,7 +323,7 @@ layout: default
   </div>
 ---  
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
+    🇭🇰 <h2>February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
     <div class="topic-badge">Are Custody Providers Adequately Supporting the Needs of Tokenization</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -337,7 +337,7 @@ layout: default
   </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week</h2>
+    🇭🇰 <h2>February 2025: Bitcoin Lightning Connect Summit in Hong Kong during Consensus Conference Week</h2>
     <div class="topic-badge">Breaking Barriers: How Lightning Unlocks P2P Money</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -352,7 +352,7 @@ layout: default
 
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>January 2025: Halborn Digital Assets Security Summit at NYSE, New York, USA</h2>
+    🇺🇸 <h2>January 2025: Halborn Digital Assets Security Summit at NYSE, New York, USA</h2>
     <p>"Enhancing DLT Security: Strategies for Risk, Compliance, and Financial Integrity"</p>
     <div class="topic-badge">Bitcoin as next global reserve asset</div>
       <div class="scroll-container">
@@ -367,7 +367,7 @@ layout: default
   </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
+    🇦🇪 <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
     <div class="topic-badge">Bitcoin Venture Capital and Private Equity</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-vc-panel-abu-dhabi-financial-week-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -378,7 +378,7 @@ layout: default
   </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
+    🇦🇪 <h2>December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
     <div class="topic-badge">Bitcoin the Real Fintech</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-institutional-day-bitcoin-as-fintech-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -389,7 +389,7 @@ layout: default
   </div>  
 
   <div id="tab-btc" class="tab-content" style="display: block;">  
-    <h2>December 2024: Bitcoin MENA Conference in Abu Dhabi</h2>
+    🇦🇪 <h2>December 2024: Bitcoin MENA Conference in Abu Dhabi</h2>
     <div class="topic-badge">Building the Tools for Institutional Adoption: Hardware and Software</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-dec-bitcoin-mena-conference-bitcoin-institutional-infra-tools-abu-dhabi-financial-week-adfw-1.png" alt="Image 1" onclick="openLightbox(0)">
@@ -400,7 +400,7 @@ layout: default
   </div>  
 
   <div id="tab-aiml" class="tab-content" style="display: block;">  
-    <h2>November 2024: GFTN Elevandi Insights Forum during Singapore Fintech Festival</h2>
+    🇸🇬 <h2>November 2024: GFTN Elevandi Insights Forum during Singapore Fintech Festival</h2>
     <div class="topic-badge">Building Trust in Era of AI: Fostering Public Private Collaboration to Scale AI Responsibly</div>
       <div class="scroll-container">
         <img src="https://sagungarg.com/assets/img/2024-nov-singapore-fintech-festival-gftn-elevandi-insights-building-trust-ai-era-1.png" alt="Image 1" onclick="openLightbox(0)">
