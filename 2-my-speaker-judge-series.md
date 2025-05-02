@@ -339,27 +339,27 @@ layout: default
     <h2>🇭🇰 February 2025: Digital Assets Week in Hong Kong after Consensus Conference Week</h2>
     <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Are Custody Providers Adequately Supporting the Needs of Tokenization</a>
       <div class="scroll-container">
-        <img src="..." alt="Image 1" onclick="openLightbox(53)">
-        <img src="..." alt="Image 2" onclick="openLightbox(54)">
-        <img src="..." alt="Image 3" onclick="openLightbox(55)">
-        <img src="..." alt="Image 4" onclick="openLightbox(56)">
-        <img src="..." alt="Image 5" onclick="openLightbox(57)">
-        <img src="..." alt="Image 6" onclick="openLightbox(58)">
-        <img src="..." alt="Image 7" onclick="openLightbox(59)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-1.png" alt="Image 1" onclick="openLightbox(53)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-2.png" alt="Image 2" onclick="openLightbox(54)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-3.png" alt="Image 3" onclick="openLightbox(55)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-4.png" alt="Image 4" onclick="openLightbox(56)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-5.png" alt="Image 5" onclick="openLightbox(57)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-6.png" alt="Image 6" onclick="openLightbox(58)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-digitalassetsweek-tokenization-custody-julietmedia-hongkong-7.png" alt="Image 7" onclick="openLightbox(59)">
       </div>
   </div>  
----
+--- 
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇭🇰 February 2025: Bitcoin Lightning Connect Summit in Hong Kong</h2>
     <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Breaking Barriers: How Lightning Unlocks P2P Money</a>
       <div class="scroll-container">
-        <img src="..." alt="Image 1" onclick="openLightbox(60)">
-        <img src="..." alt="Image 2" onclick="openLightbox(61)">
-        <img src="..." alt="Image 3" onclick="openLightbox(62)">
-        <img src="..." alt="Image 4" onclick="openLightbox(63)">
-        <img src="..." alt="Image 5" onclick="openLightbox(64)">
-        <img src="..." alt="Image 6" onclick="openLightbox(65)">
-        <img src="..." alt="Image 7" onclick="openLightbox(66)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-1.png" alt="Image 1" onclick="openLightbox(60)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-2.png" alt="Image 2" onclick="openLightbox(61)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-3.png" alt="Image 3" onclick="openLightbox(62)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-4.png" alt="Image 4" onclick="openLightbox(63)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-5.png" alt="Image 5" onclick="openLightbox(64)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-6.png" alt="Image 6" onclick="openLightbox(65)">
+        <img src="https://sagungarg.com/assets/img/2025-feb-speaker-series-sagun-garg-HK-feb2025-interoperability-lightningconnect-hongkong-7.png" alt="Image 7" onclick="openLightbox(66)">
       </div>
   </div>  
 ---
@@ -367,15 +367,15 @@ layout: default
     <h2>🇺🇸 January 2025: Halborn Digital Assets Security Summit at NYSE, New York, USA</h2>
     <a href="https://bitcoin.org/bitcoin.pdf" class="topic-badge">Enhancing DLT security: strategies for risk, compliance, and integrity</a>
       <div class="scroll-container">
-        <img src="..." alt="Image 1" onclick="openLightbox(67)">
-        <img src="..." alt="Image 2" onclick="openLightbox(68)">
-        <img src="..." alt="Image 3" onclick="openLightbox(69)">
-        <img src="..." alt="Image 4" onclick="openLightbox(70)">
-        <img src="..." alt="Image 5" onclick="openLightbox(71)">
-        <img src="..." alt="Image 6" onclick="openLightbox(72)">
-        <img src="..." alt="Image 7" onclick="openLightbox(73)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-1.png" alt="Image 1" onclick="openLightbox(67)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-2.png" alt="Image 2" onclick="openLightbox(68)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-3.png" alt="Image 3" onclick="openLightbox(69)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-4.png" alt="Image 4" onclick="openLightbox(70)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-5.png" alt="Image 5" onclick="openLightbox(71)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-6.png" alt="Image 6" onclick="openLightbox(72)">
+        <img src="https://sagungarg.com/assets/img/2025-jan-speaker-series-sagun-garg-usa-jan2025-digitalassets-halborn-securitysummit-newyork-7.png" alt="Image 7" onclick="openLightbox(73)">
       </div>
-  </div>  
+  </div>
 ---
   <div id="tab-btc" class="tab-content" style="display: block;">  
     <h2>🇦🇪 December 2024: Bitcoin Institutional Day - Abu Dhabi, UAE</h2>
